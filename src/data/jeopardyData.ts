@@ -53,14 +53,14 @@ export const categories: Category[] = [
   {
     name: "Music and Movies",
     questions: [
-      { points: 100, question: "This 1997 film features the song 'My Heart Will Go On'.", answer: "What is Titanic?", revealed: false },
-      { points: 200, question: "The King of Pop who moonwalked his way to fame.", answer: "Who is Michael Jackson?", revealed: false },
-      { points: 300, question: "This film franchise features a wizard named Harry.", answer: "What is Harry Potter?", revealed: false },
-      { points: 400, question: "Freddie Mercury was the lead singer of this rock band.", answer: "What is Queen?", revealed: false },
-      { points: 500, question: "This 1994 film has Morgan Freeman and Tim Robbins in prison.", answer: "What is The Shawshank Redemption?", revealed: false },
-      { points: 600, question: "This composer wrote the scores for Star Wars and Indiana Jones.", answer: "Who is John Williams?", revealed: false },
-      { points: 700, question: "The first feature-length animated Disney film.", answer: "What is Snow White and the Seven Dwarfs?", revealed: false },
-      { points: 800, question: "This Swedish group gave us 'Dancing Queen'.", answer: "Who is ABBA?", revealed: false },
+      { points: 100, question: "This 1990 holiday comedy traps burglars with booby traps after being left behind.", answer: "What is Home Alone?", revealed: false },
+      { points: 200, question: "1993's dinosaur blockbuster set in a theme park with a very bad safety record.", answer: "What is Jurassic Park?", revealed: false },
+      { points: 300, question: "This 1994 Tom Hanks film teaches us that life is like a box of chocolates.", answer: "What is Forrest Gump?", revealed: false },
+      { points: 400, question: "This 1994 crime film features hitmen, a mysterious briefcase, and a dance contest.", answer: "What is Pulp Fiction?", revealed: false },
+      { points: 500, question: "This 1995 Pixar film introduced Woody and Buzz Lightyear.", answer: "What is Toy Story?", revealed: false },
+      { points: 600, question: "In this 1997 sci-fi comedy, agents protect Earth from aliens while wearing black suits.", answer: "What is Men in Black?", revealed: false },
+      { points: 700, question: "This 1999 film asks you to choose between a red pill and a blue pill.", answer: "What is The Matrix?", revealed: false },
+      { points: 800, question: "This 1991 thriller features Hannibal Lecter and the line about 'putting the lotion in the basket'.", answer: "What is The Silence of the Lambs?", revealed: false },
     ],
   },
   {
