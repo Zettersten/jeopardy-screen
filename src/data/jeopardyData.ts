@@ -40,14 +40,14 @@ export const categories: Category[] = [
   {
     name: "Pen Is Mightier",
     questions: [
-      { points: 100, question: "This author wrote 'Romeo and Juliet'.", answer: "Who is William Shakespeare?", revealed: false },
-      { points: 200, question: "The first amendment protects this freedom.", answer: "What is freedom of speech/press?", revealed: false },
-      { points: 300, question: "This document begins with 'We the People'.", answer: "What is the US Constitution?", revealed: false },
-      { points: 400, question: "Martin Luther King Jr. wrote this letter from a Birmingham jail.", answer: "What is 'Letter from Birmingham Jail'?", revealed: false },
-      { points: 500, question: "This ancient writing system used wedge-shaped marks.", answer: "What is cuneiform?", revealed: false },
-      { points: 600, question: "Thomas Paine's pamphlet that inspired American independence.", answer: "What is 'Common Sense'?", revealed: false },
-      { points: 700, question: "This Russian author wrote 'War and Peace'.", answer: "Who is Leo Tolstoy?", revealed: false },
-      { points: 800, question: "The Rosetta Stone helped decode this ancient script.", answer: "What are Egyptian hieroglyphics?", revealed: false },
+      { points: 100, question: "This author wrote the Harry Potter series.", answer: "Who is J.K. Rowling?", revealed: false },
+      { points: 200, question: "In The Lion, the Witch and the Wardrobe, this is the enchanted land the Pevensie children enter.", answer: "What is Narnia?", revealed: false },
+      { points: 300, question: "In The Hunger Games, this is the name of the protagonist who volunteers as tribute for her sister.", answer: "Who is Katniss Everdeen?", revealed: false },
+      { points: 400, question: "In Fifty Shades of Grey, this is the first name of Mr. Grey.", answer: "Who is Christian?", revealed: false },
+      { points: 500, question: "This bestselling psychological thriller by Gillian Flynn centers on the disappearance of Amy Dunne.", answer: "What is Gone Girl?", revealed: false },
+      { points: 600, question: "This novel by Dan Brown begins with a murder in the Louvre and features symbologist Robert Langdon.", answer: "What is The Da Vinci Code?", revealed: false },
+      { points: 700, question: "This Jane Austen novel opens with the idea that a wealthy single man must be in want of a wife.", answer: "What is Pride and Prejudice?", revealed: false },
+      { points: 800, question: "This Delia Owens bestseller follows Kya, known as the 'Marsh Girl,' in coastal North Carolina.", answer: "What is Where the Crawdads Sing?", revealed: false },
     ],
   },
   {
