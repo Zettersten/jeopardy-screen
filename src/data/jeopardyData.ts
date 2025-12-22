@@ -92,14 +92,14 @@ export const categories: Category[] = [
   {
     name: "Where's The Gym?",
     questions: [
-      { points: 100, question: "This exercise targets the biceps using a barbell or dumbbells.", answer: "What is a curl?", revealed: false },
-      { points: 200, question: "The recommended daily step count for health.", answer: "What is 10,000 steps?", revealed: false },
-      { points: 300, question: "This muscle group is located on the back of the upper arm.", answer: "What are the triceps?", revealed: false },
-      { points: 400, question: "HIIT stands for this type of training.", answer: "What is High-Intensity Interval Training?", revealed: false },
-      { points: 500, question: "This compound lift is known as the 'King of Exercises'.", answer: "What is the squat?", revealed: false },
-      { points: 600, question: "The largest muscle in the human body.", answer: "What is the gluteus maximus?", revealed: false },
-      { points: 700, question: "This Greek physician is considered the father of medicine.", answer: "Who is Hippocrates?", revealed: false },
-      { points: 800, question: "VO2 max measures this aspect of fitness.", answer: "What is cardiovascular endurance?", revealed: false },
+      { points: 100, question: "This machine with a moving belt is the go-to for indoor running and walking.", answer: "What is a treadmill?", revealed: false },
+      { points: 200, question: "This shoulder muscle shares its name with a Greek letter.", answer: "What is the deltoid?", revealed: false },
+      { points: 300, question: "This long thigh bone is the largest bone in the human body.", answer: "What is the femur?", revealed: false },
+      { points: 400, question: "This muscle group on the front of your thigh is the prime mover in many leg extensions.", answer: "What are the quadriceps?", revealed: false },
+      { points: 500, question: "This free-weight bar used for heavy compound lifts is typically 45 pounds in the U.S.", answer: "What is an Olympic barbell?", revealed: false },
+      { points: 600, question: "Burn Boot Camp markets a joint-friendly, shock-absorbing training surface under this two-word name.", answer: "What is the floating floor?", revealed: false },
+      { points: 700, question: "This powerhouse muscle is the primary mover in deadlifts and hip hinges.", answer: "What is the gluteus maximus?", revealed: false },
+      { points: 800, question: "This machine targets the latissimus dorsi with a handle you pull down from overhead.", answer: "What is the lat pulldown machine?", revealed: false },
     ],
   },
 ];
