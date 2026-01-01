@@ -60,6 +60,21 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
+## Jeopardy question data (rules of the repo)
+
+We **do not need UI changes** for routine content refreshes. Updates should target the Jeopardy categories + clues data only:
+
+- **Data file**: `src/data/jeopardyData.ts`
+- **Rules / guidelines**: `docs/JEOPARDY_DATA_RULES.md`
+
+Validate changes locally:
+
+```sh
+npm run validate:data
+npm run build
+npm run lint
+```
+
 ## How can I deploy this project?
 
 Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.

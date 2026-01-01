@@ -196,7 +196,8 @@ export const categories: Category[] = [
       },
       {
         points: 200,
-        question: "The 1998 album The Miseducation of Lauryn Hill is credited to this artist.",
+        question:
+          "A former member of The Fugees, she won the Grammy for Album of the Year for a 1998 solo debut that shares her full name.",
         answer: "Who is Lauryn Hill?",
         revealed: false,
       },
