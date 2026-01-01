@@ -12,406 +12,426 @@ export interface Category {
 
 export const categories: Category[] = [
   {
-    name: "90S TV TIME",
+    name: "KIDS' CARTOONS (90S/00S)",
     questions: [
       {
         points: 100,
-        question: "Central Perk is the coffee-shop hangout on this NBC sitcom that debuted in 1994.",
-        answer: "What is Friends?",
+        question: "A cheerful fry cook lives in a pineapple under the sea in this Nickelodeon series that debuted in 1999.",
+        answer: "What is SpongeBob SquarePants?",
         revealed: false,
       },
       {
         points: 200,
-        question: "FBI agents Mulder and Scully investigate the paranormal on this series that premiered in 1993.",
-        answer: "What is The X-Files?",
+        question:
+          "Four pizza-loving brothers trained by a rat and named for Renaissance artists fight crime in a long-running franchise.",
+        answer: "What are the Teenage Mutant Ninja Turtles?",
         revealed: false,
       },
       {
         points: 300,
-        question: "This Nickelodeon adventure game show filmed at Universal Studios Florida featured a talking head named Olmec.",
-        answer: "What is Legends of the Hidden Temple?",
+        question:
+          "Nickelodeon followed a diapered trio—Tommy, Chuckie, and twins—with big imaginations in this animated series.",
+        answer: "What is Rugrats?",
         revealed: false,
       },
       {
         points: 400,
-        question: "On Family Matters, this bespectacled neighbor often asked, “Did I do that?”",
-        answer: "Who is Steve Urkel?",
+        question:
+          "The Warner siblings (and their sister) wreak havoc after being discovered in a studio water tower on this series.",
+        answer: "What is Animaniacs?",
         revealed: false,
       },
       {
         points: 500,
         question:
-          "Keenen Ivory Wayans created this 1990–1994 sketch comedy series that helped launch Jim Carrey and Jamie Foxx.",
-        answer: "What is In Living Color?",
+          "A fourth-grader with a football-shaped head lives in a city boarding house with his grandparents in this Nickelodeon show.",
+        answer: "What is Hey Arnold!?",
         revealed: false,
       },
       {
         points: 600,
         question:
-          "This HBO drama debuted in 1999, following a New Jersey mob boss in therapy; its title is plural.",
-        answer: "What is The Sopranos?",
+          "This MTV cartoon features two dimwitted metalhead teens who frequently comment on music videos between misadventures.",
+        answer: "What is Beavis and Butt-Head?",
         revealed: false,
       },
       {
         points: 700,
         question:
-          "This 1993–2004 NBC sitcom set in Seattle stars a radio psychiatrist and is a spinoff of Cheers.",
-        answer: "What is Frasier?",
+          "A time-displaced warrior battles the shape-shifting villain Aku in this Cartoon Network action series.",
+        answer: "What is Samurai Jack?",
         revealed: false,
       },
       {
         points: 800,
         question:
-          "“Not that there’s anything wrong with that” is repeated in the episode “The Outing” of this NBC sitcom.",
-        answer: "What is Seinfeld?",
+          "A 1990s/00s phenomenon with gym badges and a handheld game craze, its mascot is an electric mouse.",
+        answer: "What is Pokémon?",
         revealed: false,
       },
     ],
   },
   {
-    name: "Y2K TECH & THE WEB",
+    name: "INTERNET BEFORE SOCIAL MEDIA",
     questions: [
       {
         points: 100,
         question:
-          "Founded in 1998 by two Stanford PhD students, this search engine’s name riffs on 10^100.",
-        answer: "What is Google?",
+          "This dial-up service popularized the phrase “You’ve got mail!” and flooded inboxes with trial CDs in the 1990s.",
+        answer: "What is AOL?",
         revealed: false,
       },
       {
         points: 200,
-        question: "This peer-to-peer music sharing service launched in 1999 and was associated with Shawn Fanning.",
-        answer: "What is Napster?",
+        question: "A common chat abbreviation meaning you stepped away from the keyboard.",
+        answer: "What is AFK?",
         revealed: false,
       },
       {
         points: 300,
-        question: "Microsoft released this operating system in 2001; its default wallpaper is often called “Bliss.”",
-        answer: "What is Windows XP?",
+        question:
+          "This early 2000s peer-to-peer music downloader had a swirly logo and a name that’s also a citrus fruit.",
+        answer: "What is LimeWire?",
         revealed: false,
       },
       {
         points: 400,
         question:
-          "This collaboratively edited online encyclopedia launched in 2001 and was co-founded by Jimmy Wales.",
-        answer: "What is Wikipedia?",
+          "In the 2000s, “friend lists” and “communities” were core features of this long-running journaling platform.",
+        answer: "What is LiveJournal?",
         revealed: false,
       },
       {
         points: 500,
         question:
-          "Google launched this email service on April 1, 2004, famously advertising 1 GB of storage at launch.",
-        answer: "What is Gmail?",
+          "This three-letter web syndication format let you subscribe to site updates in a reader like Google Reader.",
+        answer: "What is RSS?",
         revealed: false,
       },
       {
         points: 600,
         question:
-          "Apple introduced this portable music player in 2001 with the slogan “1,000 songs in your pocket.”",
+          "Minimalist and mostly text-based, this classifieds site started in the mid-1990s as an email list for a U.S. city.",
+        answer: "What is Craigslist?",
+        revealed: false,
+      },
+      {
+        points: 700,
+        question:
+          "This early social network was known for custom profile music and the drama of choosing a “Top 8.”",
+        answer: "What is Myspace?",
+        revealed: false,
+      },
+      {
+        points: 800,
+        question:
+          "Its name sounds like “I seek you,” and it was one of the first widely used instant-messaging services.",
+        answer: "What is ICQ?",
+        revealed: false,
+      },
+    ],
+  },
+  {
+    name: "GADGETS & GAME CHANGERS",
+    questions: [
+      {
+        points: 100,
+        question:
+          "Apple marketed this 2001 portable music player with the slogan “1,000 songs in your pocket.”",
         answer: "What is the iPod?",
         revealed: false,
       },
       {
-        points: 700,
-        question:
-          "Founded in 2005, this video-sharing site was acquired by Google the following year.",
-        answer: "What is YouTube?",
-        revealed: false,
-      },
-      {
-        points: 800,
-        question:
-          "When Apple unveiled the first iPhone in 2007, it ran this operating system name before it was later renamed for the whole device line.",
-        answer: "What is iPhone OS?",
-        revealed: false,
-      },
-    ],
-  },
-  {
-    name: "BLOCKBUSTERS (90S/00S)",
-    questions: [
-      {
-        points: 100,
-        question: "In this 1999 sci-fi film, Morpheus offers a red pill and a blue pill.",
-        answer: "What is The Matrix?",
-        revealed: false,
-      },
-      {
         points: 200,
-        question: "Released in 1995, this Pixar film was the first feature-length movie made entirely with CGI.",
-        answer: "What is Toy Story?",
+        question:
+          "Nintendo introduced this 2004 handheld with two screens and a stylus, making touch controls mainstream for portable gaming.",
+        answer: "What is the Nintendo DS?",
         revealed: false,
       },
       {
         points: 300,
         question:
-          "This 2001 fantasy film opens with a prologue about the forging of rings and the fate of one in particular.",
-        answer: "What is The Lord of the Rings: The Fellowship of the Ring?",
+          "Microsoft entered the console market in 2001 with this system whose name includes a single letter.",
+        answer: "What is the Xbox?",
         revealed: false,
       },
       {
         points: 400,
         question:
-          "A meteor threatens Earth in this 1998 blockbuster whose soundtrack includes Aerosmith’s “I Don’t Want to Miss a Thing.”",
-        answer: "What is Armageddon?",
+          "Sony’s CD-based console launched in the mid-1990s and became one of the best-selling game systems ever.",
+        answer: "What is the PlayStation?",
         revealed: false,
       },
       {
         points: 500,
         question:
-          "This 2001 animated film won the first Academy Award for Best Animated Feature and stars an ogre and a donkey.",
-        answer: "What is Shrek?",
+          "Nintendo’s 2006 console pushed motion controls into living rooms and has a three-letter name.",
+        answer: "What is the Wii?",
         revealed: false,
       },
       {
         points: 600,
         question:
-          "This 2000 thriller tells its story out of order as a man with anterograde amnesia hunts for a killer.",
-        answer: "What is Memento?",
+          "Amazon’s 2007 e-reader helped popularize buying and carrying digital books on a dedicated device.",
+        answer: "What is the Kindle?",
         revealed: false,
       },
       {
         points: 700,
         question:
-          "This 2006 crime drama set in Boston won Best Picture and features rival moles in the police and the mob.",
+          "Google’s open-source mobile operating system, whose releases are famously named after desserts.",
+        answer: "What is Android?",
+        revealed: false,
+      },
+      {
+        points: 800,
+        question:
+          "Unveiled in 2007, Apple’s first multitouch smartphone launched without an App Store (which arrived the following year).",
+        answer: "What is the iPhone?",
+        revealed: false,
+      },
+    ],
+  },
+  {
+    name: "BEST PICTURE (90S/00S)",
+    questions: [
+      {
+        points: 100,
+        question:
+          "This 1997 epic romance set aboard a doomed ocean liner won 11 Oscars, including Best Picture.",
+        answer: "What is Titanic?",
+        revealed: false,
+      },
+      {
+        points: 200,
+        question:
+          "A 2000 swords-and-sandals epic about a Roman general turned enslaved fighter won Best Picture.",
+        answer: "What is Gladiator?",
+        revealed: false,
+      },
+      {
+        points: 300,
+        question:
+          "This 2001 Best Picture winner is a biopic of mathematician John Nash and his struggles with mental illness.",
+        answer: "What is A Beautiful Mind?",
+        revealed: false,
+      },
+      {
+        points: 400,
+        question:
+          "Steven Spielberg directed this 1993 Holocaust drama shot largely in black-and-white, winner of Best Picture.",
+        answer: "What is Schindler's List?",
+        revealed: false,
+      },
+      {
+        points: 500,
+        question:
+          "The 2003 finale of a Middle-earth film trilogy swept 11 Oscars and won Best Picture.",
+        answer: "What is The Lord of the Rings: The Return of the King?",
+        revealed: false,
+      },
+      {
+        points: 600,
+        question:
+          "A 1999 Best Picture winner about suburban malaise features an iconic scene with a plastic bag floating in the wind.",
+        answer: "What is American Beauty?",
+        revealed: false,
+      },
+      {
+        points: 700,
+        question:
+          "A 2006 Best Picture winner about rival moles inside Boston’s police and organized crime was directed by Martin Scorsese.",
         answer: "What is The Departed?",
         revealed: false,
       },
       {
         points: 800,
-        question: "The 1999 film adaptation of Fight Club was based on a novel by this author.",
-        answer: "Who is Chuck Palahniuk?",
+        question:
+          "A 2008 Best Picture winner follows a teen from Mumbai whose life experiences help him on a TV quiz show.",
+        answer: "What is Slumdog Millionaire?",
         revealed: false,
       },
     ],
   },
   {
-    name: "90S/00S MUSIC DEEP CUTS",
+    name: "SPORTS NOSTALGIA (90–09)",
     questions: [
       {
         points: 100,
-        question: "This Seattle band’s 1991 album Nevermind includes “Smells Like Teen Spirit.”",
-        answer: "Who is Nirvana?",
+        question:
+          "In 1996, this NBA team posted a 72–10 regular-season record behind Michael Jordan and Scottie Pippen.",
+        answer: "Who are the Chicago Bulls?",
         revealed: false,
       },
       {
         points: 200,
         question:
-          "A former member of The Fugees, she won the Grammy for Album of the Year for a 1998 solo debut that shares her full name.",
-        answer: "Who is Lauryn Hill?",
+          "In 2004, this MLB team came back from a 0–3 deficit to win the ALCS and went on to end an 86-year title drought.",
+        answer: "Who are the Boston Red Sox?",
         revealed: false,
       },
       {
         points: 300,
         question:
-          "This French duo released the 2001 album Discovery, which includes “Harder, Better, Faster, Stronger.”",
-        answer: "Who is Daft Punk?",
+          "She won her first Grand Slam singles title at the 1999 U.S. Open, beginning an era-defining tennis career.",
+        answer: "Who is Serena Williams?",
         revealed: false,
       },
       {
         points: 400,
-        question: "The 1997 hit “Tubthumping” (“I get knocked down…”) was by this UK band.",
-        answer: "Who is Chumbawamba?",
+        question:
+          "He completed the “Tiger Slam” around 2000 and won the 2000 U.S. Open by 15 strokes.",
+        answer: "Who is Tiger Woods?",
         revealed: false,
       },
       {
         points: 500,
-        question: "“Hey Ya!” (2003) was released by this duo from Atlanta.",
-        answer: "Who is Outkast?",
+        question:
+          "This South Florida MLB franchise won the 1997 World Series in just its fifth season of existence.",
+        answer: "Who are the Florida Marlins?",
         revealed: false,
       },
       {
         points: 600,
-        question: "“Stan” (2000), featuring Dido, appears on this Eminem album.",
-        answer: "What is The Marshall Mathers LP?",
+        question:
+          "This French football star scored twice in the 1998 World Cup final at Stade de France.",
+        answer: "Who is Zinedine Zidane?",
         revealed: false,
       },
       {
         points: 700,
         question:
-          "The hook of “Crazy in Love” (2003) samples “Are You My Woman? (Tell Me So)” by this Chicago soul group.",
-        answer: "Who are The Chi-Lites?",
+          "At the 2008 Beijing Olympics, he won 8 gold medals in a single Games.",
+        answer: "Who is Michael Phelps?",
         revealed: false,
       },
       {
         points: 800,
         question:
-          "Pearl Jam’s 1991 album Ten takes its name from the jersey number worn by this NBA player.",
-        answer: "Who is Mookie Blaylock?",
+          "He won the 2009 NBA Finals MVP after his team beat Orlando in five games.",
+        answer: "Who is Kobe Bryant?",
         revealed: false,
       },
     ],
   },
   {
-    name: "GAMES & CONSOLES",
+    name: "BOOKS YOU READ (THEN WATCHED)",
     questions: [
       {
         points: 100,
-        question: "Nintendo’s 1996 home console was named for its 64-bit architecture.",
-        answer: "What is the Nintendo 64?",
+        question:
+          "In a 1998 novel, Stanley Yelnats is sent to a mysterious desert camp where boys dig all day for “character building.”",
+        answer: "What is Holes?",
         revealed: false,
       },
       {
         points: 200,
-        question: "This Sega console, launched in North America in 1999, was Sega’s final home console.",
-        answer: "What is the Dreamcast?",
+        question:
+          "A 2008 dystopian novel features a televised fight-to-the-death competition in a nation called Panem.",
+        answer: "What is The Hunger Games?",
         revealed: false,
       },
       {
         points: 300,
-        question: "This Blizzard MMORPG launched in 2004 and is set in Azeroth.",
-        answer: "What is World of Warcraft?",
+        question:
+          "In this Meg Cabot series, a New York teen discovers she’s heir to a European principality and gets a makeover in the film adaptation.",
+        answer: "What is The Princess Diaries?",
         revealed: false,
       },
       {
         points: 400,
         question:
-          "A 1998 Nintendo 64 shooter starring a British secret agent, this game was based on a 1995 film.",
-        answer: "What is GoldenEye 007?",
+          "A 2003 thriller novel follows a Harvard symbologist unraveling a murder mystery tied to secret societies and religious history.",
+        answer: "What is The Da Vinci Code?",
         revealed: false,
       },
       {
         points: 500,
         question:
-          "Released in 2001, Halo: Combat ____ was a flagship title for Microsoft’s original Xbox.",
-        answer: "What is Evolved?",
+          "A 1996 novel features an unnamed narrator who starts an underground brawling club that spirals into chaos.",
+        answer: "What is Fight Club?",
         revealed: false,
       },
       {
         points: 600,
         question:
-          "This 2001 GameCube launch title has the hero using a vacuum to capture ghosts in a haunted mansion.",
-        answer: "What is Luigi’s Mansion?",
+          "This 1996 novel—later adapted into a 2001 film—follows a London singleton navigating career, friendship, and romance with diary entries.",
+        answer: "What is Bridget Jones's Diary?",
         revealed: false,
       },
       {
         points: 700,
         question:
-          "The “Konami Code” became widely known in the U.S. through this 1988 NES run-and-gun that offered 30 lives.",
-        answer: "What is Contra?",
+          "A 1996 romance novel by Nicholas Sparks inspired a 2004 film starring Ryan Gosling and Rachel McAdams.",
+        answer: "What is The Notebook?",
         revealed: false,
       },
       {
         points: 800,
         question:
-          "Time travel, Lavos, and the Kingdom of Zeal are key elements of this 1995-era SNES role-playing game.",
-        answer: "What is Chrono Trigger?",
+          "Cormac McCarthy wrote this 2005 novel later adapted into a 2007 film about a drug deal gone wrong and a relentless hitman.",
+        answer: "What is No Country for Old Men?",
         revealed: false,
       },
     ],
   },
   {
-    name: "HEADLINES 1990–2009",
+    name: "2000s POP & HIP-HOP",
     questions: [
       {
         points: 100,
-        question: "Operation Desert Storm was the combat phase of this 1990–1991 conflict.",
-        answer: "What is the Gulf War?",
-        revealed: false,
-      },
-      {
-        points: 200,
-        question: "Signed in 1998 on Good Friday, this agreement helped bring peace to Northern Ireland.",
-        answer: "What is the Good Friday Agreement?",
-        revealed: false,
-      },
-      {
-        points: 300,
-        question: "In 1997, the UK handed over sovereignty of this territory to China.",
-        answer: "What is Hong Kong?",
-        revealed: false,
-      },
-      {
-        points: 400,
         question:
-          "Euro coins and banknotes entered circulation in 2002, but the currency began for electronic use in this year.",
-        answer: "What is 1999?",
-        revealed: false,
-      },
-      {
-        points: 500,
-        question: "This 2005 hurricane devastated New Orleans and much of the U.S. Gulf Coast.",
-        answer: "What is Hurricane Katrina?",
-        revealed: false,
-      },
-      {
-        points: 600,
-        question: "In 2003, a U.S.-led invasion toppled Saddam Hussein, leader of this country.",
-        answer: "What is Iraq?",
-        revealed: false,
-      },
-      {
-        points: 700,
-        question:
-          "In 2008, this investment bank filed the largest bankruptcy in U.S. history at the time.",
-        answer: "What is Lehman Brothers?",
-        revealed: false,
-      },
-      {
-        points: 800,
-        question:
-          "In 1994, this country held its first multiracial national elections, making Nelson Mandela president.",
-        answer: "What is South Africa?",
-        revealed: false,
-      },
-    ],
-  },
-  {
-    name: "BRANDS & BUZZ (90S/00S)",
-    questions: [
-      {
-        points: 100,
-        question: "This egg-shaped virtual pet from Bandai had kids feeding pixels in the late 1990s.",
-        answer: "What is a Tamagotchi?",
+          "In 2004, he told you to “drop it like it’s hot” on a chart-topping single featuring Pharrell.",
+        answer: "Who is Snoop Dogg?",
         revealed: false,
       },
       {
         points: 200,
         question:
-          "A 1990s collectible craze, these plush toys were sold with heart-shaped tags and often given “birthdays.”",
-        answer: "What are Beanie Babies?",
+          "A 2002 hit with a famous piano riff begins with the words “making my way downtown.”",
+        answer: "Who is Vanessa Carlton?",
         revealed: false,
       },
       {
         points: 300,
         question:
-          "The slogan “Got Milk?” was created for the Milk Processor Board of this U.S. state in 1993.",
-        answer: "What is California?",
+          "Her 2008 single “Paper Planes” features a hook with cash-register sounds and gunshot effects.",
+        answer: "Who is M.I.A.?",
         revealed: false,
       },
       {
         points: 400,
         question:
-          "Premiering in 2000, this reality competition show asked contestants to outwit, outplay, and outlast.",
-        answer: "What is Survivor?",
+          "This Atlanta duo released the 2003 smash “Hey Ya!” and told you to “shake it like a Polaroid picture.”",
+        answer: "Who are Outkast?",
         revealed: false,
       },
       {
         points: 500,
         question:
-          "Founded in 1997 as a DVD-by-mail company, this service introduced streaming to the U.S. in 2007.",
-        answer: "What is Netflix?",
+          "This British singer’s 2006 album Back to Black helped fuel a major soul-pop revival.",
+        answer: "Who is Amy Winehouse?",
         revealed: false,
       },
       {
         points: 600,
         question:
-          "Founded in 2003 and acquired by News Corp in 2005, this social network was a major pre-Facebook hub for music and profiles.",
-        answer: "What is Myspace?",
+          "The boy band behind “Bye Bye Bye” topped charts in 2000 and featured members like Justin Timberlake and JC Chasez.",
+        answer: "Who are *NSYNC?",
         revealed: false,
       },
       {
         points: 700,
         question:
-          "Apple introduced this media-management app in 2001; it later became closely tied to syncing early iPods.",
-        answer: "What is iTunes?",
+          "He released 808s & Heartbreak in 2008 and later interrupted an awards speech at the 2009 MTV VMAs.",
+        answer: "Who is Kanye West?",
         revealed: false,
       },
       {
         points: 800,
         question:
-          "The original iMac G3 debuted in 1998 in a translucent color named for a famous beach suburb of Sydney.",
-        answer: "What is Bondi Blue?",
+          "This singer broke through in 2006 and sang “Love Story” on her 2008 album Fearless.",
+        answer: "Who is Taylor Swift?",
         revealed: false,
       },
     ],
