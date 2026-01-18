@@ -12,426 +12,428 @@ export interface Category {
 
 export const categories: Category[] = [
   {
-    name: "KIDS' CARTOONS (90S/00S)",
+    name: "TV THEME SONGS",
     questions: [
       {
         points: 100,
-        question: "A cheerful fry cook lives in a pineapple under the sea in this Nickelodeon series that debuted in 1999.",
-        answer: "What is SpongeBob SquarePants?",
+        question:
+          "“I’ll be there for you / (When the rain starts to pour)” is the theme to this NBC sitcom.",
+        answer: "What is Friends?",
         revealed: false,
       },
       {
         points: 200,
         question:
-          "Four pizza-loving brothers trained by a rat and named for Renaissance artists fight crime in a long-running franchise.",
-        answer: "What are the Teenage Mutant Ninja Turtles?",
+          "“In West Philadelphia born and raised / On the playground was where I spent most of my days.”",
+        answer: "What is The Fresh Prince of Bel-Air?",
         revealed: false,
       },
       {
         points: 300,
         question:
-          "Nickelodeon followed a diapered trio—Tommy, Chuckie, and twins—with big imaginations in this animated series.",
-        answer: "What is Rugrats?",
+          "“You’re not the boss of me now / And you’re not so big” introduces this chaotic family sitcom.",
+        answer: "What is Malcolm in the Middle?",
         revealed: false,
       },
       {
         points: 400,
         question:
-          "The Warner siblings (and their sister) wreak havoc after being discovered in a studio water tower on this series.",
-        answer: "What is Animaniacs?",
+          "“Somebody save me / Let your warm hands break right through” plays before this Superman prequel series.",
+        answer: "What is Smallville?",
         revealed: false,
       },
       {
         points: 500,
         question:
-          "A fourth-grader with a football-shaped head lives in a city boarding house with his grandparents in this Nickelodeon show.",
-        answer: "What is Hey Arnold!?",
+          "“Everywhere you look, everywhere you go / There’s a heart (there’s a heart), a hand to hold onto.”",
+        answer: "What is Full House?",
         revealed: false,
       },
       {
         points: 600,
         question:
-          "This MTV cartoon features two dimwitted metalhead teens who frequently comment on music videos between misadventures.",
-        answer: "What is Beavis and Butt-Head?",
+          "“California, here we come / Right back where we started from” sets the mood for this teen drama.",
+        answer: "What is The O.C.?",
         revealed: false,
       },
       {
         points: 700,
         question:
-          "A time-displaced warrior battles the shape-shifting villain Aku in this Cartoon Network action series.",
-        answer: "What is Samurai Jack?",
+          "“I don’t want to wait / For our lives to be over” by Paula Cole opens this Capeside drama.",
+        answer: "What is Dawson's Creek?",
         revealed: false,
       },
       {
         points: 800,
         question:
-          "A 1990s/00s phenomenon with gym badges and a handheld game craze, its mascot is an electric mouse.",
+          "“Hangin’ out / Down the street / The same old thing / We did last week” introduces this Wisconsin-set show.",
+        answer: "What is That '70s Show?",
+        revealed: false,
+      },
+    ],
+  },
+  {
+    name: "TOYS & CRAZES",
+    questions: [
+      {
+        points: 100,
+        question:
+          "These pellet-filled plush animals came with heart-shaped tags and were promised to be valuable investments.",
+        answer: "What are Beanie Babies?",
+        revealed: false,
+      },
+      {
+        points: 200,
+        question:
+          "A cardboard milk cap game that involved stacking and slamming, popular in the mid-90s.",
+        answer: "What are Pogs?",
+        revealed: false,
+      },
+      {
+        points: 300,
+        question:
+          "This robotic owl-like creature would “learn” English the more you played with it, often waking up in the middle of the night.",
+        answer: "What is a Furby?",
+        revealed: false,
+      },
+      {
+        points: 400,
+        question:
+          "These digital pets on a keychain required feeding and cleaning up droppings to keep them alive.",
+        answer: "What are Tamagotchis?",
+        revealed: false,
+      },
+      {
+        points: 500,
+        question:
+          "This red Sesame Street plush giggled and vibrated, causing a massive holiday shopping frenzy in 1996.",
+        answer: "What is Tickle Me Elmo?",
+        revealed: false,
+      },
+      {
+        points: 600,
+        question:
+          "These small plastic dolls came in compact cases that opened to reveal tiny houses and worlds.",
+        answer: "What is Polly Pocket?",
+        revealed: false,
+      },
+      {
+        points: 700,
+        question:
+          "This sophisticated robot dog by Sony was released in 1999 and became a high-tech status symbol.",
+        answer: "What is AIBO?",
+        revealed: false,
+      },
+      {
+        points: 800,
+        question:
+          "This aluminum folding scooter with red wheels became a ubiquitous mode of transport for kids in 2000.",
+        answer: "What is a Razor Scooter?",
+        revealed: false,
+      },
+    ],
+  },
+  {
+    name: "SCHOLASTIC BOOK FAIR",
+    questions: [
+      {
+        points: 100,
+        question:
+          "R.L. Stine wrote this horror anthology series with titles like “Welcome to Dead House” and “The Haunted Mask.”",
+        answer: "What is Goosebumps?",
+        revealed: false,
+      },
+      {
+        points: 200,
+        question:
+          "This series about a boy wizard introduced terms like “Muggle” and “Quidditch” to the world.",
+        answer: "What is Harry Potter?",
+        revealed: false,
+      },
+      {
+        points: 300,
+        question:
+          "K.A. Applegate’s sci-fi series featured teens who could morph into animals to fight alien slugs.",
+        answer: "What are Animorphs?",
+        revealed: false,
+      },
+      {
+        points: 400,
+        question:
+          "This “captain” in tighty-whities hypnotized his principal in a graphic novel series by Dav Pilkey.",
+        answer: "What is Captain Underpants?",
+        revealed: false,
+      },
+      {
+        points: 500,
+        question:
+          "A series of unfortunate events plagues the Baudelaire orphans in novels by this author (a pen name).",
+        answer: "Who is Lemony Snicket?",
+        revealed: false,
+      },
+      {
+        points: 600,
+        question:
+          "Ann M. Martin created this series about a group of friends running a childcare business in Stoneybrook.",
+        answer: "What is The Baby-Sitters Club?",
+        revealed: false,
+      },
+      {
+        points: 700,
+        question:
+          "This interactive series let you make decisions that led to different endings, often gruesome ones.",
+        answer: "What is Choose Your Own Adventure?",
+        revealed: false,
+      },
+      {
+        points: 800,
+        question:
+          "Brian Jacques wrote this fantasy series featuring warrior mice, badgers, and other woodland creatures at an abbey.",
+        answer: "What is Redwall?",
+        revealed: false,
+      },
+    ],
+  },
+  {
+    name: "POP PUNK & EMO",
+    questions: [
+      {
+        points: 100,
+        question:
+          "This trio asked “What’s my age again?” and sang about “All the Small Things.”",
+        answer: "Who are Blink-182?",
+        revealed: false,
+      },
+      {
+        points: 200,
+        question:
+          "Fronted by Billie Joe Armstrong, this band’s Dookie album was a 90s staple, followed by American Idiot in 2004.",
+        answer: "Who are Green Day?",
+        revealed: false,
+      },
+      {
+        points: 300,
+        question:
+          "This band combined rap and rock on “In the End” and “Numb,” led by Chester Bennington and Mike Shinoda.",
+        answer: "Who are Linkin Park?",
+        revealed: false,
+      },
+      {
+        points: 400,
+        question:
+          "“The Middle” by this Arizona band told listeners that “it just takes some time.”",
+        answer: "Who are Jimmy Eat World?",
+        revealed: false,
+      },
+      {
+        points: 500,
+        question:
+          "This Canadian singer wore a tie over a tank top and asked a “Sk8er Boi” to see her later.",
+        answer: "Who is Avril Lavigne?",
+        revealed: false,
+      },
+      {
+        points: 600,
+        question:
+          "Gerard Way led this theatrical emo band known for “Welcome to the Black Parade.”",
+        answer: "Who are My Chemical Romance?",
+        revealed: false,
+      },
+      {
+        points: 700,
+        question:
+          "This band, led by Hayley Williams, declared “Misery Business” in 2007.",
+        answer: "Who are Paramore?",
+        revealed: false,
+      },
+      {
+        points: 800,
+        question:
+          "“Sugar, We’re Goin Down” was a breakout hit for this band featuring Pete Wentz and Patrick Stump.",
+        answer: "Who are Fall Out Boy?",
+        revealed: false,
+      },
+    ],
+  },
+  {
+    name: "CONSOLE GAMING GEMS",
+    questions: [
+      {
+        points: 100,
+        question:
+          "In this N64 shooter, you play as James Bond completing missions based on the 1995 film.",
+        answer: "What is GoldenEye 007?",
+        revealed: false,
+      },
+      {
+        points: 200,
+        question:
+          "This plumber jumped into 3D for the first time on the N64, exploring Peach’s Castle.",
+        answer: "What is Super Mario 64?",
+        revealed: false,
+      },
+      {
+        points: 300,
+        question:
+          "Master Chief battles the Covenant in this Xbox launch title that revolutionized console FPS games.",
+        answer: "What is Halo?",
+        revealed: false,
+      },
+      {
+        points: 400,
+        question:
+          "You gotta catch ’em all in Red and Blue versions of this Game Boy RPG.",
         answer: "What is Pokémon?",
         revealed: false,
       },
-    ],
-  },
-  {
-    name: "INTERNET BEFORE SOCIAL MEDIA",
-    questions: [
-      {
-        points: 100,
-        question:
-          "This dial-up service popularized the phrase “You’ve got mail!” and flooded inboxes with trial CDs in the 1990s.",
-        answer: "What is AOL?",
-        revealed: false,
-      },
-      {
-        points: 200,
-        question: "A common chat abbreviation meaning you stepped away from the keyboard.",
-        answer: "What is AFK?",
-        revealed: false,
-      },
-      {
-        points: 300,
-        question:
-          "This early 2000s peer-to-peer music downloader had a swirly logo and a name that’s also a citrus fruit.",
-        answer: "What is LimeWire?",
-        revealed: false,
-      },
-      {
-        points: 400,
-        question:
-          "In the 2000s, “friend lists” and “communities” were core features of this long-running journaling platform.",
-        answer: "What is LiveJournal?",
-        revealed: false,
-      },
       {
         points: 500,
         question:
-          "This three-letter web syndication format let you subscribe to site updates in a reader like Google Reader.",
-        answer: "What is RSS?",
+          "This PS2 game let you skateboard through open levels, collecting tapes and performing special moves.",
+        answer: "What is Tony Hawk's Pro Skater?",
         revealed: false,
       },
       {
         points: 600,
         question:
-          "Minimalist and mostly text-based, this classifieds site started in the mid-1990s as an email list for a U.S. city.",
-        answer: "What is Craigslist?",
+          "Cloud Strife wields a massive sword against Sephiroth in this defining RPG for the original PlayStation.",
+        answer: "What is Final Fantasy VII?",
         revealed: false,
       },
       {
         points: 700,
         question:
-          "This early social network was known for custom profile music and the drama of choosing a “Top 8.”",
-        answer: "What is Myspace?",
+          "This 2001 “Auto” game allowed 3D open-world chaos in Liberty City.",
+        answer: "What is Grand Theft Auto III?",
         revealed: false,
       },
       {
         points: 800,
         question:
-          "Its name sounds like “I seek you,” and it was one of the first widely used instant-messaging services.",
-        answer: "What is ICQ?",
+          "Link creates a time paradox by pulling the Master Sword from its pedestal in this 1998 classic.",
+        answer: "What is The Legend of Zelda: Ocarina of Time?",
         revealed: false,
       },
     ],
   },
   {
-    name: "GADGETS & GAME CHANGERS",
+    name: "SUMMER BLOCKBUSTERS",
     questions: [
       {
         points: 100,
         question:
-          "Apple marketed this 2001 portable music player with the slogan “1,000 songs in your pocket.”",
-        answer: "What is the iPod?",
+          "Will Smith and Jeff Goldblum fight alien invaders on July 4th in this 1996 sci-fi hit.",
+        answer: "What is Independence Day?",
         revealed: false,
       },
       {
         points: 200,
         question:
-          "Nintendo introduced this 2004 handheld with two screens and a stylus, making touch controls mainstream for portable gaming.",
-        answer: "What is the Nintendo DS?",
+          "“I see dead people,” whispers Haley Joel Osment in this 1999 M. Night Shyamalan thriller.",
+        answer: "What is The Sixth Sense?",
         revealed: false,
       },
       {
         points: 300,
         question:
-          "Microsoft entered the console market in 2001 with this system whose name includes a single letter.",
-        answer: "What is the Xbox?",
+          "Tobey Maguire spins webs and kisses upside down in this 2002 superhero origin story.",
+        answer: "What is Spider-Man?",
         revealed: false,
       },
       {
         points: 400,
         question:
-          "Sony’s CD-based console launched in the mid-1990s and became one of the best-selling game systems ever.",
-        answer: "What is the PlayStation?",
+          "Keanu Reeves learns that his reality is a simulation in this 1999 sci-fi action film.",
+        answer: "What is The Matrix?",
         revealed: false,
       },
       {
         points: 500,
         question:
-          "Nintendo’s 2006 console pushed motion controls into living rooms and has a three-letter name.",
-        answer: "What is the Wii?",
+          "“Life finds a way” in this 1993 dinosaur adventure directed by Steven Spielberg.",
+        answer: "What is Jurassic Park?",
         revealed: false,
       },
       {
         points: 600,
         question:
-          "Amazon’s 2007 e-reader helped popularize buying and carrying digital books on a dedicated device.",
-        answer: "What is the Kindle?",
+          "Agents J and K police extraterrestrial activity in this 1997 action-comedy.",
+        answer: "What is Men in Black?",
         revealed: false,
       },
       {
         points: 700,
         question:
-          "Google’s open-source mobile operating system, whose releases are famously named after desserts.",
-        answer: "What is Android?",
+          "Jim Carrey discovers his entire life is a 24-hour reality TV show in this 1998 film.",
+        answer: "What is The Truman Show?",
         revealed: false,
       },
       {
         points: 800,
         question:
-          "Unveiled in 2007, Apple’s first multitouch smartphone launched without an App Store (which arrived the following year).",
-        answer: "What is the iPhone?",
+          "Pixar’s first feature film, released in 1995, brought toys to life when humans weren’t around.",
+        answer: "What is Toy Story?",
         revealed: false,
       },
     ],
   },
   {
-    name: "BEST PICTURE (90S/00S)",
+    name: "REALITY TV BEGINNINGS",
     questions: [
       {
         points: 100,
         question:
-          "This 1997 epic romance set aboard a doomed ocean liner won 11 Oscars, including Best Picture.",
-        answer: "What is Titanic?",
+          "“The tribe has spoken” is the catchphrase used when extinguishing torches on this survival competition.",
+        answer: "What is Survivor?",
         revealed: false,
       },
       {
         points: 200,
         question:
-          "A 2000 swords-and-sandals epic about a Roman general turned enslaved fighter won Best Picture.",
-        answer: "What is Gladiator?",
+          "Simon Cowell, Paula Abdul, and Randy Jackson judged singers in this search for a superstar.",
+        answer: "What is American Idol?",
         revealed: false,
       },
       {
         points: 300,
         question:
-          "This 2001 Best Picture winner is a biopic of mathematician John Nash and his struggles with mental illness.",
-        answer: "What is A Beautiful Mind?",
+          "Seven strangers are picked to live in a house and have their lives taped in this MTV pioneer.",
+        answer: "What is The Real World?",
         revealed: false,
       },
       {
         points: 400,
         question:
-          "Steven Spielberg directed this 1993 Holocaust drama shot largely in black-and-white, winner of Best Picture.",
-        answer: "What is Schindler's List?",
+          "Wealthy socialites Paris Hilton and Nicole Richie try manual labor in this fish-out-of-water series.",
+        answer: "What is The Simple Life?",
         revealed: false,
       },
       {
         points: 500,
         question:
-          "The 2003 finale of a Middle-earth film trilogy swept 11 Oscars and won Best Picture.",
-        answer: "What is The Lord of the Rings: The Return of the King?",
+          "Tyra Banks teaches aspiring models to “smize” (smile with their eyes) in this competition.",
+        answer: "What is America's Next Top Model?",
         revealed: false,
       },
       {
         points: 600,
         question:
-          "A 1999 Best Picture winner about suburban malaise features an iconic scene with a plastic bag floating in the wind.",
-        answer: "What is American Beauty?",
+          "Ozzy Osbourne and his family opened their home to cameras in this MTV reality sitcom.",
+        answer: "What is The Osbournes?",
         revealed: false,
       },
       {
         points: 700,
         question:
-          "A 2006 Best Picture winner about rival moles inside Boston’s police and organized crime was directed by Martin Scorsese.",
-        answer: "What is The Departed?",
+          "Bachelors hand out roses to women they want to keep dating in this ABC dating show.",
+        answer: "What is The Bachelor?",
         revealed: false,
       },
       {
         points: 800,
         question:
-          "A 2008 Best Picture winner follows a teen from Mumbai whose life experiences help him on a TV quiz show.",
-        answer: "What is Slumdog Millionaire?",
-        revealed: false,
-      },
-    ],
-  },
-  {
-    name: "SPORTS NOSTALGIA (90–09)",
-    questions: [
-      {
-        points: 100,
-        question:
-          "In 1996, this NBA team posted a 72–10 regular-season record behind Michael Jordan and Scottie Pippen.",
-        answer: "Who are the Chicago Bulls?",
-        revealed: false,
-      },
-      {
-        points: 200,
-        question:
-          "In 2004, this MLB team came back from a 0–3 deficit to win the ALCS and went on to end an 86-year title drought.",
-        answer: "Who are the Boston Red Sox?",
-        revealed: false,
-      },
-      {
-        points: 300,
-        question:
-          "She won her first Grand Slam singles title at the 1999 U.S. Open, beginning an era-defining tennis career.",
-        answer: "Who is Serena Williams?",
-        revealed: false,
-      },
-      {
-        points: 400,
-        question:
-          "He completed the “Tiger Slam” around 2000 and won the 2000 U.S. Open by 15 strokes.",
-        answer: "Who is Tiger Woods?",
-        revealed: false,
-      },
-      {
-        points: 500,
-        question:
-          "This South Florida MLB franchise won the 1997 World Series in just its fifth season of existence.",
-        answer: "Who are the Florida Marlins?",
-        revealed: false,
-      },
-      {
-        points: 600,
-        question:
-          "This French football star scored twice in the 1998 World Cup final at Stade de France.",
-        answer: "Who is Zinedine Zidane?",
-        revealed: false,
-      },
-      {
-        points: 700,
-        question:
-          "At the 2008 Beijing Olympics, he won 8 gold medals in a single Games.",
-        answer: "Who is Michael Phelps?",
-        revealed: false,
-      },
-      {
-        points: 800,
-        question:
-          "He won the 2009 NBA Finals MVP after his team beat Orlando in five games.",
-        answer: "Who is Kobe Bryant?",
-        revealed: false,
-      },
-    ],
-  },
-  {
-    name: "BOOKS YOU READ (THEN WATCHED)",
-    questions: [
-      {
-        points: 100,
-        question:
-          "In a 1998 novel, Stanley Yelnats is sent to a mysterious desert camp where boys dig all day for “character building.”",
-        answer: "What is Holes?",
-        revealed: false,
-      },
-      {
-        points: 200,
-        question:
-          "A 2008 dystopian novel features a televised fight-to-the-death competition in a nation called Panem.",
-        answer: "What is The Hunger Games?",
-        revealed: false,
-      },
-      {
-        points: 300,
-        question:
-          "In this Meg Cabot series, a New York teen discovers she’s heir to a European principality and gets a makeover in the film adaptation.",
-        answer: "What is The Princess Diaries?",
-        revealed: false,
-      },
-      {
-        points: 400,
-        question:
-          "A 2003 thriller novel follows a Harvard symbologist unraveling a murder mystery tied to secret societies and religious history.",
-        answer: "What is The Da Vinci Code?",
-        revealed: false,
-      },
-      {
-        points: 500,
-        question:
-          "A 1996 novel features an unnamed narrator who starts an underground brawling club that spirals into chaos.",
-        answer: "What is Fight Club?",
-        revealed: false,
-      },
-      {
-        points: 600,
-        question:
-          "This 1996 novel—later adapted into a 2001 film—follows a London singleton navigating career, friendship, and romance with diary entries.",
-        answer: "What is Bridget Jones's Diary?",
-        revealed: false,
-      },
-      {
-        points: 700,
-        question:
-          "A 1996 romance novel by Nicholas Sparks inspired a 2004 film starring Ryan Gosling and Rachel McAdams.",
-        answer: "What is The Notebook?",
-        revealed: false,
-      },
-      {
-        points: 800,
-        question:
-          "Cormac McCarthy wrote this 2005 novel later adapted into a 2007 film about a drug deal gone wrong and a relentless hitman.",
-        answer: "What is No Country for Old Men?",
-        revealed: false,
-      },
-    ],
-  },
-  {
-    name: "2000s POP & HIP-HOP",
-    questions: [
-      {
-        points: 100,
-        question:
-          "In 2004, he told you to “drop it like it’s hot” on a chart-topping single featuring Pharrell.",
-        answer: "Who is Snoop Dogg?",
-        revealed: false,
-      },
-      {
-        points: 200,
-        question:
-          "A 2002 hit with a famous piano riff begins with the words “making my way downtown.”",
-        answer: "Who is Vanessa Carlton?",
-        revealed: false,
-      },
-      {
-        points: 300,
-        question:
-          "Her 2008 single “Paper Planes” features a hook with cash-register sounds and gunshot effects.",
-        answer: "Who is M.I.A.?",
-        revealed: false,
-      },
-      {
-        points: 400,
-        question:
-          "This Atlanta duo released the 2003 smash “Hey Ya!” and told you to “shake it like a Polaroid picture.”",
-        answer: "Who are Outkast?",
-        revealed: false,
-      },
-      {
-        points: 500,
-        question:
-          "This British singer’s 2006 album Back to Black helped fuel a major soul-pop revival.",
-        answer: "Who is Amy Winehouse?",
-        revealed: false,
-      },
-      {
-        points: 600,
-        question:
-          "The boy band behind “Bye Bye Bye” topped charts in 2000 and featured members like Justin Timberlake and JC Chasez.",
-        answer: "Who are *NSYNC?",
-        revealed: false,
-      },
-      {
-        points: 700,
-        question:
-          "He released 808s & Heartbreak in 2008 and later interrupted an awards speech at the 2009 MTV VMAs.",
-        answer: "Who is Kanye West?",
-        revealed: false,
-      },
-      {
-        points: 800,
-        question:
-          "This singer broke through in 2006 and sang “Love Story” on her 2008 album Fearless.",
-        answer: "Who is Taylor Swift?",
+          "Xzibit heard you like cars, so he put a car in your car in this MTV vehicle makeover show.",
+        answer: "What is Pimp My Ride?",
         revealed: false,
       },
     ],
