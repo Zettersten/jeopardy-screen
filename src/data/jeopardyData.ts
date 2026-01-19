@@ -12,372 +12,428 @@ export interface Category {
 
 export const categories: Category[] = [
   {
-    name: "INTERNET 1.0",
+    name: "MODERN MOVIES",
     questions: [
       {
         points: 100,
-        question: "This greeting was heard every time you signed on to AOL.",
-        answer: "What is \"You've Got Mail\"?",
+        question:
+          "This 2023 film about a doll living in a perfect world became the highest-grossing film of the year.",
+        answer: "What is Barbie?",
         revealed: false,
       },
       {
         points: 200,
-        question: "Before Google, you could ask this polite butler to search the web for you.",
-        answer: "Who is Jeeves?",
+        question:
+          "He played the father of the atomic bomb in Christopher Nolan's 2023 biopic.",
+        answer: "Who is Cillian Murphy?",
         revealed: false,
       },
       {
         points: 300,
-        question: "Shawn Fanning created this peer-to-peer file sharing service that Metallica famously sued.",
-        answer: "What is Napster?",
+        question:
+          "This multiverse-hopping A24 film swept the Oscars in 2023, winning Best Picture.",
+        answer: "What is Everything Everywhere All At Once?",
         revealed: false,
       },
       {
         points: 400,
-        question: "Before Facebook, this social network was king, and Tom was everyone's first friend.",
-        answer: "What is MySpace?",
+        question:
+          "Timothée Chalamet plays the lead in this sci-fi epic set on the desert planet Arrakis.",
+        answer: "What is Dune?",
         revealed: false,
       },
       {
         points: 500,
-        question: "This 3D rendered infant became an early viral sensation, grooving to 'Hooked on a Feeling'.",
-        answer: "What is the Dancing Baby?",
+        question:
+          "This 2022 sequel saw Tom Cruise return to the cockpit after more than 30 years.",
+        answer: "What is Top Gun: Maverick?",
         revealed: false,
       },
       {
         points: 600,
-        question: "This screeching noise was the soundtrack to connecting to the internet via phone lines.",
-        answer: "What is dial-up?",
+        question:
+          "In 2019, this South Korean thriller became the first non-English language film to win Best Picture.",
+        answer: "What is Parasite?",
         revealed: false,
       },
       {
         points: 700,
-        question: "This website featured rows of animated rodents dancing to a sped-up country song.",
-        answer: "What is the Hamster Dance?",
+        question:
+          "Joaquin Phoenix won an Oscar for his portrayal of this Batman villain in a 2019 standalone film.",
+        answer: "Who is the Joker?",
         revealed: false,
       },
       {
         points: 800,
-        question: "A badly translated cutscene from the game Zero Wing gave us this catchphrase about bases.",
-        answer: "What is \"All your base are belong to us\"?",
+        question:
+          "This director known for “Get Out” released the UFO horror film “Nope” in 2022.",
+        answer: "Who is Jordan Peele?",
         revealed: false,
       },
     ],
   },
   {
-    name: "CARTOON NETWORK CLASSICS",
+    name: "CELEBRITY BUZZ",
     questions: [
       {
         points: 100,
-        question: "This boy genius fights with his sister Dee Dee in his secret facility.",
-        answer: "Who is Dexter?",
+        question:
+          "This pop star's “Eras Tour” became the highest-grossing concert tour of all time.",
+        answer: "Who is Taylor Swift?",
         revealed: false,
       },
       {
         points: 200,
-        question: "Blossom, Bubbles, and Buttercup are known as this crime-fighting trio.",
-        answer: "Who are The Powerpuff Girls?",
+        question:
+          "She released the album “Cowboy Carter” in 2024, exploring country roots.",
+        answer: "Who is Beyoncé?",
         revealed: false,
       },
       {
         points: 300,
-        question: "This pink dog lives in the Middle of Nowhere with Muriel and Eustace.",
-        answer: "Who is Courage the Cowardly Dog?",
+        question:
+          "This actor and former wrestler is known globally as “The Rock.”",
+        answer: "Who is Dwayne Johnson?",
         revealed: false,
       },
       {
         points: 400,
-        question: "This pompadoured tough guy loves his mama but strikes out with every woman he meets.",
-        answer: "Who is Johnny Bravo?",
+        question:
+          "He famously slapped Chris Rock on stage at the 2022 Oscars ceremony.",
+        answer: "Who is Will Smith?",
         revealed: false,
       },
       {
         points: 500,
-        question: "Ed, Edd, and Eddy constantly scam the neighborhood kids to buy these giant candies.",
-        answer: "What are Jawbreakers?",
+        question:
+          "This reality star and business mogul founded the shapewear brand SKIMS.",
+        answer: "Who is Kim Kardashian?",
         revealed: false,
       },
       {
         points: 600,
-        question: "A samurai warrior is flung into the future by the shape-shifting master of darkness, Aku.",
-        answer: "Who is Samurai Jack?",
+        question:
+          "This former One Direction member won a Grammy for “Watermelon Sugar.”",
+        answer: "Who is Harry Styles?",
         revealed: false,
       },
       {
         points: 700,
-        question: "After losing a limbo game, the Grim Reaper became best friends for life with these two kids.",
-        answer: "Who are Billy and Mandy?",
+        question:
+          "She played Wednesday Addams in the hit Netflix series and starred in “Beetlejuice Beetlejuice.”",
+        answer: "Who is Jenna Ortega?",
         revealed: false,
       },
       {
         points: 800,
-        question: "This is the only phrase Dexter can say in the episode 'The Big Cheese', which makes him wildly popular.",
-        answer: "What is \"Omelette du fromage\"?",
+        question:
+          "This British actor plays Spider-Man in the MCU and is dating Zendaya.",
+        answer: "Who is Tom Holland?",
         revealed: false,
       },
     ],
   },
   {
-    name: "ONE-HIT WONDERS",
+    name: "THRILLERS & MYSTERIES",
     questions: [
       {
         points: 100,
-        question: "In 2000, the Baha Men released this barking anthem asking for the identity of the canine liberator.",
-        answer: "What is \"Who Let The Dogs Out\"?",
+        question:
+          "Daniel Craig plays detective Benoit Blanc in this “Knives Out” mystery series.",
+        answer: "What is Knives Out (or Glass Onion)?",
         revealed: false,
       },
       {
         points: 200,
-        question: "Chumbawamba sang about getting knocked down and getting up again in this boozy hit.",
-        answer: "What is \"Tubthumping\"?",
+        question:
+          "This author wrote “Gone Girl” and “Sharp Objects,” both adapted for the screen.",
+        answer: "Who is Gillian Flynn?",
         revealed: false,
       },
       {
         points: 300,
-        question: "Lou Bega listed Monica, Erica, Rita, and Tina in this number-focused mambo track.",
-        answer: "What is \"Mambo No. 5\"?",
+        question:
+          "In this 2014 film, Rosamund Pike frames her husband, played by Ben Affleck, for her murder.",
+        answer: "What is Gone Girl?",
         revealed: false,
       },
       {
         points: 400,
-        question: "Three brothers with long hair sang this gibberish chorus in 1997.",
-        answer: "What is \"MMMBop\"?",
+        question:
+          "This Netflix series follows a charming book lover named Joe Goldberg who obsesses over women.",
+        answer: "What is You?",
         revealed: false,
       },
       {
         points: 500,
-        question: "Deep Blue Something wrote this song about an Audrey Hepburn film.",
-        answer: "What is \"Breakfast at Tiffany's\"?",
+        question:
+          "This HBO series features a luxury resort where a murder mystery unfolds each season.",
+        answer: "What is The White Lotus?",
         revealed: false,
       },
       {
         points: 600,
-        question: "The New Radicals declared 'You've got the music in you' in this 1998 song.",
-        answer: "What is \"You Get What You Give\"?",
+        question:
+          "This 2022 film features a remote island restaurant where the chef prepares a sinister menu.",
+        answer: "What is The Menu?",
         revealed: false,
       },
       {
         points: 700,
-        question: "The group Len featured a brother and sister duo in this sunny summertime hit.",
-        answer: "What is \"Steal My Sunshine\"?",
+        question:
+          "This 2017 Jordan Peele film sees a photographer visiting his girlfriend's family estate with horrifying results.",
+        answer: "What is Get Out?",
         revealed: false,
       },
       {
         points: 800,
-        question: "Eiffel 65 created a world where everything was this color, da ba dee da ba di.",
-        answer: "What is Blue?",
+        question:
+          "“The Girl on the Train” by this author features an alcoholic protagonist who witnesses something strange.",
+        answer: "Who is Paula Hawkins?",
         revealed: false,
       },
     ],
   },
   {
-    name: "SNACK ATTACK",
+    name: "CURRENT SPORTS",
     questions: [
       {
         points: 100,
-        question: "These kangaroo-shaped cookies came with a small tub of frosting for dipping.",
-        answer: "What are Dunkaroos?",
+        question:
+          "This Argentine soccer superstar won the World Cup in 2022 and later joined Inter Miami.",
+        answer: "Who is Lionel Messi?",
         revealed: false,
       },
       {
         points: 200,
-        question: "Coca-Cola launched this citrus soda to compete with Mountain Dew, urging fans to 'Feed the Rush'.",
-        answer: "What is Surge?",
+        question:
+          "This NFL quarterback has won multiple Super Bowls with the Kansas City Chiefs in the 2020s.",
+        answer: "Who is Patrick Mahomes?",
         revealed: false,
       },
       {
         points: 300,
-        question: "Pepsi released this transparent cola in the early 90s, set to the tune of Van Halen's 'Right Now'.",
-        answer: "What is Crystal Pepsi?",
+        question:
+          "She is the most decorated gymnast in history and returned to the Olympics in 2024.",
+        answer: "Who is Simone Biles?",
         revealed: false,
       },
       {
         points: 400,
-        question: "Doritos launched a puffed, triangular version of their chips in the late 90s marketed as this dimension.",
-        answer: "What is 3D?",
+        question:
+          "This NBA player became the league's all-time leading scorer in 2023, passing Kareem Abdul-Jabbar.",
+        answer: "Who is LeBron James?",
         revealed: false,
       },
       {
         points: 500,
-        question: "Heinz released their EZ Squirt ketchup in unlikely colors like green and this royal hue.",
-        answer: "What is purple?",
+        question:
+          "This Dutch Formula 1 driver has dominated the grid with Red Bull Racing in recent years.",
+        answer: "Who is Max Verstappen?",
         revealed: false,
       },
       {
         points: 600,
-        question: "General Mills made a cereal shaped like tiny slices of bread that tasted like this breakfast dish.",
-        answer: "What is French Toast Crunch?",
+        question:
+          "Caitlin Clark became a household name and the all-time leading scorer in NCAA history in this sport.",
+        answer: "What is Basketball?",
         revealed: false,
       },
       {
         points: 700,
-        question: "This rolled fruit snack from General Mills was feet long and featured a variety of flavors.",
-        answer: "What is Fruit by the Foot?",
+        question:
+          "Shohei Ohtani, a two-way superstar, signed a record-breaking contract with this MLB team in 2023.",
+        answer: "Who are the Los Angeles Dodgers?",
         revealed: false,
       },
       {
         points: 800,
-        question: "This hollow chocolate sphere contained candy and stickers, but was once banned for being a choking hazard.",
-        answer: "What is a Wonder Ball?",
+        question:
+          "This Swiss tennis legend retired in 2022 after playing his final match alongside rival Rafael Nadal.",
+        answer: "Who is Roger Federer?",
         revealed: false,
       },
     ],
   },
   {
-    name: "SCHOOL SUPPLIES",
+    name: "TECH TRENDS",
     questions: [
       {
         points: 100,
-        question: "This brand was famous for neon colors and psychedelic animal designs on folders and stickers.",
-        answer: "Who is Lisa Frank?",
+        question:
+          "This AI research organization, led by Sam Altman, released ChatGPT in late 2022.",
+        answer: "What is OpenAI?",
         revealed: false,
       },
       {
         points: 200,
-        question: "Every cool kid had this brand of binder with a Velcro flap to keep papers secure.",
-        answer: "What is a Trapper Keeper?",
+        question:
+          "Formerly known as Twitter, this social media platform was rebranded to this single letter by Elon Musk.",
+        answer: "What is X?",
         revealed: false,
       },
       {
         points: 300,
-        question: "These gel pens by Sakura were especially coveted for their ability to write on black paper.",
-        answer: "What are Milky Pens (or Gelly Rolls)?",
+        question:
+          "This short-form video app owned by ByteDance faces scrutiny over its Chinese ownership.",
+        answer: "What is TikTok?",
         revealed: false,
       },
       {
         points: 400,
-        question: "These markers had scents like cherry, grape, and licorice, leading many kids to sniff them.",
-        answer: "What are Mr. Sketch?",
+        question:
+          "Apple entered the “spatial computing” market with this headset released in 2024.",
+        answer: "What is the Apple Vision Pro?",
         revealed: false,
       },
       {
         points: 500,
-        question: "Paper Mate created this line of erasable ballpoint pens that often smeared or tore the paper.",
-        answer: "What is Erasermate?",
+        question:
+          "This cryptocurrency exchange collapsed in 2022, leading to the conviction of Sam Bankman-Fried.",
+        answer: "What is FTX?",
         revealed: false,
       },
       {
         points: 600,
-        question: "This Texas Instruments graphing calculator was a math class staple (and gaming device).",
-        answer: "What is the TI-83?",
+        question:
+          "“Threads” was launched by this parent company of Facebook and Instagram as a text-based app.",
+        answer: "What is Meta?",
         revealed: false,
       },
       {
         points: 700,
-        question: "These rubbery, spiky tubes were put on pencils to make writing 'more comfortable' (or just cooler).",
-        answer: "What are pencil grips?",
+        question:
+          "This term refers to a persistent, online, 3D universe that combines multiple virtual spaces.",
+        answer: "What is the Metaverse?",
         revealed: false,
       },
       {
         points: 800,
-        question: "This plastic pencil box had a textured lid and bumps to stack them, often called 'Spacemaker'.",
-        answer: "What is a Spacemaker box?",
+        question:
+          "NVIDIA became a multi-trillion dollar company largely due to the demand for chips powering this technology.",
+        answer: "What is Artificial Intelligence (AI)?",
         revealed: false,
       },
     ],
   },
   {
-    name: "COMPUTER LAB",
+    name: "WORLD EVENTS",
     questions: [
       {
         points: 100,
-        question: "In this game, your goal was to travel west without dying of dysentery.",
-        answer: "What is The Oregon Trail?",
+        question:
+          "This European country was invaded by Russia in February 2022, sparking a major ongoing conflict.",
+        answer: "What is Ukraine?",
         revealed: false,
       },
       {
         points: 200,
-        question: "This globe-trotting thief in a red trench coat taught geography to millions.",
-        answer: "Who is Carmen Sandiego?",
+        question:
+          "Charles III was officially crowned King of this country in May 2023.",
+        answer: "What is the United Kingdom?",
         revealed: false,
       },
       {
         points: 300,
-        question: "This art software let you stamp dynamite to blow up your drawing.",
-        answer: "What is Kid Pix?",
+        question:
+          "This virus caused a global pandemic that was officially declared over by the WHO in 2023.",
+        answer: "What is COVID-19?",
         revealed: false,
       },
       {
         points: 400,
-        question: "This fictional instructor taught touch-typing on a keyboard.",
-        answer: "Who is Mavis Beacon?",
+        question:
+          "In 2021, she became the first female Vice President of the United States.",
+        answer: "Who is Kamala Harris?",
         revealed: false,
       },
       {
         points: 500,
-        question: "In this MECC game, you moved a green creature around a grid to eat prime numbers.",
-        answer: "What is Number Munchers?",
+        question:
+          "This country officially left the European Union in 2020, a process known as “Brexit.”",
+        answer: "What is the United Kingdom (or Britain)?",
         revealed: false,
       },
       {
         points: 600,
-        question: "This educational programming language featured a turtle that drew lines based on commands.",
-        answer: "What is Logo?",
+        question:
+          "Massive wildfires in 2023 turned the sky orange in New York, with smoke drifting from this northern neighbor.",
+        answer: "What is Canada?",
         revealed: false,
       },
       {
         points: 700,
-        question: "Before Wikipedia, this Microsoft CD-ROM encyclopedia was the go-to for research.",
-        answer: "What is Encarta?",
+        question:
+          "Following a general election in July 2024, he became the Prime Minister of the United Kingdom.",
+        answer: "Who is Keir Starmer?",
         revealed: false,
       },
       {
         points: 800,
-        question: "This Apple software allowed users to create 'stacks' of interactive cards.",
-        answer: "What is HyperCard?",
+        question:
+          "This annual global climate summit hosted by the UN is known by this three-letter acronym.",
+        answer: "What is COP?",
         revealed: false,
       },
     ],
   },
   {
-    name: "Y2K FASHION",
+    name: "STREAMING HITS",
     questions: [
       {
         points: 100,
-        question: "Britney Spears popularized jeans with this waistline that sat dangerously close to the hips.",
-        answer: "What are low-rise jeans?",
+        question:
+          "“Stranger Things,” a sci-fi horror series set in the 80s, is a flagship show for this service.",
+        answer: "What is Netflix?",
         revealed: false,
       },
       {
         points: 200,
-        question: "Justin Timberlake and Mark McGrath rocked this hairstyle with bleached ends.",
-        answer: "What are frosted tips?",
+        question:
+          "This “Star Wars” series features a helmeted bounty hunter and his charge, Grogu.",
+        answer: "What is The Mandalorian?",
         revealed: false,
       },
       {
         points: 300,
-        question: "Girls wore these insect-shaped clips in their hair, often with springs so the wings would move.",
-        answer: "What are butterfly clips?",
+        question:
+          "“The Bear,” a frantic drama set in a Chicago sandwich shop, streams on this platform in the US.",
+        answer: "What is Hulu?",
         revealed: false,
       },
       {
         points: 400,
-        question: "This stretchy plastic necklace looked like a black tattoo around the neck.",
-        answer: "What is a tattoo choker?",
+        question:
+          "Jason Sudeikis plays an optimistic American football coach managing a British soccer team in this hit.",
+        answer: "What is Ted Lasso?",
         revealed: false,
       },
       {
         points: 500,
-        question: "These practical pants had zippers at the knee to convert them into shorts.",
-        answer: "What are zip-off pants?",
+        question:
+          "This period drama produced by Shonda Rhimes follows the romantic lives of eight wealthy siblings in Regency-era London.",
+        answer: "What is Bridgerton?",
         revealed: false,
       },
       {
         points: 600,
-        question: "This footwear brand put wheels in the heels of sneakers, banned in many schools.",
-        answer: "What are Heelys?",
+        question:
+          "This prequel series returned viewers to Westeros to witness the dance of dragons within House Targaryen.",
+        answer: "What is House of the Dragon?",
         revealed: false,
       },
       {
         points: 700,
-        question: "Paris Hilton made these matching velour sweat suits by Juicy Couture a fashion staple.",
-        answer: "What are tracksuits?",
+        question:
+          "This South Korean survival drama became Netflix's most-watched series of all time.",
+        answer: "What is Squid Game?",
         revealed: false,
       },
       {
         points: 800,
-        question: "These shirts looked tiny and crinkled like doll clothes but expanded to fit any size.",
-        answer: "What are popcorn shirts?",
+        question:
+          "This dystopian series, based on a novel by Margaret Atwood, depicts a totalitarian society called Gilead.",
+        answer: "What is The Handmaid's Tale?",
         revealed: false,
       },
     ],
