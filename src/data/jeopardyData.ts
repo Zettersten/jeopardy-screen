@@ -12,428 +12,428 @@ export interface Category {
 
 export const categories: Category[] = [
   {
-    name: "TV THEME SONGS",
+    name: "MODERN MOVIES",
     questions: [
       {
         points: 100,
         question:
-          "“I’ll be there for you / (When the rain starts to pour)” is the theme to this NBC sitcom.",
-        answer: "What is Friends?",
+          "This 2023 film about a doll living in a perfect world became the highest-grossing film of the year.",
+        answer: "What is Barbie?",
         revealed: false,
       },
       {
         points: 200,
         question:
-          "“In West Philadelphia born and raised / On the playground was where I spent most of my days.”",
-        answer: "What is The Fresh Prince of Bel-Air?",
+          "He played the father of the atomic bomb in Christopher Nolan's 2023 biopic.",
+        answer: "Who is Cillian Murphy?",
         revealed: false,
       },
       {
         points: 300,
         question:
-          "“You’re not the boss of me now / And you’re not so big” introduces this chaotic family sitcom.",
-        answer: "What is Malcolm in the Middle?",
+          "This multiverse-hopping A24 film swept the Oscars in 2023, winning Best Picture.",
+        answer: "What is Everything Everywhere All At Once?",
         revealed: false,
       },
       {
         points: 400,
         question:
-          "“Somebody save me / Let your warm hands break right through” plays before this Superman prequel series.",
-        answer: "What is Smallville?",
+          "Timothée Chalamet plays the lead in this sci-fi epic set on the desert planet Arrakis.",
+        answer: "What is Dune?",
         revealed: false,
       },
       {
         points: 500,
         question:
-          "“Everywhere you look, everywhere you go / There’s a heart (there’s a heart), a hand to hold onto.”",
-        answer: "What is Full House?",
+          "This 2022 sequel saw Tom Cruise return to the cockpit after more than 30 years.",
+        answer: "What is Top Gun: Maverick?",
         revealed: false,
       },
       {
         points: 600,
         question:
-          "“California, here we come / Right back where we started from” sets the mood for this teen drama.",
-        answer: "What is The O.C.?",
+          "In 2019, this South Korean thriller became the first non-English language film to win Best Picture.",
+        answer: "What is Parasite?",
         revealed: false,
       },
       {
         points: 700,
         question:
-          "“I don’t want to wait / For our lives to be over” by Paula Cole opens this Capeside drama.",
-        answer: "What is Dawson's Creek?",
+          "Joaquin Phoenix won an Oscar for his portrayal of this Batman villain in a 2019 standalone film.",
+        answer: "Who is the Joker?",
         revealed: false,
       },
       {
         points: 800,
         question:
-          "“Hangin’ out / Down the street / The same old thing / We did last week” introduces this Wisconsin-set show.",
-        answer: "What is That '70s Show?",
+          "This director known for “Get Out” released the UFO horror film “Nope” in 2022.",
+        answer: "Who is Jordan Peele?",
         revealed: false,
       },
     ],
   },
   {
-    name: "TOYS & CRAZES",
+    name: "CELEBRITY BUZZ",
     questions: [
       {
         points: 100,
         question:
-          "These pellet-filled plush animals came with heart-shaped tags and were promised to be valuable investments.",
-        answer: "What are Beanie Babies?",
+          "This pop star's “Eras Tour” became the highest-grossing concert tour of all time.",
+        answer: "Who is Taylor Swift?",
         revealed: false,
       },
       {
         points: 200,
         question:
-          "A cardboard milk cap game that involved stacking and slamming, popular in the mid-90s.",
-        answer: "What are Pogs?",
+          "She released the album “Cowboy Carter” in 2024, exploring country roots.",
+        answer: "Who is Beyoncé?",
         revealed: false,
       },
       {
         points: 300,
         question:
-          "This robotic owl-like creature would “learn” English the more you played with it, often waking up in the middle of the night.",
-        answer: "What is a Furby?",
+          "This actor and former wrestler is known globally as “The Rock.”",
+        answer: "Who is Dwayne Johnson?",
         revealed: false,
       },
       {
         points: 400,
         question:
-          "These digital pets on a keychain required feeding and cleaning up droppings to keep them alive.",
-        answer: "What are Tamagotchis?",
+          "He famously slapped Chris Rock on stage at the 2022 Oscars ceremony.",
+        answer: "Who is Will Smith?",
         revealed: false,
       },
       {
         points: 500,
         question:
-          "This red Sesame Street plush giggled and vibrated, causing a massive holiday shopping frenzy in 1996.",
-        answer: "What is Tickle Me Elmo?",
+          "This reality star and business mogul founded the shapewear brand SKIMS.",
+        answer: "Who is Kim Kardashian?",
         revealed: false,
       },
       {
         points: 600,
         question:
-          "These small plastic dolls came in compact cases that opened to reveal tiny houses and worlds.",
-        answer: "What is Polly Pocket?",
+          "This former One Direction member won a Grammy for “Watermelon Sugar.”",
+        answer: "Who is Harry Styles?",
         revealed: false,
       },
       {
         points: 700,
         question:
-          "This sophisticated robot dog by Sony was released in 1999 and became a high-tech status symbol.",
-        answer: "What is AIBO?",
+          "She played Wednesday Addams in the hit Netflix series and starred in “Beetlejuice Beetlejuice.”",
+        answer: "Who is Jenna Ortega?",
         revealed: false,
       },
       {
         points: 800,
         question:
-          "This aluminum folding scooter with red wheels became a ubiquitous mode of transport for kids in 2000.",
-        answer: "What is a Razor Scooter?",
+          "This British actor plays Spider-Man in the MCU and is dating Zendaya.",
+        answer: "Who is Tom Holland?",
         revealed: false,
       },
     ],
   },
   {
-    name: "SCHOLASTIC BOOK FAIR",
+    name: "THRILLERS & MYSTERIES",
     questions: [
       {
         points: 100,
         question:
-          "R.L. Stine wrote this horror anthology series with titles like “Welcome to Dead House” and “The Haunted Mask.”",
-        answer: "What is Goosebumps?",
+          "Daniel Craig plays detective Benoit Blanc in this “Knives Out” mystery series.",
+        answer: "What is Knives Out (or Glass Onion)?",
         revealed: false,
       },
       {
         points: 200,
         question:
-          "This series about a boy wizard introduced terms like “Muggle” and “Quidditch” to the world.",
-        answer: "What is Harry Potter?",
+          "This author wrote “Gone Girl” and “Sharp Objects,” both adapted for the screen.",
+        answer: "Who is Gillian Flynn?",
         revealed: false,
       },
       {
         points: 300,
         question:
-          "K.A. Applegate’s sci-fi series featured teens who could morph into animals to fight alien slugs.",
-        answer: "What are Animorphs?",
+          "In this 2014 film, Rosamund Pike frames her husband, played by Ben Affleck, for her murder.",
+        answer: "What is Gone Girl?",
         revealed: false,
       },
       {
         points: 400,
         question:
-          "This “captain” in tighty-whities hypnotized his principal in a graphic novel series by Dav Pilkey.",
-        answer: "What is Captain Underpants?",
+          "This Netflix series follows a charming book lover named Joe Goldberg who obsesses over women.",
+        answer: "What is You?",
         revealed: false,
       },
       {
         points: 500,
         question:
-          "A series of unfortunate events plagues the Baudelaire orphans in novels by this author (a pen name).",
-        answer: "Who is Lemony Snicket?",
+          "This HBO series features a luxury resort where a murder mystery unfolds each season.",
+        answer: "What is The White Lotus?",
         revealed: false,
       },
       {
         points: 600,
         question:
-          "Ann M. Martin created this series about a group of friends running a childcare business in Stoneybrook.",
-        answer: "What is The Baby-Sitters Club?",
+          "This 2022 film features a remote island restaurant where the chef prepares a sinister menu.",
+        answer: "What is The Menu?",
         revealed: false,
       },
       {
         points: 700,
         question:
-          "This interactive series let you make decisions that led to different endings, often gruesome ones.",
-        answer: "What is Choose Your Own Adventure?",
+          "This 2017 Jordan Peele film sees a photographer visiting his girlfriend's family estate with horrifying results.",
+        answer: "What is Get Out?",
         revealed: false,
       },
       {
         points: 800,
         question:
-          "Brian Jacques wrote this fantasy series featuring warrior mice, badgers, and other woodland creatures at an abbey.",
-        answer: "What is Redwall?",
+          "“The Girl on the Train” by this author features an alcoholic protagonist who witnesses something strange.",
+        answer: "Who is Paula Hawkins?",
         revealed: false,
       },
     ],
   },
   {
-    name: "POP PUNK & EMO",
+    name: "CURRENT SPORTS",
     questions: [
       {
         points: 100,
         question:
-          "This trio asked “What’s my age again?” and sang about “All the Small Things.”",
-        answer: "Who are Blink-182?",
+          "This Argentine soccer superstar won the World Cup in 2022 and later joined Inter Miami.",
+        answer: "Who is Lionel Messi?",
         revealed: false,
       },
       {
         points: 200,
         question:
-          "Fronted by Billie Joe Armstrong, this band’s Dookie album was a 90s staple, followed by American Idiot in 2004.",
-        answer: "Who are Green Day?",
+          "This NFL quarterback has won multiple Super Bowls with the Kansas City Chiefs in the 2020s.",
+        answer: "Who is Patrick Mahomes?",
         revealed: false,
       },
       {
         points: 300,
         question:
-          "This band combined rap and rock on “In the End” and “Numb,” led by Chester Bennington and Mike Shinoda.",
-        answer: "Who are Linkin Park?",
+          "She is the most decorated gymnast in history and returned to the Olympics in 2024.",
+        answer: "Who is Simone Biles?",
         revealed: false,
       },
       {
         points: 400,
         question:
-          "“The Middle” by this Arizona band told listeners that “it just takes some time.”",
-        answer: "Who are Jimmy Eat World?",
+          "This NBA player became the league's all-time leading scorer in 2023, passing Kareem Abdul-Jabbar.",
+        answer: "Who is LeBron James?",
         revealed: false,
       },
       {
         points: 500,
         question:
-          "This Canadian singer wore a tie over a tank top and asked a “Sk8er Boi” to see her later.",
-        answer: "Who is Avril Lavigne?",
+          "This Dutch Formula 1 driver has dominated the grid with Red Bull Racing in recent years.",
+        answer: "Who is Max Verstappen?",
         revealed: false,
       },
       {
         points: 600,
         question:
-          "Gerard Way led this theatrical emo band known for “Welcome to the Black Parade.”",
-        answer: "Who are My Chemical Romance?",
+          "Caitlin Clark became a household name and the all-time leading scorer in NCAA history in this sport.",
+        answer: "What is Basketball?",
         revealed: false,
       },
       {
         points: 700,
         question:
-          "This band, led by Hayley Williams, declared “Misery Business” in 2007.",
-        answer: "Who are Paramore?",
+          "Shohei Ohtani, a two-way superstar, signed a record-breaking contract with this MLB team in 2023.",
+        answer: "Who are the Los Angeles Dodgers?",
         revealed: false,
       },
       {
         points: 800,
         question:
-          "“Sugar, We’re Goin Down” was a breakout hit for this band featuring Pete Wentz and Patrick Stump.",
-        answer: "Who are Fall Out Boy?",
+          "This Swiss tennis legend retired in 2022 after playing his final match alongside rival Rafael Nadal.",
+        answer: "Who is Roger Federer?",
         revealed: false,
       },
     ],
   },
   {
-    name: "CONSOLE GAMING GEMS",
+    name: "TECH TRENDS",
     questions: [
       {
         points: 100,
         question:
-          "In this N64 shooter, you play as James Bond completing missions based on the 1995 film.",
-        answer: "What is GoldenEye 007?",
+          "This AI research organization, led by Sam Altman, released ChatGPT in late 2022.",
+        answer: "What is OpenAI?",
         revealed: false,
       },
       {
         points: 200,
         question:
-          "This plumber jumped into 3D for the first time on the N64, exploring Peach’s Castle.",
-        answer: "What is Super Mario 64?",
+          "Formerly known as Twitter, this social media platform was rebranded to this single letter by Elon Musk.",
+        answer: "What is X?",
         revealed: false,
       },
       {
         points: 300,
         question:
-          "Master Chief battles the Covenant in this Xbox launch title that revolutionized console FPS games.",
-        answer: "What is Halo?",
+          "This short-form video app owned by ByteDance faces scrutiny over its Chinese ownership.",
+        answer: "What is TikTok?",
         revealed: false,
       },
       {
         points: 400,
         question:
-          "You gotta catch ’em all in Red and Blue versions of this Game Boy RPG.",
-        answer: "What is Pokémon?",
+          "Apple entered the “spatial computing” market with this headset released in 2024.",
+        answer: "What is the Apple Vision Pro?",
         revealed: false,
       },
       {
         points: 500,
         question:
-          "This PS2 game let you skateboard through open levels, collecting tapes and performing special moves.",
-        answer: "What is Tony Hawk's Pro Skater?",
+          "This cryptocurrency exchange collapsed in 2022, leading to the conviction of Sam Bankman-Fried.",
+        answer: "What is FTX?",
         revealed: false,
       },
       {
         points: 600,
         question:
-          "Cloud Strife wields a massive sword against Sephiroth in this defining RPG for the original PlayStation.",
-        answer: "What is Final Fantasy VII?",
+          "“Threads” was launched by this parent company of Facebook and Instagram as a text-based app.",
+        answer: "What is Meta?",
         revealed: false,
       },
       {
         points: 700,
         question:
-          "This 2001 “Auto” game allowed 3D open-world chaos in Liberty City.",
-        answer: "What is Grand Theft Auto III?",
+          "This term refers to a persistent, online, 3D universe that combines multiple virtual spaces.",
+        answer: "What is the Metaverse?",
         revealed: false,
       },
       {
         points: 800,
         question:
-          "Link creates a time paradox by pulling the Master Sword from its pedestal in this 1998 classic.",
-        answer: "What is The Legend of Zelda: Ocarina of Time?",
+          "NVIDIA became a multi-trillion dollar company largely due to the demand for chips powering this technology.",
+        answer: "What is Artificial Intelligence (AI)?",
         revealed: false,
       },
     ],
   },
   {
-    name: "SUMMER BLOCKBUSTERS",
+    name: "WORLD EVENTS",
     questions: [
       {
         points: 100,
         question:
-          "Will Smith and Jeff Goldblum fight alien invaders on July 4th in this 1996 sci-fi hit.",
-        answer: "What is Independence Day?",
+          "This European country was invaded by Russia in February 2022, sparking a major ongoing conflict.",
+        answer: "What is Ukraine?",
         revealed: false,
       },
       {
         points: 200,
         question:
-          "“I see dead people,” whispers Haley Joel Osment in this 1999 M. Night Shyamalan thriller.",
-        answer: "What is The Sixth Sense?",
+          "Charles III was officially crowned King of this country in May 2023.",
+        answer: "What is the United Kingdom?",
         revealed: false,
       },
       {
         points: 300,
         question:
-          "Tobey Maguire spins webs and kisses upside down in this 2002 superhero origin story.",
-        answer: "What is Spider-Man?",
+          "This virus caused a global pandemic that was officially declared over by the WHO in 2023.",
+        answer: "What is COVID-19?",
         revealed: false,
       },
       {
         points: 400,
         question:
-          "Keanu Reeves learns that his reality is a simulation in this 1999 sci-fi action film.",
-        answer: "What is The Matrix?",
+          "In 2021, she became the first female Vice President of the United States.",
+        answer: "Who is Kamala Harris?",
         revealed: false,
       },
       {
         points: 500,
         question:
-          "“Life finds a way” in this 1993 dinosaur adventure directed by Steven Spielberg.",
-        answer: "What is Jurassic Park?",
+          "This country officially left the European Union in 2020, a process known as “Brexit.”",
+        answer: "What is the United Kingdom (or Britain)?",
         revealed: false,
       },
       {
         points: 600,
         question:
-          "Agents J and K police extraterrestrial activity in this 1997 action-comedy.",
-        answer: "What is Men in Black?",
+          "Massive wildfires in 2023 turned the sky orange in New York, with smoke drifting from this northern neighbor.",
+        answer: "What is Canada?",
         revealed: false,
       },
       {
         points: 700,
         question:
-          "Jim Carrey discovers his entire life is a 24-hour reality TV show in this 1998 film.",
-        answer: "What is The Truman Show?",
+          "Following a general election in July 2024, he became the Prime Minister of the United Kingdom.",
+        answer: "Who is Keir Starmer?",
         revealed: false,
       },
       {
         points: 800,
         question:
-          "Pixar’s first feature film, released in 1995, brought toys to life when humans weren’t around.",
-        answer: "What is Toy Story?",
+          "This annual global climate summit hosted by the UN is known by this three-letter acronym.",
+        answer: "What is COP?",
         revealed: false,
       },
     ],
   },
   {
-    name: "REALITY TV BEGINNINGS",
+    name: "STREAMING HITS",
     questions: [
       {
         points: 100,
         question:
-          "“The tribe has spoken” is the catchphrase used when extinguishing torches on this survival competition.",
-        answer: "What is Survivor?",
+          "“Stranger Things,” a sci-fi horror series set in the 80s, is a flagship show for this service.",
+        answer: "What is Netflix?",
         revealed: false,
       },
       {
         points: 200,
         question:
-          "Simon Cowell, Paula Abdul, and Randy Jackson judged singers in this search for a superstar.",
-        answer: "What is American Idol?",
+          "This “Star Wars” series features a helmeted bounty hunter and his charge, Grogu.",
+        answer: "What is The Mandalorian?",
         revealed: false,
       },
       {
         points: 300,
         question:
-          "Seven strangers are picked to live in a house and have their lives taped in this MTV pioneer.",
-        answer: "What is The Real World?",
+          "“The Bear,” a frantic drama set in a Chicago sandwich shop, streams on this platform in the US.",
+        answer: "What is Hulu?",
         revealed: false,
       },
       {
         points: 400,
         question:
-          "Wealthy socialites Paris Hilton and Nicole Richie try manual labor in this fish-out-of-water series.",
-        answer: "What is The Simple Life?",
+          "Jason Sudeikis plays an optimistic American football coach managing a British soccer team in this hit.",
+        answer: "What is Ted Lasso?",
         revealed: false,
       },
       {
         points: 500,
         question:
-          "Tyra Banks teaches aspiring models to “smize” (smile with their eyes) in this competition.",
-        answer: "What is America's Next Top Model?",
+          "This period drama produced by Shonda Rhimes follows the romantic lives of eight wealthy siblings in Regency-era London.",
+        answer: "What is Bridgerton?",
         revealed: false,
       },
       {
         points: 600,
         question:
-          "Ozzy Osbourne and his family opened their home to cameras in this MTV reality sitcom.",
-        answer: "What is The Osbournes?",
+          "This prequel series returned viewers to Westeros to witness the dance of dragons within House Targaryen.",
+        answer: "What is House of the Dragon?",
         revealed: false,
       },
       {
         points: 700,
         question:
-          "Bachelors hand out roses to women they want to keep dating in this ABC dating show.",
-        answer: "What is The Bachelor?",
+          "This South Korean survival drama became Netflix's most-watched series of all time.",
+        answer: "What is Squid Game?",
         revealed: false,
       },
       {
         points: 800,
         question:
-          "Xzibit heard you like cars, so he put a car in your car in this MTV vehicle makeover show.",
-        answer: "What is Pimp My Ride?",
+          "This dystopian series, based on a novel by Margaret Atwood, depicts a totalitarian society called Gilead.",
+        answer: "What is The Handmaid's Tale?",
         revealed: false,
       },
     ],
