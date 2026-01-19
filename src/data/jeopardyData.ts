@@ -12,428 +12,372 @@ export interface Category {
 
 export const categories: Category[] = [
   {
-    name: "TV THEME SONGS",
+    name: "INTERNET 1.0",
     questions: [
       {
         points: 100,
-        question:
-          "“I’ll be there for you / (When the rain starts to pour)” is the theme to this NBC sitcom.",
-        answer: "What is Friends?",
+        question: "This greeting was heard every time you signed on to AOL.",
+        answer: "What is \"You've Got Mail\"?",
         revealed: false,
       },
       {
         points: 200,
-        question:
-          "“In West Philadelphia born and raised / On the playground was where I spent most of my days.”",
-        answer: "What is The Fresh Prince of Bel-Air?",
+        question: "Before Google, you could ask this polite butler to search the web for you.",
+        answer: "Who is Jeeves?",
         revealed: false,
       },
       {
         points: 300,
-        question:
-          "“You’re not the boss of me now / And you’re not so big” introduces this chaotic family sitcom.",
-        answer: "What is Malcolm in the Middle?",
+        question: "Shawn Fanning created this peer-to-peer file sharing service that Metallica famously sued.",
+        answer: "What is Napster?",
         revealed: false,
       },
       {
         points: 400,
-        question:
-          "“Somebody save me / Let your warm hands break right through” plays before this Superman prequel series.",
-        answer: "What is Smallville?",
+        question: "Before Facebook, this social network was king, and Tom was everyone's first friend.",
+        answer: "What is MySpace?",
         revealed: false,
       },
       {
         points: 500,
-        question:
-          "“Everywhere you look, everywhere you go / There’s a heart (there’s a heart), a hand to hold onto.”",
-        answer: "What is Full House?",
+        question: "This 3D rendered infant became an early viral sensation, grooving to 'Hooked on a Feeling'.",
+        answer: "What is the Dancing Baby?",
         revealed: false,
       },
       {
         points: 600,
-        question:
-          "“California, here we come / Right back where we started from” sets the mood for this teen drama.",
-        answer: "What is The O.C.?",
+        question: "This screeching noise was the soundtrack to connecting to the internet via phone lines.",
+        answer: "What is dial-up?",
         revealed: false,
       },
       {
         points: 700,
-        question:
-          "“I don’t want to wait / For our lives to be over” by Paula Cole opens this Capeside drama.",
-        answer: "What is Dawson's Creek?",
+        question: "This website featured rows of animated rodents dancing to a sped-up country song.",
+        answer: "What is the Hamster Dance?",
         revealed: false,
       },
       {
         points: 800,
-        question:
-          "“Hangin’ out / Down the street / The same old thing / We did last week” introduces this Wisconsin-set show.",
-        answer: "What is That '70s Show?",
+        question: "A badly translated cutscene from the game Zero Wing gave us this catchphrase about bases.",
+        answer: "What is \"All your base are belong to us\"?",
         revealed: false,
       },
     ],
   },
   {
-    name: "TOYS & CRAZES",
+    name: "CARTOON NETWORK CLASSICS",
     questions: [
       {
         points: 100,
-        question:
-          "These pellet-filled plush animals came with heart-shaped tags and were promised to be valuable investments.",
-        answer: "What are Beanie Babies?",
+        question: "This boy genius fights with his sister Dee Dee in his secret facility.",
+        answer: "Who is Dexter?",
         revealed: false,
       },
       {
         points: 200,
-        question:
-          "A cardboard milk cap game that involved stacking and slamming, popular in the mid-90s.",
-        answer: "What are Pogs?",
+        question: "Blossom, Bubbles, and Buttercup are known as this crime-fighting trio.",
+        answer: "Who are The Powerpuff Girls?",
         revealed: false,
       },
       {
         points: 300,
-        question:
-          "This robotic owl-like creature would “learn” English the more you played with it, often waking up in the middle of the night.",
-        answer: "What is a Furby?",
+        question: "This pink dog lives in the Middle of Nowhere with Muriel and Eustace.",
+        answer: "Who is Courage the Cowardly Dog?",
         revealed: false,
       },
       {
         points: 400,
-        question:
-          "These digital pets on a keychain required feeding and cleaning up droppings to keep them alive.",
-        answer: "What are Tamagotchis?",
+        question: "This pompadoured tough guy loves his mama but strikes out with every woman he meets.",
+        answer: "Who is Johnny Bravo?",
         revealed: false,
       },
       {
         points: 500,
-        question:
-          "This red Sesame Street plush giggled and vibrated, causing a massive holiday shopping frenzy in 1996.",
-        answer: "What is Tickle Me Elmo?",
+        question: "Ed, Edd, and Eddy constantly scam the neighborhood kids to buy these giant candies.",
+        answer: "What are Jawbreakers?",
         revealed: false,
       },
       {
         points: 600,
-        question:
-          "These small plastic dolls came in compact cases that opened to reveal tiny houses and worlds.",
-        answer: "What is Polly Pocket?",
+        question: "A samurai warrior is flung into the future by the shape-shifting master of darkness, Aku.",
+        answer: "Who is Samurai Jack?",
         revealed: false,
       },
       {
         points: 700,
-        question:
-          "This sophisticated robot dog by Sony was released in 1999 and became a high-tech status symbol.",
-        answer: "What is AIBO?",
+        question: "After losing a limbo game, the Grim Reaper became best friends for life with these two kids.",
+        answer: "Who are Billy and Mandy?",
         revealed: false,
       },
       {
         points: 800,
-        question:
-          "This aluminum folding scooter with red wheels became a ubiquitous mode of transport for kids in 2000.",
-        answer: "What is a Razor Scooter?",
+        question: "This is the only phrase Dexter can say in the episode 'The Big Cheese', which makes him wildly popular.",
+        answer: "What is \"Omelette du fromage\"?",
         revealed: false,
       },
     ],
   },
   {
-    name: "SCHOLASTIC BOOK FAIR",
+    name: "ONE-HIT WONDERS",
     questions: [
       {
         points: 100,
-        question:
-          "R.L. Stine wrote this horror anthology series with titles like “Welcome to Dead House” and “The Haunted Mask.”",
-        answer: "What is Goosebumps?",
+        question: "In 2000, the Baha Men released this barking anthem asking for the identity of the canine liberator.",
+        answer: "What is \"Who Let The Dogs Out\"?",
         revealed: false,
       },
       {
         points: 200,
-        question:
-          "This series about a boy wizard introduced terms like “Muggle” and “Quidditch” to the world.",
-        answer: "What is Harry Potter?",
+        question: "Chumbawamba sang about getting knocked down and getting up again in this boozy hit.",
+        answer: "What is \"Tubthumping\"?",
         revealed: false,
       },
       {
         points: 300,
-        question:
-          "K.A. Applegate’s sci-fi series featured teens who could morph into animals to fight alien slugs.",
-        answer: "What are Animorphs?",
+        question: "Lou Bega listed Monica, Erica, Rita, and Tina in this number-focused mambo track.",
+        answer: "What is \"Mambo No. 5\"?",
         revealed: false,
       },
       {
         points: 400,
-        question:
-          "This “captain” in tighty-whities hypnotized his principal in a graphic novel series by Dav Pilkey.",
-        answer: "What is Captain Underpants?",
+        question: "Three brothers with long hair sang this gibberish chorus in 1997.",
+        answer: "What is \"MMMBop\"?",
         revealed: false,
       },
       {
         points: 500,
-        question:
-          "A series of unfortunate events plagues the Baudelaire orphans in novels by this author (a pen name).",
-        answer: "Who is Lemony Snicket?",
+        question: "Deep Blue Something wrote this song about an Audrey Hepburn film.",
+        answer: "What is \"Breakfast at Tiffany's\"?",
         revealed: false,
       },
       {
         points: 600,
-        question:
-          "Ann M. Martin created this series about a group of friends running a childcare business in Stoneybrook.",
-        answer: "What is The Baby-Sitters Club?",
+        question: "The New Radicals declared 'You've got the music in you' in this 1998 song.",
+        answer: "What is \"You Get What You Give\"?",
         revealed: false,
       },
       {
         points: 700,
-        question:
-          "This interactive series let you make decisions that led to different endings, often gruesome ones.",
-        answer: "What is Choose Your Own Adventure?",
+        question: "The group Len featured a brother and sister duo in this sunny summertime hit.",
+        answer: "What is \"Steal My Sunshine\"?",
         revealed: false,
       },
       {
         points: 800,
-        question:
-          "Brian Jacques wrote this fantasy series featuring warrior mice, badgers, and other woodland creatures at an abbey.",
-        answer: "What is Redwall?",
+        question: "Eiffel 65 created a world where everything was this color, da ba dee da ba di.",
+        answer: "What is Blue?",
         revealed: false,
       },
     ],
   },
   {
-    name: "POP PUNK & EMO",
+    name: "SNACK ATTACK",
     questions: [
       {
         points: 100,
-        question:
-          "This trio asked “What’s my age again?” and sang about “All the Small Things.”",
-        answer: "Who are Blink-182?",
+        question: "These kangaroo-shaped cookies came with a small tub of frosting for dipping.",
+        answer: "What are Dunkaroos?",
         revealed: false,
       },
       {
         points: 200,
-        question:
-          "Fronted by Billie Joe Armstrong, this band’s Dookie album was a 90s staple, followed by American Idiot in 2004.",
-        answer: "Who are Green Day?",
+        question: "Coca-Cola launched this citrus soda to compete with Mountain Dew, urging fans to 'Feed the Rush'.",
+        answer: "What is Surge?",
         revealed: false,
       },
       {
         points: 300,
-        question:
-          "This band combined rap and rock on “In the End” and “Numb,” led by Chester Bennington and Mike Shinoda.",
-        answer: "Who are Linkin Park?",
+        question: "Pepsi released this transparent cola in the early 90s, set to the tune of Van Halen's 'Right Now'.",
+        answer: "What is Crystal Pepsi?",
         revealed: false,
       },
       {
         points: 400,
-        question:
-          "“The Middle” by this Arizona band told listeners that “it just takes some time.”",
-        answer: "Who are Jimmy Eat World?",
+        question: "Doritos launched a puffed, triangular version of their chips in the late 90s marketed as this dimension.",
+        answer: "What is 3D?",
         revealed: false,
       },
       {
         points: 500,
-        question:
-          "This Canadian singer wore a tie over a tank top and asked a “Sk8er Boi” to see her later.",
-        answer: "Who is Avril Lavigne?",
+        question: "Heinz released their EZ Squirt ketchup in unlikely colors like green and this royal hue.",
+        answer: "What is purple?",
         revealed: false,
       },
       {
         points: 600,
-        question:
-          "Gerard Way led this theatrical emo band known for “Welcome to the Black Parade.”",
-        answer: "Who are My Chemical Romance?",
+        question: "General Mills made a cereal shaped like tiny slices of bread that tasted like this breakfast dish.",
+        answer: "What is French Toast Crunch?",
         revealed: false,
       },
       {
         points: 700,
-        question:
-          "This band, led by Hayley Williams, declared “Misery Business” in 2007.",
-        answer: "Who are Paramore?",
+        question: "This rolled fruit snack from General Mills was feet long and featured a variety of flavors.",
+        answer: "What is Fruit by the Foot?",
         revealed: false,
       },
       {
         points: 800,
-        question:
-          "“Sugar, We’re Goin Down” was a breakout hit for this band featuring Pete Wentz and Patrick Stump.",
-        answer: "Who are Fall Out Boy?",
+        question: "This hollow chocolate sphere contained candy and stickers, but was once banned for being a choking hazard.",
+        answer: "What is a Wonder Ball?",
         revealed: false,
       },
     ],
   },
   {
-    name: "CONSOLE GAMING GEMS",
+    name: "SCHOOL SUPPLIES",
     questions: [
       {
         points: 100,
-        question:
-          "In this N64 shooter, you play as James Bond completing missions based on the 1995 film.",
-        answer: "What is GoldenEye 007?",
+        question: "This brand was famous for neon colors and psychedelic animal designs on folders and stickers.",
+        answer: "Who is Lisa Frank?",
         revealed: false,
       },
       {
         points: 200,
-        question:
-          "This plumber jumped into 3D for the first time on the N64, exploring Peach’s Castle.",
-        answer: "What is Super Mario 64?",
+        question: "Every cool kid had this brand of binder with a Velcro flap to keep papers secure.",
+        answer: "What is a Trapper Keeper?",
         revealed: false,
       },
       {
         points: 300,
-        question:
-          "Master Chief battles the Covenant in this Xbox launch title that revolutionized console FPS games.",
-        answer: "What is Halo?",
+        question: "These gel pens by Sakura were especially coveted for their ability to write on black paper.",
+        answer: "What are Milky Pens (or Gelly Rolls)?",
         revealed: false,
       },
       {
         points: 400,
-        question:
-          "You gotta catch ’em all in Red and Blue versions of this Game Boy RPG.",
-        answer: "What is Pokémon?",
+        question: "These markers had scents like cherry, grape, and licorice, leading many kids to sniff them.",
+        answer: "What are Mr. Sketch?",
         revealed: false,
       },
       {
         points: 500,
-        question:
-          "This PS2 game let you skateboard through open levels, collecting tapes and performing special moves.",
-        answer: "What is Tony Hawk's Pro Skater?",
+        question: "Paper Mate created this line of erasable ballpoint pens that often smeared or tore the paper.",
+        answer: "What is Erasermate?",
         revealed: false,
       },
       {
         points: 600,
-        question:
-          "Cloud Strife wields a massive sword against Sephiroth in this defining RPG for the original PlayStation.",
-        answer: "What is Final Fantasy VII?",
+        question: "This Texas Instruments graphing calculator was a math class staple (and gaming device).",
+        answer: "What is the TI-83?",
         revealed: false,
       },
       {
         points: 700,
-        question:
-          "This 2001 “Auto” game allowed 3D open-world chaos in Liberty City.",
-        answer: "What is Grand Theft Auto III?",
+        question: "These rubbery, spiky tubes were put on pencils to make writing 'more comfortable' (or just cooler).",
+        answer: "What are pencil grips?",
         revealed: false,
       },
       {
         points: 800,
-        question:
-          "Link creates a time paradox by pulling the Master Sword from its pedestal in this 1998 classic.",
-        answer: "What is The Legend of Zelda: Ocarina of Time?",
+        question: "This plastic pencil box had a textured lid and bumps to stack them, often called 'Spacemaker'.",
+        answer: "What is a Spacemaker box?",
         revealed: false,
       },
     ],
   },
   {
-    name: "SUMMER BLOCKBUSTERS",
+    name: "COMPUTER LAB",
     questions: [
       {
         points: 100,
-        question:
-          "Will Smith and Jeff Goldblum fight alien invaders on July 4th in this 1996 sci-fi hit.",
-        answer: "What is Independence Day?",
+        question: "In this game, your goal was to travel west without dying of dysentery.",
+        answer: "What is The Oregon Trail?",
         revealed: false,
       },
       {
         points: 200,
-        question:
-          "“I see dead people,” whispers Haley Joel Osment in this 1999 M. Night Shyamalan thriller.",
-        answer: "What is The Sixth Sense?",
+        question: "This globe-trotting thief in a red trench coat taught geography to millions.",
+        answer: "Who is Carmen Sandiego?",
         revealed: false,
       },
       {
         points: 300,
-        question:
-          "Tobey Maguire spins webs and kisses upside down in this 2002 superhero origin story.",
-        answer: "What is Spider-Man?",
+        question: "This art software let you stamp dynamite to blow up your drawing.",
+        answer: "What is Kid Pix?",
         revealed: false,
       },
       {
         points: 400,
-        question:
-          "Keanu Reeves learns that his reality is a simulation in this 1999 sci-fi action film.",
-        answer: "What is The Matrix?",
+        question: "This fictional instructor taught touch-typing on a keyboard.",
+        answer: "Who is Mavis Beacon?",
         revealed: false,
       },
       {
         points: 500,
-        question:
-          "“Life finds a way” in this 1993 dinosaur adventure directed by Steven Spielberg.",
-        answer: "What is Jurassic Park?",
+        question: "In this MECC game, you moved a green creature around a grid to eat prime numbers.",
+        answer: "What is Number Munchers?",
         revealed: false,
       },
       {
         points: 600,
-        question:
-          "Agents J and K police extraterrestrial activity in this 1997 action-comedy.",
-        answer: "What is Men in Black?",
+        question: "This educational programming language featured a turtle that drew lines based on commands.",
+        answer: "What is Logo?",
         revealed: false,
       },
       {
         points: 700,
-        question:
-          "Jim Carrey discovers his entire life is a 24-hour reality TV show in this 1998 film.",
-        answer: "What is The Truman Show?",
+        question: "Before Wikipedia, this Microsoft CD-ROM encyclopedia was the go-to for research.",
+        answer: "What is Encarta?",
         revealed: false,
       },
       {
         points: 800,
-        question:
-          "Pixar’s first feature film, released in 1995, brought toys to life when humans weren’t around.",
-        answer: "What is Toy Story?",
+        question: "This Apple software allowed users to create 'stacks' of interactive cards.",
+        answer: "What is HyperCard?",
         revealed: false,
       },
     ],
   },
   {
-    name: "REALITY TV BEGINNINGS",
+    name: "Y2K FASHION",
     questions: [
       {
         points: 100,
-        question:
-          "“The tribe has spoken” is the catchphrase used when extinguishing torches on this survival competition.",
-        answer: "What is Survivor?",
+        question: "Britney Spears popularized jeans with this waistline that sat dangerously close to the hips.",
+        answer: "What are low-rise jeans?",
         revealed: false,
       },
       {
         points: 200,
-        question:
-          "Simon Cowell, Paula Abdul, and Randy Jackson judged singers in this search for a superstar.",
-        answer: "What is American Idol?",
+        question: "Justin Timberlake and Mark McGrath rocked this hairstyle with bleached ends.",
+        answer: "What are frosted tips?",
         revealed: false,
       },
       {
         points: 300,
-        question:
-          "Seven strangers are picked to live in a house and have their lives taped in this MTV pioneer.",
-        answer: "What is The Real World?",
+        question: "Girls wore these insect-shaped clips in their hair, often with springs so the wings would move.",
+        answer: "What are butterfly clips?",
         revealed: false,
       },
       {
         points: 400,
-        question:
-          "Wealthy socialites Paris Hilton and Nicole Richie try manual labor in this fish-out-of-water series.",
-        answer: "What is The Simple Life?",
+        question: "This stretchy plastic necklace looked like a black tattoo around the neck.",
+        answer: "What is a tattoo choker?",
         revealed: false,
       },
       {
         points: 500,
-        question:
-          "Tyra Banks teaches aspiring models to “smize” (smile with their eyes) in this competition.",
-        answer: "What is America's Next Top Model?",
+        question: "These practical pants had zippers at the knee to convert them into shorts.",
+        answer: "What are zip-off pants?",
         revealed: false,
       },
       {
         points: 600,
-        question:
-          "Ozzy Osbourne and his family opened their home to cameras in this MTV reality sitcom.",
-        answer: "What is The Osbournes?",
+        question: "This footwear brand put wheels in the heels of sneakers, banned in many schools.",
+        answer: "What are Heelys?",
         revealed: false,
       },
       {
         points: 700,
-        question:
-          "Bachelors hand out roses to women they want to keep dating in this ABC dating show.",
-        answer: "What is The Bachelor?",
+        question: "Paris Hilton made these matching velour sweat suits by Juicy Couture a fashion staple.",
+        answer: "What are tracksuits?",
         revealed: false,
       },
       {
         points: 800,
-        question:
-          "Xzibit heard you like cars, so he put a car in your car in this MTV vehicle makeover show.",
-        answer: "What is Pimp My Ride?",
+        question: "These shirts looked tiny and crinkled like doll clothes but expanded to fit any size.",
+        answer: "What are popcorn shirts?",
         revealed: false,
       },
     ],
