@@ -12,428 +12,428 @@ export interface Category {
 
 export const categories: Category[] = [
   {
-    name: "MODERN MOVIES",
+    name: "MODERN CINEMA",
     questions: [
       {
         points: 100,
         question:
-          "This 2023 film about a doll living in a perfect world became the highest-grossing film of the year.",
-        answer: "What is Barbie?",
+          "This 2024 sequel to a Pixar classic introduces new emotions like Anxiety and Ennui.",
+        answer: "What is Inside Out 2?",
         revealed: false,
       },
       {
         points: 200,
         question:
-          "He played the father of the atomic bomb in Christopher Nolan's 2023 biopic.",
-        answer: "Who is Cillian Murphy?",
+          "He played the titular chocolatier in the 2023 musical film “Wonka”.",
+        answer: "Who is Timothée Chalamet?",
         revealed: false,
       },
       {
         points: 300,
         question:
-          "This multiverse-hopping A24 film swept the Oscars in 2023, winning Best Picture.",
-        answer: "What is Everything Everywhere All At Once?",
+          "Emma Stone won Best Actress for her role as Bella Baxter in this 2023 surrealist fantasy.",
+        answer: "What is Poor Things?",
         revealed: false,
       },
       {
         points: 400,
         question:
-          "Timothée Chalamet plays the lead in this sci-fi epic set on the desert planet Arrakis.",
-        answer: "What is Dune?",
+          "This 2023 romantic comedy revived the genre, starring Sydney Sweeney and Glen Powell.",
+        answer: "What is Anyone But You?",
         revealed: false,
       },
       {
         points: 500,
         question:
-          "This 2022 sequel saw Tom Cruise return to the cockpit after more than 30 years.",
-        answer: "What is Top Gun: Maverick?",
+          "This Japanese monster movie won the Oscar for Best Visual Effects in 2024.",
+        answer: "What is Godzilla Minus One?",
         revealed: false,
       },
       {
         points: 600,
         question:
-          "In 2019, this South Korean thriller became the first non-English language film to win Best Picture.",
-        answer: "What is Parasite?",
+          "Zendaya stars as a tennis prodigy turned coach in this 2024 sports drama by Luca Guadagnino.",
+        answer: "What is Challengers?",
         revealed: false,
       },
       {
         points: 700,
         question:
-          "Joaquin Phoenix won an Oscar for his portrayal of this Batman villain in a 2019 standalone film.",
-        answer: "Who is the Joker?",
+          "This 2024 biopic stars Marisa Abela as the late singer Amy Winehouse.",
+        answer: "What is Back to Black?",
         revealed: false,
       },
       {
         points: 800,
         question:
-          "This director known for “Get Out” released the UFO horror film “Nope” in 2022.",
-        answer: "Who is Jordan Peele?",
+          "This 2024 disaster film is a standalone sequel to a 1996 hit about storm chasers.",
+        answer: "What is Twisters?",
         revealed: false,
       },
     ],
   },
   {
-    name: "CELEBRITY BUZZ",
+    name: "POP CULTURE ICONS",
     questions: [
       {
         points: 100,
         question:
-          "This pop star's “Eras Tour” became the highest-grossing concert tour of all time.",
-        answer: "Who is Taylor Swift?",
+          "This NFL tight end hosted “Saturday Night Live” and started a high-profile romance with Taylor Swift.",
+        answer: "Who is Travis Kelce?",
         revealed: false,
       },
       {
         points: 200,
         question:
-          "She released the album “Cowboy Carter” in 2024, exploring country roots.",
-        answer: "Who is Beyoncé?",
+          "This singer of “Espresso” and “Please Please Please” became a breakout pop star in 2024.",
+        answer: "Who is Sabrina Carpenter?",
         revealed: false,
       },
       {
         points: 300,
         question:
-          "This actor and former wrestler is known globally as “The Rock.”",
-        answer: "Who is Dwayne Johnson?",
+          "This actor became “The Internet's Daddy” thanks to roles in “The Mandalorian” and “The Last of Us”.",
+        answer: "Who is Pedro Pascal?",
         revealed: false,
       },
       {
         points: 400,
         question:
-          "He famously slapped Chris Rock on stage at the 2022 Oscars ceremony.",
-        answer: "Who is Will Smith?",
+          "She produced and starred as the titular doll in the 2023 blockbuster “Barbie”.",
+        answer: "Who is Margot Robbie?",
         revealed: false,
       },
       {
         points: 500,
         question:
-          "This reality star and business mogul founded the shapewear brand SKIMS.",
-        answer: "Who is Kim Kardashian?",
+          "This “The Bear” actor stripped down for a viral Calvin Klein underwear campaign in 2024.",
+        answer: "Who is Jeremy Allen White?",
         revealed: false,
       },
       {
         points: 600,
         question:
-          "This former One Direction member won a Grammy for “Watermelon Sugar.”",
-        answer: "Who is Harry Styles?",
+          "This singer performed the Super Bowl LVII Halftime Show while pregnant with her second child.",
+        answer: "Who is Rihanna?",
         revealed: false,
       },
       {
         points: 700,
         question:
-          "She played Wednesday Addams in the hit Netflix series and starred in “Beetlejuice Beetlejuice.”",
-        answer: "Who is Jenna Ortega?",
+          "This “Euphoria” star faced backlash but found box office success with “Anyone But You” and “Immaculate”.",
+        answer: "Who is Sydney Sweeney?",
         revealed: false,
       },
       {
         points: 800,
         question:
-          "This British actor plays Spider-Man in the MCU and is dating Zendaya.",
-        answer: "Who is Tom Holland?",
+          "This Irish actor played a deceptive student in “Saltburn” and the villain in “Gladiator II”.",
+        answer: "Who is Barry Keoghan?",
         revealed: false,
       },
     ],
   },
   {
-    name: "THRILLERS & MYSTERIES",
+    name: "DARK MYSTERIES",
     questions: [
       {
         points: 100,
         question:
-          "Daniel Craig plays detective Benoit Blanc in this “Knives Out” mystery series.",
-        answer: "What is Knives Out (or Glass Onion)?",
+          "This 2024 Netflix hit follows a comedian stalked by a woman who calls him by the show's title animal name.",
+        answer: "What is Baby Reindeer?",
         revealed: false,
       },
       {
         points: 200,
         question:
-          "This author wrote “Gone Girl” and “Sharp Objects,” both adapted for the screen.",
-        answer: "Who is Gillian Flynn?",
+          "In this 2023 film, a family's vacation is interrupted by an apocalyptic cyberattack; produced by the Obamas.",
+        answer: "What is Leave the World Behind?",
         revealed: false,
       },
       {
         points: 300,
         question:
-          "In this 2014 film, Rosamund Pike frames her husband, played by Ben Affleck, for her murder.",
-        answer: "What is Gone Girl?",
+          "This hit Hulu series features a trio of podcasters solving murders in their New York apartment building.",
+        answer: "What is Only Murders in the Building?",
         revealed: false,
       },
       {
         points: 400,
         question:
-          "This Netflix series follows a charming book lover named Joe Goldberg who obsesses over women.",
-        answer: "What is You?",
+          "Jodie Foster investigates scientists vanishing from an Alaskan research station in this “True Detective” season.",
+        answer: "What is Night Country (or Season 4)?",
         revealed: false,
       },
       {
         points: 500,
         question:
-          "This HBO series features a luxury resort where a murder mystery unfolds each season.",
-        answer: "What is The White Lotus?",
+          "Nicolas Cage plays a satanic serial killer pursued by the FBI in this 2024 horror film with a leggy title.",
+        answer: "What is Longlegs?",
         revealed: false,
       },
       {
         points: 600,
         question:
-          "This 2022 film features a remote island restaurant where the chef prepares a sinister menu.",
-        answer: "What is The Menu?",
+          "Andrew Scott plays a grifting con artist in Italy in this black-and-white Netflix adaptation of a Patricia Highsmith novel.",
+        answer: "What is Ripley?",
         revealed: false,
       },
       {
         points: 700,
         question:
-          "This 2017 Jordan Peele film sees a photographer visiting his girlfriend's family estate with horrifying results.",
-        answer: "What is Get Out?",
+          "In this Apple TV+ thriller, employees undergo a procedure to surgically divide their work memories from personal ones.",
+        answer: "What is Severance?",
         revealed: false,
       },
       {
         points: 800,
         question:
-          "“The Girl on the Train” by this author features an alcoholic protagonist who witnesses something strange.",
-        answer: "Who is Paula Hawkins?",
+          "This 2024 M. Night Shyamalan thriller is set at a pop concert where a father is hiding a dark secret.",
+        answer: "What is Trap?",
         revealed: false,
       },
     ],
   },
   {
-    name: "CURRENT SPORTS",
+    name: "SPORTS ARENA",
     questions: [
       {
         points: 100,
         question:
-          "This Argentine soccer superstar won the World Cup in 2022 and later joined Inter Miami.",
-        answer: "Who is Lionel Messi?",
+          "This NFL team won back-to-back Super Bowls in 2023 and 2024, led by Patrick Mahomes.",
+        answer: "Who are the Kansas City Chiefs?",
         revealed: false,
       },
       {
         points: 200,
         question:
-          "This NFL quarterback has won multiple Super Bowls with the Kansas City Chiefs in the 2020s.",
-        answer: "Who is Patrick Mahomes?",
+          "This WNBA rookie for the Indiana Fever broke attendance and viewership records in 2024.",
+        answer: "Who is Caitlin Clark?",
         revealed: false,
       },
       {
         points: 300,
         question:
-          "She is the most decorated gymnast in history and returned to the Olympics in 2024.",
+          "This Spanish tennis prodigy won Wimbledon 2023 and the French Open 2024, seen as Nadal's successor.",
+        answer: "Who is Carlos Alcaraz?",
+        revealed: false,
+      },
+      {
+        points: 400,
+        question:
+          "This MLB superstar signed a $700 million contract with the LA Dodgers in late 2023.",
+        answer: "Who is Shohei Ohtani?",
+        revealed: false,
+      },
+      {
+        points: 500,
+        question:
+          "This NBA team won the 2024 Championship, powered by Jayson Tatum and Jaylen Brown.",
+        answer: "Who are the Boston Celtics?",
+        revealed: false,
+      },
+      {
+        points: 600,
+        question:
+          "This F1 driver made headlines by announcing a move from Mercedes to Ferrari starting in 2025.",
+        answer: "Who is Lewis Hamilton?",
+        revealed: false,
+      },
+      {
+        points: 700,
+        question:
+          "This American gymnast returned to the Olympics in Paris 2024, cementing her GOAT status.",
         answer: "Who is Simone Biles?",
         revealed: false,
       },
       {
-        points: 400,
-        question:
-          "This NBA player became the league's all-time leading scorer in 2023, passing Kareem Abdul-Jabbar.",
-        answer: "Who is LeBron James?",
-        revealed: false,
-      },
-      {
-        points: 500,
-        question:
-          "This Dutch Formula 1 driver has dominated the grid with Red Bull Racing in recent years.",
-        answer: "Who is Max Verstappen?",
-        revealed: false,
-      },
-      {
-        points: 600,
-        question:
-          "Caitlin Clark became a household name and the all-time leading scorer in NCAA history in this sport.",
-        answer: "What is Basketball?",
-        revealed: false,
-      },
-      {
-        points: 700,
-        question:
-          "Shohei Ohtani, a two-way superstar, signed a record-breaking contract with this MLB team in 2023.",
-        answer: "Who are the Los Angeles Dodgers?",
-        revealed: false,
-      },
-      {
         points: 800,
         question:
-          "This Swiss tennis legend retired in 2022 after playing his final match alongside rival Rafael Nadal.",
-        answer: "Who is Roger Federer?",
+          "This college football team won the National Championship in 2024, defeating Washington.",
+        answer: "Who are the Michigan Wolverines?",
         revealed: false,
       },
     ],
   },
   {
-    name: "TECH TRENDS",
+    name: "FUTURE TECH",
     questions: [
       {
         points: 100,
         question:
-          "This AI research organization, led by Sam Altman, released ChatGPT in late 2022.",
-        answer: "What is OpenAI?",
-        revealed: false,
-      },
-      {
-        points: 200,
-        question:
-          "Formerly known as Twitter, this social media platform was rebranded to this single letter by Elon Musk.",
-        answer: "What is X?",
-        revealed: false,
-      },
-      {
-        points: 300,
-        question:
-          "This short-form video app owned by ByteDance faces scrutiny over its Chinese ownership.",
-        answer: "What is TikTok?",
-        revealed: false,
-      },
-      {
-        points: 400,
-        question:
-          "Apple entered the “spatial computing” market with this headset released in 2024.",
+          "Apple released this “spatial computing” headset in early 2024, priced at $3,499.",
         answer: "What is the Apple Vision Pro?",
         revealed: false,
       },
       {
-        points: 500,
-        question:
-          "This cryptocurrency exchange collapsed in 2022, leading to the conviction of Sam Bankman-Fried.",
-        answer: "What is FTX?",
-        revealed: false,
-      },
-      {
-        points: 600,
-        question:
-          "“Threads” was launched by this parent company of Facebook and Instagram as a text-based app.",
-        answer: "What is Meta?",
-        revealed: false,
-      },
-      {
-        points: 700,
-        question:
-          "This term refers to a persistent, online, 3D universe that combines multiple virtual spaces.",
-        answer: "What is the Metaverse?",
-        revealed: false,
-      },
-      {
-        points: 800,
-        question:
-          "NVIDIA became a multi-trillion dollar company largely due to the demand for chips powering this technology.",
-        answer: "What is Artificial Intelligence (AI)?",
-        revealed: false,
-      },
-    ],
-  },
-  {
-    name: "WORLD EVENTS",
-    questions: [
-      {
-        points: 100,
-        question:
-          "This European country was invaded by Russia in February 2022, sparking a major ongoing conflict.",
-        answer: "What is Ukraine?",
-        revealed: false,
-      },
-      {
         points: 200,
         question:
-          "Charles III was officially crowned King of this country in May 2023.",
-        answer: "What is the United Kingdom?",
+          "This text-based social app from Meta launched in 2023 as a direct competitor to X (Twitter).",
+        answer: "What is Threads?",
         revealed: false,
       },
       {
         points: 300,
         question:
-          "This virus caused a global pandemic that was officially declared over by the WHO in 2023.",
-        answer: "What is COVID-19?",
+          "The iPhone 15 finally adopted this universal charging port standard, replacing Lightning.",
+        answer: "What is USB-C?",
         revealed: false,
       },
       {
         points: 400,
         question:
-          "In 2021, she became the first female Vice President of the United States.",
-        answer: "Who is Kamala Harris?",
+          "This cybersecurity firm caused a massive global IT outage in July 2024 with a faulty update.",
+        answer: "What is CrowdStrike?",
         revealed: false,
       },
       {
         points: 500,
         question:
-          "This country officially left the European Union in 2020, a process known as “Brexit.”",
-        answer: "What is the United Kingdom (or Britain)?",
+          "This Google AI model was rebranded from “Bard” to match its underlying technology in 2024.",
+        answer: "What is Gemini?",
         revealed: false,
       },
       {
         points: 600,
         question:
-          "Massive wildfires in 2023 turned the sky orange in New York, with smoke drifting from this northern neighbor.",
-        answer: "What is Canada?",
+          "Sam Altman was briefly fired and then reinstated as CEO of this AI giant in November 2023.",
+        answer: "What is OpenAI?",
         revealed: false,
       },
       {
         points: 700,
         question:
-          "Following a general election in July 2024, he became the Prime Minister of the United Kingdom.",
-        answer: "Who is Keir Starmer?",
+          "This brain-computer interface company by Elon Musk performed its first human implant in 2024.",
+        answer: "What is Neuralink?",
         revealed: false,
       },
       {
         points: 800,
         question:
-          "This annual global climate summit hosted by the UN is known by this three-letter acronym.",
-        answer: "What is COP?",
+          "This orange, handheld AI device launched in 2024 was widely panned for failing to live up to the hype.",
+        answer: "What is the Rabbit R1?",
         revealed: false,
       },
     ],
   },
   {
-    name: "STREAMING HITS",
+    name: "WORLD NEWS",
     questions: [
       {
         points: 100,
         question:
-          "“Stranger Things,” a sci-fi horror series set in the 80s, is a flagship show for this service.",
-        answer: "What is Netflix?",
+          "The 2024 Summer Olympics were hosted by this European capital city.",
+        answer: "What is Paris?",
         revealed: false,
       },
       {
         points: 200,
         question:
-          "This “Star Wars” series features a helmeted bounty hunter and his charge, Grogu.",
-        answer: "What is The Mandalorian?",
+          "In 2023, this OceanGate submersible imploded while attempting to visit the most famous shipwreck in the Atlantic.",
+        answer: "What is the Titan?",
         revealed: false,
       },
       {
         points: 300,
         question:
-          "“The Bear,” a frantic drama set in a Chicago sandwich shop, streams on this platform in the US.",
-        answer: "What is Hulu?",
+          "This monarch revealed a cancer diagnosis in early 2024, stepping back from some public duties.",
+        answer: "Who is King Charles III?",
         revealed: false,
       },
       {
         points: 400,
         question:
-          "Jason Sudeikis plays an optimistic American football coach managing a British soccer team in this hit.",
-        answer: "What is Ted Lasso?",
+          "This Nordic country officially joined NATO in 2024, following Finland's accession.",
+        answer: "What is Sweden?",
         revealed: false,
       },
       {
         points: 500,
         question:
-          "This period drama produced by Shonda Rhimes follows the romantic lives of eight wealthy siblings in Regency-era London.",
-        answer: "What is Bridgerton?",
+          "A massive container ship collided with and collapsed the Francis Scott Key Bridge in this US city.",
+        answer: "What is Baltimore?",
         revealed: false,
       },
       {
         points: 600,
         question:
-          "This prequel series returned viewers to Westeros to witness the dance of dragons within House Targaryen.",
-        answer: "What is House of the Dragon?",
+          "This WikiLeaks founder reached a plea deal with the US and returned to Australia in 2024.",
+        answer: "Who is Julian Assange?",
         revealed: false,
       },
       {
         points: 700,
         question:
-          "This South Korean survival drama became Netflix's most-watched series of all time.",
-        answer: "What is Squid Game?",
+          "This weight-loss drug became a cultural phenomenon and economic driver for Denmark's Novo Nordisk.",
+        answer: "What is Ozempic (or Wegovy)?",
         revealed: false,
       },
       {
         points: 800,
         question:
-          "This dystopian series, based on a novel by Margaret Atwood, depicts a totalitarian society called Gilead.",
-        answer: "What is The Handmaid's Tale?",
+          "In 2023, this country became the fourth nation to successfully land a spacecraft on the Moon.",
+        answer: "What is India?",
+        revealed: false,
+      },
+    ],
+  },
+  {
+    name: "STREAMING NOW",
+    questions: [
+      {
+        points: 100,
+        question:
+          "This Amazon Prime series based on a video game franchise features a Vault Dweller venturing into the wasteland.",
+        answer: "What is Fallout?",
+        revealed: false,
+      },
+      {
+        points: 200,
+        question:
+          "This FX/Hulu series set in feudal Japan won critical acclaim for its authenticity and scope in 2024.",
+        answer: "What is Shōgun?",
+        revealed: false,
+      },
+      {
+        points: 300,
+        question:
+          "The final season of this royal drama covered the death of Princess Diana and the early romance of William and Kate.",
+        answer: "What is The Crown?",
+        revealed: false,
+      },
+      {
+        points: 400,
+        question:
+          "This Disney+ animated series revived a beloved 90s superhero cartoon in 2024.",
+        answer: "What is X-Men '97?",
+        revealed: false,
+      },
+      {
+        points: 500,
+        question:
+          "This Netflix adaptation of a Chinese sci-fi novel involves a VR game and an alien invasion threat.",
+        answer: "What is 3 Body Problem?",
+        revealed: false,
+      },
+      {
+        points: 600,
+        question:
+          "Rosario Dawson stars as a dual-wielding Jedi seeking Grand Admiral Thrawn in this 2023 “Star Wars” series.",
+        answer: "What is Ahsoka?",
+        revealed: false,
+      },
+      {
+        points: 700,
+        question:
+          "Based on a novel, this Netflix series tells the decades-spanning love story of Dex and Em on the same date each year.",
+        answer: "What is One Day?",
+        revealed: false,
+      },
+      {
+        points: 800,
+        question:
+          "This Apple TV+ war drama, produced by Hanks and Spielberg, follows the 100th Bomb Group in WWII.",
+        answer: "What is Masters of the Air?",
         revealed: false,
       },
     ],
