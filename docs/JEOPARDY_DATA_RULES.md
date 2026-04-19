@@ -13,12 +13,12 @@ Historically, question updates in this repo have been simple data swaps (e.g. co
 
 The board UI assumes a fixed clue grid:
 
-- **Exactly 7 categories**
-- **Exactly 8 clues per category**
-- **Point values**: `100, 200, 300, 400, 500, 600, 700, 800` (each used once per category)
+- **Exactly 6 categories**
+- **Exactly 5 clues per category**
+- **Point values**: `100, 200, 300, 400, 500` (each used once per category)
 - **All clues start unrevealed**: `revealed: false`
 
-If you change these, you are implicitly changing the UI contract (which we don’t do).
+If you change these numbers you must also update `src/components/JeopardyBoard.tsx` (the `repeat(5, 1fr)` row template and `Array.from({ length: 5 })`) and `scripts/validate-jeopardy-data.mjs` to match.
 
 ## Jeopardy-style clue writing rules
 

@@ -72,9 +72,9 @@ function main() {
   }
 
   // UI contract checks
-  const expectedCategoryCount = 7;
-  const expectedClueCount = 8;
-  const expectedPoints = [100, 200, 300, 400, 500, 600, 700, 800];
+  const expectedCategoryCount = 6;
+  const expectedClueCount = 5;
+  const expectedPoints = [100, 200, 300, 400, 500];
 
   if (categories.length !== expectedCategoryCount) {
     fail(`Expected exactly ${expectedCategoryCount} categories; got ${categories.length}`);

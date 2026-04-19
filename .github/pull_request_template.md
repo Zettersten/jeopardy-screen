@@ -13,9 +13,9 @@
 - [ ] Answers are phrased as responses (e.g., “What is…?”, “Who is…?”)
 
 ## Data contract (must match UI expectations)
-- [ ] Exactly **7 categories**
-- [ ] Exactly **8 clues per category**
-- [ ] Points are **100–800 by 100s**, each used once per category
+- [ ] Exactly **6 categories**
+- [ ] Exactly **5 clues per category**
+- [ ] Points are **100–500 by 100s**, each used once per category
 - [ ] All clues have `revealed: false`
 
 ## Validation

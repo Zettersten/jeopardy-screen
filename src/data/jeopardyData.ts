@@ -12,425 +12,241 @@ export interface Category {
 
 export const categories: Category[] = [
   {
-    name: "WENDY",
+    name: "LABOR & DELIVERY",
     questions: [
       {
         points: 100,
-        question: "The birthday girl is turning this age today — everyone raise a glass!",
-        answer: "What is 37?",
+        question:
+          "The average full-term human pregnancy lasts approximately this many weeks.",
+        answer: "What is 40 weeks?",
         revealed: false,
       },
       {
         points: 200,
         question:
-          "Wendy has been chasing this sport since childhood and would probably still outrun you on the field.",
-        answer: "What is soccer?",
+          "This synthetic version of a natural labor hormone is administered through an IV drip to start or accelerate contractions.",
+        answer: "What is Pitocin?",
         revealed: false,
       },
       {
         points: 300,
         question:
-          "This 1989 Tom Petty classic — a dreamy love letter to a free-spirited California girl — is Wendy's all-time favorite song.",
-        answer: "What is \"Free Fallin'\"?",
+          "This pain management technique, delivered through a catheter placed near the spine, is the most commonly requested form of relief during labor in the United States.",
+        answer: "What is an epidural?",
         revealed: false,
       },
       {
         points: 400,
         question:
-          "Keeping up with the kids gets her out of bed early, but left to her own devices Wendy is actually this type of person.",
-        answer: "What is a night owl?",
+          "This cervical measurement, checked in centimeters during labor, tells the care team how open the birth canal has become — reaching 10 means it's time to push.",
+        answer: "What is dilation?",
         revealed: false,
       },
       {
         points: 500,
         question:
-          "Wendy earned her degree at this Virginia university, home of the Dukes and nestled in the Shenandoah Valley.",
-        answer: "What is James Madison University?",
-        revealed: false,
-      },
-      {
-        points: 600,
-        question: "Wendy grew up in a seriously large household — she has this many siblings total.",
-        answer: "What is 10?",
-        revealed: false,
-      },
-      {
-        points: 700,
-        question: "In her famously large family, Wendy holds this specific birth-order position.",
-        answer: "What is 6th?",
-        revealed: false,
-      },
-      {
-        points: 800,
-        question:
-          "Before Instagram, Wendy roamed the internet under this AIM-era screen name.",
-        answer: "What is shordee?",
+          "This five-criterion newborn scoring system, evaluated at one and five minutes after delivery, determines whether a baby needs immediate medical attention.",
+        answer: "What is the Apgar score?",
         revealed: false,
       },
     ],
   },
   {
-    name: "Y2K BABY",
+    name: "NEW TESTAMENT",
     questions: [
       {
         points: 100,
         question:
-          "This feared computer glitch — tied to how older software stored only the last two digits of a year — had the world bracing for catastrophic systems failure at midnight on January 1, 2000.",
-        answer: "What is the Y2K bug?",
+          "Jesus performed his first recorded miracle at a wedding in this city, turning water into wine.",
+        answer: "What is Cana?",
         revealed: false,
       },
       {
         points: 200,
         question:
-          "This heiress and socialite defined early-2000s celebrity culture with velour tracksuits, trucker hats, and the catchphrase \"That's hot.\"",
-        answer: "Who is Paris Hilton?",
+          "This apostle, known as \"the beloved,\" traditionally authored the fourth Gospel and stood at the foot of the cross during the crucifixion.",
+        answer: "Who is John?",
         revealed: false,
       },
       {
         points: 300,
         question:
-          "This ultra-slim flip phone, released in 2004 and famous for its razor-thin profile, became the mid-2000s' defining status-symbol handset.",
-        answer: "What is the Motorola Razr?",
+          "These nine statements from the Sermon on the Mount, each beginning with \"Blessed are...,\" outline the qualities God honors in his people.",
+        answer: "What are the Beatitudes?",
         revealed: false,
       },
       {
         points: 400,
         question:
-          "This social networking site, launched in 2003, let users rank their \"Top 8\" contacts and embed autoplay songs on their profiles.",
-        answer: "What is MySpace?",
+          "Paul wrote the famous passage \"Love is patient, love is kind\" in this New Testament letter addressed to a church in Greece.",
+        answer: "What is 1 Corinthians?",
         revealed: false,
       },
       {
         points: 500,
         question:
-          "Steve Jobs unveiled this device in October 2001 with the promise of \"1,000 songs in your pocket,\" revolutionizing portable music forever.",
-        answer: "What is the iPod?",
-        revealed: false,
-      },
-      {
-        points: 600,
-        question:
-          "This fashion label — named after a legendary custom pinstriper from California — became the defining celebrity trucker hat brand of the early 2000s.",
-        answer: "What is Von Dutch?",
-        revealed: false,
-      },
-      {
-        points: 700,
-        question:
-          "This pioneering peer-to-peer music service amassed roughly 80 million registered users before being ordered to shut down in 2001 following lawsuits from Metallica and the RIAA.",
-        answer: "What is Napster?",
-        revealed: false,
-      },
-      {
-        points: 800,
-        question:
-          "Founded in 1997 by Pamela Skaist-Levy and Gela Nash-Taylor, this California fashion brand's velour tracksuits became the unofficial celebrity uniform of the early 2000s.",
-        answer: "What is Juicy Couture?",
+          "This parable, unique to Luke's Gospel, describes a compassionate father who runs to embrace his wayward son returning after squandering his entire inheritance.",
+        answer: "What is the Parable of the Prodigal Son?",
         revealed: false,
       },
     ],
   },
   {
-    name: "00S BANGERS",
+    name: "OLD TESTAMENT",
     questions: [
       {
         points: 100,
         question:
-          "Beyoncé's 2008 anthem, performed with two backup dancers in matching leotards, commanded a certain relationship status to put a ring on it.",
-        answer: "What is \"Single Ladies\"?",
+          "God parted this body of water so Moses could lead the Israelites out of Egypt and into the wilderness.",
+        answer: "What is the Red Sea?",
         revealed: false,
       },
       {
         points: 200,
         question:
-          "This rapper's 2003 debut single opened with \"Go shorty, it's your birthday\" and became one of the defining party anthems of the decade.",
-        answer: "Who is 50 Cent?",
+          "This prophet initially fled his calling, was swallowed by a great fish, and eventually obeyed God by preaching repentance in Nineveh.",
+        answer: "Who is Jonah?",
         revealed: false,
       },
       {
         points: 300,
         question:
-          "This British singer's 2006 album contained the Grammy-winning single \"Rehab\" and her soul-drenched title ballad about returning to old habits.",
-        answer: "What is \"Back to Black\"?",
+          "This Moabite woman pledged \"Where you go, I will go\" to her mother-in-law and followed her back to Bethlehem after both became widows.",
+        answer: "Who is Ruth?",
         revealed: false,
       },
       {
         points: 400,
         question:
-          "Justin Timberlake's 2002 breakout solo single featured a moody music video with a woman who bore a striking resemblance to his famous ex-girlfriend.",
-        answer: "What is \"Cry Me a River\"?",
+          "This youngest son of Jesse, a shepherd boy who felled a Philistine giant with a sling and a single stone, later became Israel's greatest king.",
+        answer: "Who is David?",
         revealed: false,
       },
       {
         points: 500,
         question:
-          "This 2004 Kanye West debut sampled sped-up soul records and produced hits like \"All Falls Down\" — reportedly inspired by its creator's satirical take on higher education.",
-        answer: "What is \"The College Dropout\"?",
-        revealed: false,
-      },
-      {
-        points: 600,
-        question:
-          "This 2003 OutKast hit urged listeners to shake something \"like a Polaroid picture\" — even as Polaroid publicly advised against doing exactly that to its film.",
-        answer: "What is \"Hey Ya!\"?",
-        revealed: false,
-      },
-      {
-        points: 700,
-        question:
-          "This singer-songwriter, the daughter of Indian sitar master Ravi Shankar, personally swept five Grammy Awards in 2003 for her jazz-inflected debut album \"Come Away with Me.\"",
-        answer: "Who is Norah Jones?",
-        revealed: false,
-      },
-      {
-        points: 800,
-        question:
-          "This 2001 album by a French electronic duo produced anthems like \"One More Time\" and \"Harder, Better, Faster, Stronger\" and was later brought to life as the animated film \"Interstella 5555.\"",
-        answer: "What is \"Discovery\"?",
+          "This ruler of a wealthy southern kingdom made a famous journey to test Solomon's legendary wisdom, arriving with a great caravan of spices, gold, and precious stones.",
+        answer: "Who is the Queen of Sheba?",
         revealed: false,
       },
     ],
   },
   {
-    name: "PAGE TURNERS",
+    name: "SWEAT IT OUT",
     questions: [
       {
         points: 100,
         question:
-          "In this Gillian Flynn bestseller, a woman named Amy vanishes on her wedding anniversary, leaving her husband as the prime suspect in a national media frenzy.",
-        answer: "What is \"Gone Girl\"?",
+          "This foundational lower-body exercise involves pushing the hips back and bending both knees to lower the body as if sitting into a chair.",
+        answer: "What is a squat?",
         revealed: false,
       },
       {
         points: 200,
         question:
-          "This Paula Hawkins thriller follows a daily train commuter who witnesses something suspicious from her window seat and becomes entangled in a missing-woman mystery.",
-        answer: "What is \"The Girl on the Train\"?",
+          "This component of physical fitness — improved by yoga and static stretching — determines how far a muscle can move a joint through its full range of motion.",
+        answer: "What is flexibility?",
         revealed: false,
       },
       {
         points: 300,
         question:
-          "This Liane Moriarty novel — adapted into an HBO series starring Reese Witherspoon and Nicole Kidman — follows three women in Monterey, California hiding explosive secrets.",
-        answer: "What is \"Big Little Lies\"?",
+          "This training method alternates short bursts of all-out effort with brief rest periods, keeping the heart rate elevated for maximum calorie burn in minimum time.",
+        answer: "What is HIIT (High-Intensity Interval Training)?",
         revealed: false,
       },
       {
         points: 400,
         question:
-          "Suzanne Collins' dystopian trilogy about televised survival competitions in a future North America became a four-film franchise starring Jennifer Lawrence.",
-        answer: "What is \"The Hunger Games\"?",
+          "This macronutrient, found in chicken, eggs, and Greek yogurt, is the primary building block the body uses to repair and grow muscle tissue after exercise.",
+        answer: "What is protein?",
         revealed: false,
       },
       {
         points: 500,
         question:
-          "Taylor Jenkins Reid's 2017 novel follows a fictional 79-year-old Hollywood icon recounting her scandalous life story through a series of magazine interviews.",
-        answer: "What is \"The Seven Husbands of Evelyn Hugo\"?",
-        revealed: false,
-      },
-      {
-        points: 600,
-        question:
-          "Delia Owens' debut novel about a reclusive North Carolina coastal girl known as the \"Marsh Girl\" became a publishing phenomenon and a 2022 major studio film.",
-        answer: "What is \"Where the Crawdads Sing\"?",
-        revealed: false,
-      },
-      {
-        points: 700,
-        question:
-          "In this 2019 Alex Michaelides debut, a therapist becomes obsessed with uncovering why a famous painter shot her husband five times — then went permanently mute.",
-        answer: "What is \"The Silent Patient\"?",
-        revealed: false,
-      },
-      {
-        points: 800,
-        question:
-          "Celeste Ng's second novel, set in the meticulously planned Ohio suburb of Shaker Heights, explores class and race tensions and became a 2020 Hulu series with Reese Witherspoon.",
-        answer: "What is \"Little Fires Everywhere\"?",
+          "This distance-race pacing strategy — completing the second half faster than the first — is widely considered the most effective approach for endurance events.",
+        answer: "What is a negative split?",
         revealed: false,
       },
     ],
   },
   {
-    name: "COCKTAIL HOUR",
+    name: "THROWBACK JAMS",
     questions: [
       {
         points: 100,
         question:
-          "This brunch-staple cocktail blends vodka with tomato juice, Worcestershire sauce, and hot sauce, typically garnished with a celery stalk.",
-        answer: "What is a Bloody Mary?",
+          "This Florida boy band released \"I Want It That Way\" in 1999, becoming one of the best-selling musical acts of all time.",
+        answer: "Who are the Backstreet Boys?",
         revealed: false,
       },
       {
         points: 200,
         question:
-          "This classic cocktail is shaken with tequila, fresh lime juice, and triple sec, then served in a glass rimmed with salt.",
-        answer: "What is a Margarita?",
+          "Alanis Morissette's 1995 major-label breakthrough launched with the raw breakup anthem \"You Oughta Know\" and also produced the irony-heavy hit \"Ironic\" — name this album.",
+        answer: "What is \"Jagged Little Pill\"?",
         revealed: false,
       },
       {
         points: 300,
         question:
-          "This Cuban cocktail muddled fresh mint and sugar with white rum and lime juice, then topped it with soda water — endlessly copied, rarely bettered.",
-        answer: "What is a Mojito?",
+          "This Canadian pop-punk singer-songwriter released \"Complicated\" and \"Sk8er Boi\" on her 2002 debut album \"Let Go.\"",
+        answer: "Who is Avril Lavigne?",
         revealed: false,
       },
       {
         points: 400,
         question:
-          "This Italian bitters-and-Prosecco cocktail, served over ice with an orange slice, became the dominant social-media drink of the late 2010s.",
-        answer: "What is an Aperol Spritz?",
+          "Kelly Clarkson won the inaugural season of this Fox singing competition in 2002, launching her career with \"A Moment Like This.\"",
+        answer: "What is American Idol?",
         revealed: false,
       },
       {
         points: 500,
         question:
-          "This Kentucky Derby signature drink is built with bourbon, fresh mint, simple syrup, and crushed ice in a distinctive silver or pewter cup.",
-        answer: "What is a Mint Julep?",
-        revealed: false,
-      },
-      {
-        points: 600,
-        question:
-          "This Italian aperitivo — made with equal parts gin, sweet vermouth, and Campari — is said to have been invented when a Florentine count asked for something stronger than an Americano.",
-        answer: "What is a Negroni?",
-        revealed: false,
-      },
-      {
-        points: 700,
-        question:
-          "According to cocktail legend, Trader Vic Bergeron's Tahitian guests exclaimed \"Maita'i roa ae!\" — \"out of this world\" — upon tasting this rum, orgeat, and curaçao tiki classic.",
-        answer: "What is a Mai Tai?",
-        revealed: false,
-      },
-      {
-        points: 800,
-        question:
-          "This French Champagne aperitif is made by adding a splash of blackcurrant liqueur to a flute of bubbly — named after a WWII Resistance fighter who later became mayor of Dijon.",
-        answer: "What is a Kir Royale?",
+          "This 2000 Eminem track, told through the unhinged letters of an obsessive fan, gave pop culture a new word for a dangerously devoted superfan.",
+        answer: "What is \"Stan\"?",
         revealed: false,
       },
     ],
   },
   {
-    name: "MOM BRAIN",
+    name: "TRAD WIFE",
     questions: [
       {
         points: 100,
         question:
-          "This infamous toddler phase, marked by tantrums and boundary-testing, takes its name from the age at which it typically peaks.",
-        answer: "What are the Terrible Twos?",
+          "This type of homemade bread — leavened by a living culture of wild yeast instead of commercial packets — has become a symbol of the from-scratch homemaking revival.",
+        answer: "What is sourdough?",
         revealed: false,
       },
       {
         points: 200,
         question:
-          "This pediatric sleep-training approach, developed at Boston Children's Hospital in the 1980s, guides parents through timed intervals of supervised crying to teach infants to self-soothe.",
-        answer: "What is the Ferber method?",
+          "This home preservation technique — sealing food in sterilized jars using a boiling water bath or pressure cooker — lets homemakers enjoy summer harvests all winter long.",
+        answer: "What is canning?",
         revealed: false,
       },
       {
         points: 300,
         question:
-          "This parenting style — named after an airborne vehicle that hovers overhead — involves closely supervising every detail of a child's academic and social life.",
-        answer: "What is helicopter parenting?",
+          "This beloved television host, famous for her exuberant personality and love of butter, popularized classical French cooking techniques for American home kitchens starting in the 1960s.",
+        answer: "Who is Julia Child?",
         revealed: false,
       },
       {
         points: 400,
         question:
-          "This modern child-rearing philosophy emphasizes empathy, firm limits without punishment, and validating children's emotions over traditional discipline approaches.",
-        answer: "What is gentle parenting?",
+          "This former Juilliard ballet student became a viral homesteading icon through her \"Ballerina Farm\" brand, her large Utah family, and a widely-discussed magazine cover story.",
+        answer: "Who is Hannah Neeleman?",
         revealed: false,
       },
       {
         points: 500,
         question:
-          "This educational philosophy, developed by an early-20th-century Italian physician, emphasizes child-led exploration, hands-on learning materials, and mixed-age classroom environments.",
-        answer: "What is Montessori?",
-        revealed: false,
-      },
-      {
-        points: 600,
-        question:
-          "This 2011 parenting book by Dr. Daniel Siegel and Tina Payne Bryson teaches parents to \"connect and redirect\" — acknowledging a child's emotions before correcting behavior.",
-        answer: "What is \"The Whole-Brain Child\"?",
-        revealed: false,
-      },
-      {
-        points: 700,
-        question:
-          "This 1980 parenting classic by Adele Faber and Elaine Mazlish focuses on communication strategies that help children feel genuinely understood and heard.",
-        answer: "What is \"How to Talk So Kids Will Listen & Listen So Kids Will Talk\"?",
-        revealed: false,
-      },
-      {
-        points: 800,
-        question:
-          "Psychologist John Bowlby developed this foundational developmental theory describing the emotional bond between infants and caregivers, later elaborated by Mary Ainsworth into four distinct styles.",
-        answer: "What is attachment theory?",
-        revealed: false,
-      },
-    ],
-  },
-  {
-    name: "WELLNESS ERA",
-    questions: [
-      {
-        points: 100,
-        question:
-          "This fat-soluble nutrient, produced naturally when skin is exposed to sunlight, is one of the most commonly deficient in the adult population.",
-        answer: "What is Vitamin D?",
-        revealed: false,
-      },
-      {
-        points: 200,
-        question:
-          "This transitional phase — which can begin as early as the late 30s — is defined by fluctuating estrogen levels and irregular periods in the years leading up to menopause.",
-        answer: "What is perimenopause?",
-        revealed: false,
-      },
-      {
-        points: 300,
-        question:
-          "This ancient Ayurvedic root, also called \"Indian ginseng,\" has become one of the most popular adaptogens for reducing cortisol and managing chronic stress.",
-        answer: "What is ashwagandha?",
-        revealed: false,
-      },
-      {
-        points: 400,
-        question:
-          "This essential mineral — often supplemented in glycinate or citrate form — participates in over 300 enzymatic reactions and is widely recommended for sleep support and anxiety.",
-        answer: "What is magnesium?",
-        revealed: false,
-      },
-      {
-        points: 500,
-        question:
-          "This patient-centered medical approach focuses on identifying root causes of chronic disease rather than managing symptoms with medication, often using advanced lab work to personalize treatment.",
-        answer: "What is functional medicine?",
-        revealed: false,
-      },
-      {
-        points: 600,
-        question:
-          "This vast ecosystem of bacteria, fungi, and microorganisms living in the digestive tract has been linked by research to mood regulation, immunity, and metabolic health.",
-        answer: "What is the gut microbiome?",
-        revealed: false,
-      },
-      {
-        points: 700,
-        question:
-          "This structural protein — the most abundant in the human body — has become a popular supplement added to coffee and smoothies for skin elasticity, joint support, and lining integrity.",
-        answer: "What is collagen?",
-        revealed: false,
-      },
-      {
-        points: 800,
-        question:
-          "This stress hormone, produced by the adrenal glands, when chronically elevated by poor sleep and high sugar intake, is a key driver of inflammation, weight gain, and hormonal disruption.",
-        answer: "What is cortisol?",
+          "This iconic homemaking cookbook, first published in 1950 and named for a fictional female spokesperson, has sold tens of millions of copies across its many updated editions.",
+        answer: "What is the Betty Crocker Cookbook?",
         revealed: false,
       },
     ],

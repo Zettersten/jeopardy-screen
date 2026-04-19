@@ -47,7 +47,7 @@ export const JeopardyBoard = () => {
         className="grid flex-1 gap-2"
         style={{
           gridTemplateColumns: `repeat(${categories.length}, 1fr)`,
-          gridTemplateRows: "auto repeat(8, 1fr)",
+          gridTemplateRows: "auto repeat(5, 1fr)",
         }}
       >
         {/* Category Headers */}
@@ -63,7 +63,7 @@ export const JeopardyBoard = () => {
         ))}
 
         {/* Question Tiles */}
-        {Array.from({ length: 8 }).map((_, qIdx) =>
+        {Array.from({ length: 5 }).map((_, qIdx) =>
           categories.map((category, catIdx) => {
             const question = category.questions[qIdx];
             const key = getTileKey(catIdx, qIdx);
