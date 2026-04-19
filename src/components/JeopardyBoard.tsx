@@ -3,6 +3,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import { gsap } from "gsap";
 import { gameData, categories, type Category, type Question } from "@/data/jeopardyData";
 import { useGameAudio } from "@/hooks/useGameAudio";
+import { useFitText } from "@/hooks/useFitText";
 
 interface SelectedQuestion {
   category: Category;
@@ -18,6 +19,15 @@ export const JeopardyBoard = () => {
   const [boardAnimated, setBoardAnimated] = useState(false);
   const boardRef = useRef<HTMLDivElement>(null);
   const { startAudio, playQuestion, playReveal, audioReady } = useGameAudio();
+
+  const { ref: questionContainerRef, fontSize: questionFontSize } = useFitText(
+    selectedQuestion?.question.question ?? '',
+    'Oswald, sans-serif'
+  );
+  const { ref: answerContainerRef, fontSize: answerFontSize } = useFitText(
+    selectedQuestion?.question.answer ?? '',
+    'Oswald, sans-serif'
+  );
 
   const handleStart = useCallback(() => {
     if (!audioReady || !boardRef.current) return;
@@ -205,25 +215,33 @@ export const JeopardyBoard = () => {
                 {!showAnswer ? (
                   <motion.div
                     key="question"
+                    ref={questionContainerRef}
                     initial={{ opacity: 0, y: 20 }}
                     animate={{ opacity: 1, y: 0 }}
                     exit={{ opacity: 0, y: -20 }}
                     transition={{ delay: 0.4 }}
                     className="text-center flex-1 flex items-center"
                   >
-                    <p className="font-body text-3xl md:text-5xl lg:text-6xl xl:text-7xl text-primary jeopardy-text-glow leading-tight uppercase">
+                    <p
+                      className="font-body text-primary jeopardy-text-glow leading-tight uppercase"
+                      style={{ fontSize: questionFontSize }}
+                    >
                       {selectedQuestion.question.question}
                     </p>
                   </motion.div>
                 ) : (
                   <motion.div
                     key="answer"
+                    ref={answerContainerRef}
                     initial={{ opacity: 0, scale: 0.8, rotateX: -90 }}
                     animate={{ opacity: 1, scale: 1, rotateX: 0 }}
                     transition={{ type: "spring", stiffness: 200, damping: 20 }}
                     className="text-center flex-1 flex items-center"
                   >
-                    <p className="font-body text-3xl md:text-5xl lg:text-6xl xl:text-7xl text-accent jeopardy-text-glow leading-tight uppercase">
+                    <p
+                      className="font-body text-accent jeopardy-text-glow leading-tight uppercase"
+                      style={{ fontSize: answerFontSize }}
+                    >
                       {selectedQuestion.question.answer}
                     </p>
                   </motion.div>
