@@ -1,6 +1,6 @@
 import { useState, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { categories, type Category, type Question } from "@/data/jeopardyData";
+import { gameData, categories, type Category, type Question } from "@/data/jeopardyData";
 
 interface SelectedQuestion {
   category: Category;
@@ -47,7 +47,7 @@ export const JeopardyBoard = () => {
         className="grid flex-1 gap-2"
         style={{
           gridTemplateColumns: `repeat(${categories.length}, 1fr)`,
-          gridTemplateRows: "auto repeat(5, 1fr)",
+          gridTemplateRows: `auto repeat(${gameData.rows}, 1fr)`,
         }}
       >
         {/* Category Headers */}
@@ -63,7 +63,7 @@ export const JeopardyBoard = () => {
         ))}
 
         {/* Question Tiles */}
-        {Array.from({ length: 5 }).map((_, qIdx) =>
+        {Array.from({ length: gameData.rows }).map((_, qIdx) =>
           categories.map((category, catIdx) => {
             const question = category.questions[qIdx];
             const key = getTileKey(catIdx, qIdx);
