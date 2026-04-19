@@ -20,11 +20,11 @@ export const JeopardyBoard = () => {
   const boardRef = useRef<HTMLDivElement>(null);
   const { startAudio, playQuestion, playReveal, audioReady } = useGameAudio();
 
-  const { ref: questionContainerRef, fontSize: questionFontSize } = useFitText(
+  const questionFontSize = useFitText(
     selectedQuestion?.question.question ?? '',
     'Oswald, sans-serif'
   );
-  const { ref: answerContainerRef, fontSize: answerFontSize } = useFitText(
+  const answerFontSize = useFitText(
     selectedQuestion?.question.answer ?? '',
     'Oswald, sans-serif'
   );
@@ -215,7 +215,6 @@ export const JeopardyBoard = () => {
                 {!showAnswer ? (
                   <motion.div
                     key="question"
-                    ref={questionContainerRef}
                     initial={{ opacity: 0, y: 20 }}
                     animate={{ opacity: 1, y: 0 }}
                     exit={{ opacity: 0, y: -20 }}
@@ -232,7 +231,6 @@ export const JeopardyBoard = () => {
                 ) : (
                   <motion.div
                     key="answer"
-                    ref={answerContainerRef}
                     initial={{ opacity: 0, scale: 0.8, rotateX: -90 }}
                     animate={{ opacity: 1, scale: 1, rotateX: 0 }}
                     transition={{ type: "spring", stiffness: 200, damping: 20 }}
