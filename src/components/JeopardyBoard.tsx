@@ -40,6 +40,7 @@ export const JeopardyBoard = () => {
         duration: 0.65,
         stagger: { each: 0.045, from: "start" },
         ease: "back.out(1.6)",
+        clearProps: "opacity,transform",
         onComplete() {
           tiles.forEach((tile) => { tile.style.transition = ""; });
         },
