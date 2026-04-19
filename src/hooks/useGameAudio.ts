@@ -1,10 +1,11 @@
 import { useEffect, useRef, useCallback } from "react";
 
+const BASE = import.meta.env.BASE_URL;
 const AUDIO_PATHS = {
-  intro: "/audio/intro.mp3",
-  background: "/audio/background.mp3",
-  question: "/audio/question.mp3",
-  reveal: "/audio/reveal.mp3",
+  intro: `${BASE}audio/intro.mp3`,
+  background: `${BASE}audio/background.mp3`,
+  question: `${BASE}audio/question.mp3`,
+  reveal: `${BASE}audio/reveal.mp3`,
 } as const;
 
 function createAudio(src: string, loop = false): HTMLAudioElement {
