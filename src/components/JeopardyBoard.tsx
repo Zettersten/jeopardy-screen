@@ -1,6 +1,7 @@
 import { useState, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { gameData, categories, type Category, type Question } from "@/data/jeopardyData";
+import { useGameAudio } from "@/hooks/useGameAudio";
 
 interface SelectedQuestion {
   category: Category;
@@ -13,6 +14,7 @@ export const JeopardyBoard = () => {
   const [revealedTiles, setRevealedTiles] = useState<Set<string>>(new Set());
   const [selectedQuestion, setSelectedQuestion] = useState<SelectedQuestion | null>(null);
   const [showAnswer, setShowAnswer] = useState(false);
+  const { startAudio, playQuestion, playReveal } = useGameAudio();
 
   const getTileKey = (catIdx: number, qIdx: number) => `${catIdx}-${qIdx}`;
 
@@ -21,10 +23,12 @@ export const JeopardyBoard = () => {
       const key = getTileKey(catIdx, qIdx);
       if (revealedTiles.has(key)) return;
 
+      startAudio();
+      playQuestion();
       setSelectedQuestion({ category, question, categoryIndex: catIdx, questionIndex: qIdx });
       setShowAnswer(false);
     },
-    [revealedTiles]
+    [revealedTiles, startAudio, playQuestion]
   );
 
   const handleClose = useCallback(() => {
@@ -37,8 +41,9 @@ export const JeopardyBoard = () => {
   }, [selectedQuestion]);
 
   const handleRevealAnswer = useCallback(() => {
+    playReveal();
     setShowAnswer(true);
-  }, []);
+  }, [playReveal]);
 
   return (
     <div className="min-h-screen w-full bg-background p-4 flex flex-col">
