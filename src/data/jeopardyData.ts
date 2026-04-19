@@ -37,8 +37,8 @@ export const categories: Category[] = [
       {
         points: 400,
         question:
-          "Despite a full house, Wendy naturally thrives before noon — making her this type of person by preference.",
-        answer: "What is a morning person?",
+          "Keeping up with the kids gets her out of bed early, but left to her own devices Wendy is actually this type of person.",
+        answer: "What is a night owl?",
         revealed: false,
       },
       {
@@ -63,8 +63,8 @@ export const categories: Category[] = [
       {
         points: 800,
         question:
-          "Before Instagram, Wendy could be found online under this AIM-era screen name that cheekily doubled up her first initial.",
-        answer: "What is vvendyy?",
+          "Before Instagram, Wendy roamed the internet under this AIM-era screen name.",
+        answer: "What is shordee?",
         revealed: false,
       },
     ],
