@@ -1,5 +1,6 @@
-import { useState, useCallback } from "react";
+import { useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
+import { gsap } from "gsap";
 import { gameData, categories, type Category, type Question } from "@/data/jeopardyData";
 import { useGameAudio } from "@/hooks/useGameAudio";
 
@@ -14,7 +15,23 @@ export const JeopardyBoard = () => {
   const [revealedTiles, setRevealedTiles] = useState<Set<string>>(new Set());
   const [selectedQuestion, setSelectedQuestion] = useState<SelectedQuestion | null>(null);
   const [showAnswer, setShowAnswer] = useState(false);
-  const { startAudio, playQuestion, playReveal } = useGameAudio();
+  const [boardAnimated, setBoardAnimated] = useState(false);
+  const boardRef = useRef<HTMLDivElement>(null);
+  const { startAudio, playQuestion, playReveal, audioReady } = useGameAudio();
+
+  const handleStart = useCallback(() => {
+    if (!audioReady || !boardRef.current) return;
+    setBoardAnimated(true);
+    startAudio();
+    const tiles = boardRef.current.querySelectorAll<HTMLElement>("[data-tile]");
+    gsap.from(tiles, {
+      y: -220,
+      opacity: 0,
+      duration: 0.65,
+      stagger: { each: 0.045, from: "start" },
+      ease: "back.out(1.6)",
+    });
+  }, [audioReady, startAudio]);
 
   const getTileKey = (catIdx: number, qIdx: number) => `${catIdx}-${qIdx}`;
 
@@ -23,12 +40,11 @@ export const JeopardyBoard = () => {
       const key = getTileKey(catIdx, qIdx);
       if (revealedTiles.has(key)) return;
 
-      startAudio();
       playQuestion();
       setSelectedQuestion({ category, question, categoryIndex: catIdx, questionIndex: qIdx });
       setShowAnswer(false);
     },
-    [revealedTiles, startAudio, playQuestion]
+    [revealedTiles, playQuestion]
   );
 
   const handleClose = useCallback(() => {
@@ -47,8 +63,29 @@ export const JeopardyBoard = () => {
 
   return (
     <div className="min-h-screen w-full bg-background p-4 flex flex-col">
+      {/* Loading / Click-to-start overlay */}
+      <AnimatePresence>
+        {!boardAnimated && (
+          <motion.div
+            key="overlay"
+            initial={{ opacity: 1 }}
+            exit={{ opacity: 0 }}
+            transition={{ duration: 0.5 }}
+            onClick={handleStart}
+            className={`fixed inset-0 z-50 flex flex-col items-center justify-center bg-background select-none ${
+              audioReady ? "cursor-pointer" : "cursor-wait"
+            }`}
+          >
+            <p className="font-display text-4xl md:text-6xl text-primary jeopardy-text-glow uppercase tracking-widest">
+              {audioReady ? "Click to Start" : "Loading\u2026"}
+            </p>
+          </motion.div>
+        )}
+      </AnimatePresence>
+
       {/* Board Grid */}
       <div
+        ref={boardRef}
         className="grid flex-1 gap-2"
         style={{
           gridTemplateColumns: `repeat(${categories.length}, 1fr)`,
@@ -59,6 +96,7 @@ export const JeopardyBoard = () => {
         {categories.map((category, catIdx) => (
           <div
             key={`header-${catIdx}`}
+            data-tile
             className="jeopardy-tile jeopardy-border flex items-center justify-center p-2 min-h-[80px]"
           >
             <h2 className="font-display text-xl md:text-2xl lg:text-3xl text-primary text-center jeopardy-text-glow uppercase tracking-wide leading-tight">
@@ -77,6 +115,7 @@ export const JeopardyBoard = () => {
             return (
               <motion.button
                 key={key}
+                data-tile
                 onClick={() => handleTileClick(category, question, catIdx, qIdx)}
                 disabled={isRevealed}
                 className={`jeopardy-tile jeopardy-border flex items-center justify-center cursor-pointer transition-all duration-200 ${

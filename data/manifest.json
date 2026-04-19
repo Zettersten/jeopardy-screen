@@ -1,5 +1,5 @@
 {
-  "current": "game-001-2025-04-19",
+  "current": "game-002-2026-04-19",
   "games": [
     {
       "id": "game-hist-001-2025-12-22",
@@ -166,6 +166,29 @@
       ],
       "metadata": {
         "occasion": "Baby Shower",
+        "targetAudience": "Millennial adults (late 80s born)",
+        "createdBy": "AI"
+      }
+    },
+    {
+      "id": "game-002-2026-04-19",
+      "title": "Game Night Jeopardy — Level Up Edition",
+      "date": "2026-04-19",
+      "filePath": "data/games/game-002-2026-04-19.json",
+      "columns": 6,
+      "rows": 5,
+      "pointValues": [100, 200, 300, 400, 500],
+      "categoryNames": ["LEVEL UP", "90S ANTHEMS", "AUGHTS JAMS", "MAKING HISTORY", "HAPPENING NOW", "SPORTS FLASHBACK"],
+      "topics": [
+        "Crash Bandicoot", "The Sims", "Metal Gear Solid Psycho Mantis", "Half-Life Valve", "StarCraft South Korea esports",
+        "TLC Waterfalls Left Eye", "Shania Twain Come On Over", "Mellon Collie Smashing Pumpkins", "Don't Speak No Doubt Gwen Stefani", "Iris Goo Goo Dolls City of Angels",
+        "Hot in Herre Nelly", "Lose Yourself Eminem 8 Mile Oscar", "Yeah! Usher Lil Jon Ludacris", "Yellow Coldplay", "The Blueprint Jay-Z September 11 2001",
+        "dot-com bubble NASDAQ", "Human Genome Project Clinton Blair", "O.J. Simpson not guilty 1995", "2000 Presidential election Bush v. Gore Florida 537", "Dolly the sheep Roslin Institute clone",
+        "Kendrick Lamar Super Bowl LIX 2025", "Los Angeles wildfires January 2025", "DeepSeek Chinese AI", "DOGE Elon Musk federal", "Starship SpaceX Super Heavy catch",
+        "Mark McGwire Sammy Sosa 1998 home run 70 66", "Wayne Gretzky The Great One retired 1999", "Lance Armstrong Tour de France USADA stripped", "Allen Iverson MVP shortest NBA history Georgetown", "Barry Bonds 73 home runs 2001 PED"
+      ],
+      "metadata": {
+        "occasion": "Game Night",
         "targetAudience": "Millennial adults (late 80s born)",
         "createdBy": "AI"
       }

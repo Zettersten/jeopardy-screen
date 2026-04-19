@@ -1,4 +1,4 @@
-import { useEffect, useRef, useCallback } from "react";
+import { useState, useEffect, useRef, useCallback } from "react";
 
 const BASE = import.meta.env.BASE_URL;
 const AUDIO_PATHS = {
@@ -28,16 +28,33 @@ export function useGameAudio() {
   const questionRef = useRef<HTMLAudioElement | null>(null);
   const revealRef = useRef<HTMLAudioElement | null>(null);
   const startedRef = useRef(false);
+  const [audioReady, setAudioReady] = useState(false);
 
   useEffect(() => {
-    introRef.current = createAudio(AUDIO_PATHS.intro);
-    backgroundRef.current = createAudio(AUDIO_PATHS.background, true);
-    backgroundRef.current.volume = 0.2;
-    questionRef.current = createAudio(AUDIO_PATHS.question);
-    revealRef.current = createAudio(AUDIO_PATHS.reveal);
+    const intro = createAudio(AUDIO_PATHS.intro);
+    const background = createAudio(AUDIO_PATHS.background, true);
+    background.volume = 0.2;
+    const question = createAudio(AUDIO_PATHS.question);
+    const reveal = createAudio(AUDIO_PATHS.reveal);
 
-    const intro = introRef.current;
-    const background = backgroundRef.current;
+    introRef.current = intro;
+    backgroundRef.current = background;
+    questionRef.current = question;
+    revealRef.current = reveal;
+
+    const tracks = [intro, background, question, reveal];
+    let loadedCount = 0;
+    const onLoaded = () => {
+      loadedCount++;
+      if (loadedCount === tracks.length) setAudioReady(true);
+    };
+    tracks.forEach((audio) => {
+      if (audio.readyState >= HTMLMediaElement.HAVE_ENOUGH_DATA) {
+        onLoaded();
+      } else {
+        audio.addEventListener("canplaythrough", onLoaded, { once: true });
+      }
+    });
 
     const onIntroEnded = () => {
       background.currentTime = 0;
@@ -47,10 +64,7 @@ export function useGameAudio() {
 
     return () => {
       intro.removeEventListener("ended", onIntroEnded);
-      intro.pause();
-      background.pause();
-      questionRef.current?.pause();
-      revealRef.current?.pause();
+      tracks.forEach((a) => a.pause());
     };
   }, []);
 
@@ -70,5 +84,5 @@ export function useGameAudio() {
     safePlay(revealRef.current);
   }, []);
 
-  return { startAudio, playQuestion, playReveal };
+  return { startAudio, playQuestion, playReveal, audioReady };
 }
