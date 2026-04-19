@@ -23,14 +23,28 @@ export const JeopardyBoard = () => {
     if (!audioReady || !boardRef.current) return;
     setBoardAnimated(true);
     startAudio();
-    const tiles = boardRef.current.querySelectorAll<HTMLElement>("[data-tile]");
-    gsap.from(tiles, {
-      y: -220,
-      opacity: 0,
-      duration: 0.65,
-      stagger: { each: 0.045, from: "start" },
-      ease: "back.out(1.6)",
-    });
+
+    const tiles = Array.from(
+      boardRef.current.querySelectorAll<HTMLElement>("[data-tile]")
+    );
+
+    // Disable CSS `transition-all` so it doesn't fight GSAP during the stagger.
+    tiles.forEach((tile) => { tile.style.transition = "none"; });
+
+    gsap.fromTo(
+      tiles,
+      { y: -220, opacity: 0 },
+      {
+        y: 0,
+        opacity: 1,
+        duration: 0.65,
+        stagger: { each: 0.045, from: "start" },
+        ease: "back.out(1.6)",
+        onComplete() {
+          tiles.forEach((tile) => { tile.style.transition = ""; });
+        },
+      }
+    );
   }, [audioReady, startAudio]);
 
   const getTileKey = (catIdx: number, qIdx: number) => `${catIdx}-${qIdx}`;
