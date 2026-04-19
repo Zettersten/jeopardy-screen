@@ -12,428 +12,425 @@ export interface Category {
 
 export const categories: Category[] = [
   {
-    name: "MODERN CINEMA",
+    name: "WENDY",
     questions: [
       {
         points: 100,
-        question:
-          "This 2024 sequel to a Pixar classic introduces new emotions like Anxiety and Ennui.",
-        answer: "What is Inside Out 2?",
+        question: "The birthday girl is turning this age today — everyone raise a glass!",
+        answer: "What is 37?",
         revealed: false,
       },
       {
         points: 200,
         question:
-          "He played the titular chocolatier in the 2023 musical film “Wonka”.",
-        answer: "Who is Timothée Chalamet?",
+          "Wendy has been chasing this sport since childhood and would probably still outrun you on the field.",
+        answer: "What is soccer?",
         revealed: false,
       },
       {
         points: 300,
         question:
-          "Emma Stone won Best Actress for her role as Bella Baxter in this 2023 surrealist fantasy.",
-        answer: "What is Poor Things?",
+          "This 1989 Tom Petty classic — a dreamy love letter to a free-spirited California girl — is Wendy's all-time favorite song.",
+        answer: "What is \"Free Fallin'\"?",
         revealed: false,
       },
       {
         points: 400,
         question:
-          "This 2023 romantic comedy revived the genre, starring Sydney Sweeney and Glen Powell.",
-        answer: "What is Anyone But You?",
+          "Despite a full house, Wendy naturally thrives before noon — making her this type of person by preference.",
+        answer: "What is a morning person?",
         revealed: false,
       },
       {
         points: 500,
         question:
-          "This Japanese monster movie won the Oscar for Best Visual Effects in 2024.",
-        answer: "What is Godzilla Minus One?",
+          "Wendy earned her degree at this Virginia university, home of the Dukes and nestled in the Shenandoah Valley.",
+        answer: "What is James Madison University?",
         revealed: false,
       },
       {
         points: 600,
-        question:
-          "Zendaya stars as a tennis prodigy turned coach in this 2024 sports drama by Luca Guadagnino.",
-        answer: "What is Challengers?",
+        question: "Wendy grew up in a seriously large household — she has this many siblings total.",
+        answer: "What is 10?",
         revealed: false,
       },
       {
         points: 700,
-        question:
-          "This 2024 biopic stars Marisa Abela as the late singer Amy Winehouse.",
-        answer: "What is Back to Black?",
+        question: "In her famously large family, Wendy holds this specific birth-order position.",
+        answer: "What is 6th?",
         revealed: false,
       },
       {
         points: 800,
         question:
-          "This 2024 disaster film is a standalone sequel to a 1996 hit about storm chasers.",
-        answer: "What is Twisters?",
+          "Before Instagram, Wendy could be found online under this AIM-era screen name that cheekily doubled up her first initial.",
+        answer: "What is vvendyy?",
         revealed: false,
       },
     ],
   },
   {
-    name: "POP CULTURE ICONS",
+    name: "Y2K BABY",
     questions: [
       {
         points: 100,
         question:
-          "This NFL tight end hosted “Saturday Night Live” and started a high-profile romance with Taylor Swift.",
-        answer: "Who is Travis Kelce?",
+          "This feared computer glitch — tied to how older software stored only the last two digits of a year — had the world bracing for catastrophic systems failure at midnight on January 1, 2000.",
+        answer: "What is the Y2K bug?",
         revealed: false,
       },
       {
         points: 200,
         question:
-          "This singer of “Espresso” and “Please Please Please” became a breakout pop star in 2024.",
-        answer: "Who is Sabrina Carpenter?",
+          "This heiress and socialite defined early-2000s celebrity culture with velour tracksuits, trucker hats, and the catchphrase \"That's hot.\"",
+        answer: "Who is Paris Hilton?",
         revealed: false,
       },
       {
         points: 300,
         question:
-          "This actor became “The Internet's Daddy” thanks to roles in “The Mandalorian” and “The Last of Us”.",
-        answer: "Who is Pedro Pascal?",
+          "This ultra-slim flip phone, released in 2004 and famous for its razor-thin profile, became the mid-2000s' defining status-symbol handset.",
+        answer: "What is the Motorola Razr?",
         revealed: false,
       },
       {
         points: 400,
         question:
-          "She produced and starred as the titular doll in the 2023 blockbuster “Barbie”.",
-        answer: "Who is Margot Robbie?",
+          "This social networking site, launched in 2003, let users rank their \"Top 8\" contacts and embed autoplay songs on their profiles.",
+        answer: "What is MySpace?",
         revealed: false,
       },
       {
         points: 500,
         question:
-          "This “The Bear” actor stripped down for a viral Calvin Klein underwear campaign in 2024.",
-        answer: "Who is Jeremy Allen White?",
+          "Steve Jobs unveiled this device in October 2001 with the promise of \"1,000 songs in your pocket,\" revolutionizing portable music forever.",
+        answer: "What is the iPod?",
         revealed: false,
       },
       {
         points: 600,
         question:
-          "This singer performed the Super Bowl LVII Halftime Show while pregnant with her second child.",
-        answer: "Who is Rihanna?",
+          "This fashion label — named after a legendary custom pinstriper from California — became the defining celebrity trucker hat brand of the early 2000s.",
+        answer: "What is Von Dutch?",
         revealed: false,
       },
       {
         points: 700,
         question:
-          "This “Euphoria” star faced backlash but found box office success with “Anyone But You” and “Immaculate”.",
-        answer: "Who is Sydney Sweeney?",
+          "This pioneering peer-to-peer music service amassed roughly 80 million registered users before being ordered to shut down in 2001 following lawsuits from Metallica and the RIAA.",
+        answer: "What is Napster?",
         revealed: false,
       },
       {
         points: 800,
         question:
-          "This Irish actor played a deceptive student in “Saltburn” and the villain in “Gladiator II”.",
-        answer: "Who is Barry Keoghan?",
+          "Founded in 1997 by Pamela Skaist-Levy and Gela Nash-Taylor, this California fashion brand's velour tracksuits became the unofficial celebrity uniform of the early 2000s.",
+        answer: "What is Juicy Couture?",
         revealed: false,
       },
     ],
   },
   {
-    name: "DARK MYSTERIES",
+    name: "00S BANGERS",
     questions: [
       {
         points: 100,
         question:
-          "This 2024 Netflix hit follows a comedian stalked by a woman who calls him by the show's title animal name.",
-        answer: "What is Baby Reindeer?",
+          "Beyoncé's 2008 anthem, performed with two backup dancers in matching leotards, commanded a certain relationship status to put a ring on it.",
+        answer: "What is \"Single Ladies\"?",
         revealed: false,
       },
       {
         points: 200,
         question:
-          "In this 2023 film, a family's vacation is interrupted by an apocalyptic cyberattack; produced by the Obamas.",
-        answer: "What is Leave the World Behind?",
+          "This rapper's 2003 debut single opened with \"Go shorty, it's your birthday\" and became one of the defining party anthems of the decade.",
+        answer: "Who is 50 Cent?",
         revealed: false,
       },
       {
         points: 300,
         question:
-          "This hit Hulu series features a trio of podcasters solving murders in their New York apartment building.",
-        answer: "What is Only Murders in the Building?",
+          "This British singer's 2006 album contained the Grammy-winning single \"Rehab\" and her soul-drenched title ballad about returning to old habits.",
+        answer: "What is \"Back to Black\"?",
         revealed: false,
       },
       {
         points: 400,
         question:
-          "Jodie Foster investigates scientists vanishing from an Alaskan research station in this “True Detective” season.",
-        answer: "What is Night Country (or Season 4)?",
+          "Justin Timberlake's 2002 breakout solo single featured a moody music video with a woman who bore a striking resemblance to his famous ex-girlfriend.",
+        answer: "What is \"Cry Me a River\"?",
         revealed: false,
       },
       {
         points: 500,
         question:
-          "Nicolas Cage plays a satanic serial killer pursued by the FBI in this 2024 horror film with a leggy title.",
-        answer: "What is Longlegs?",
+          "This 2004 Kanye West debut sampled sped-up soul records and produced hits like \"All Falls Down\" — reportedly inspired by its creator's satirical take on higher education.",
+        answer: "What is \"The College Dropout\"?",
         revealed: false,
       },
       {
         points: 600,
         question:
-          "Andrew Scott plays a grifting con artist in Italy in this black-and-white Netflix adaptation of a Patricia Highsmith novel.",
-        answer: "What is Ripley?",
+          "This 2003 OutKast hit urged listeners to shake something \"like a Polaroid picture\" — even as Polaroid publicly advised against doing exactly that to its film.",
+        answer: "What is \"Hey Ya!\"?",
         revealed: false,
       },
       {
         points: 700,
         question:
-          "In this Apple TV+ thriller, employees undergo a procedure to surgically divide their work memories from personal ones.",
-        answer: "What is Severance?",
+          "This singer-songwriter, the daughter of Indian sitar master Ravi Shankar, personally swept five Grammy Awards in 2003 for her jazz-inflected debut album \"Come Away with Me.\"",
+        answer: "Who is Norah Jones?",
         revealed: false,
       },
       {
         points: 800,
         question:
-          "This 2024 M. Night Shyamalan thriller is set at a pop concert where a father is hiding a dark secret.",
-        answer: "What is Trap?",
+          "This 2001 album by a French electronic duo produced anthems like \"One More Time\" and \"Harder, Better, Faster, Stronger\" and was later brought to life as the animated film \"Interstella 5555.\"",
+        answer: "What is \"Discovery\"?",
         revealed: false,
       },
     ],
   },
   {
-    name: "SPORTS ARENA",
+    name: "PAGE TURNERS",
     questions: [
       {
         points: 100,
         question:
-          "This NFL team won back-to-back Super Bowls in 2023 and 2024, led by Patrick Mahomes.",
-        answer: "Who are the Kansas City Chiefs?",
+          "In this Gillian Flynn bestseller, a woman named Amy vanishes on her wedding anniversary, leaving her husband as the prime suspect in a national media frenzy.",
+        answer: "What is \"Gone Girl\"?",
         revealed: false,
       },
       {
         points: 200,
         question:
-          "This WNBA rookie for the Indiana Fever broke attendance and viewership records in 2024.",
-        answer: "Who is Caitlin Clark?",
+          "This Paula Hawkins thriller follows a daily train commuter who witnesses something suspicious from her window seat and becomes entangled in a missing-woman mystery.",
+        answer: "What is \"The Girl on the Train\"?",
         revealed: false,
       },
       {
         points: 300,
         question:
-          "This Spanish tennis prodigy won Wimbledon 2023 and the French Open 2024, seen as Nadal's successor.",
-        answer: "Who is Carlos Alcaraz?",
+          "This Liane Moriarty novel — adapted into an HBO series starring Reese Witherspoon and Nicole Kidman — follows three women in Monterey, California hiding explosive secrets.",
+        answer: "What is \"Big Little Lies\"?",
         revealed: false,
       },
       {
         points: 400,
         question:
-          "This MLB superstar signed a $700 million contract with the LA Dodgers in late 2023.",
-        answer: "Who is Shohei Ohtani?",
+          "Suzanne Collins' dystopian trilogy about televised survival competitions in a future North America became a four-film franchise starring Jennifer Lawrence.",
+        answer: "What is \"The Hunger Games\"?",
         revealed: false,
       },
       {
         points: 500,
         question:
-          "This NBA team won the 2024 Championship, powered by Jayson Tatum and Jaylen Brown.",
-        answer: "Who are the Boston Celtics?",
+          "Taylor Jenkins Reid's 2017 novel follows a fictional 79-year-old Hollywood icon recounting her scandalous life story through a series of magazine interviews.",
+        answer: "What is \"The Seven Husbands of Evelyn Hugo\"?",
         revealed: false,
       },
       {
         points: 600,
         question:
-          "This F1 driver made headlines by announcing a move from Mercedes to Ferrari starting in 2025.",
-        answer: "Who is Lewis Hamilton?",
+          "Delia Owens' debut novel about a reclusive North Carolina coastal girl known as the \"Marsh Girl\" became a publishing phenomenon and a 2022 major studio film.",
+        answer: "What is \"Where the Crawdads Sing\"?",
         revealed: false,
       },
       {
         points: 700,
         question:
-          "This American gymnast returned to the Olympics in Paris 2024, cementing her GOAT status.",
-        answer: "Who is Simone Biles?",
+          "In this 2019 Alex Michaelides debut, a therapist becomes obsessed with uncovering why a famous painter shot her husband five times — then went permanently mute.",
+        answer: "What is \"The Silent Patient\"?",
         revealed: false,
       },
       {
         points: 800,
         question:
-          "This college football team won the National Championship in 2024, defeating Washington.",
-        answer: "Who are the Michigan Wolverines?",
+          "Celeste Ng's second novel, set in the meticulously planned Ohio suburb of Shaker Heights, explores class and race tensions and became a 2020 Hulu series with Reese Witherspoon.",
+        answer: "What is \"Little Fires Everywhere\"?",
         revealed: false,
       },
     ],
   },
   {
-    name: "FUTURE TECH",
+    name: "COCKTAIL HOUR",
     questions: [
       {
         points: 100,
         question:
-          "Apple released this “spatial computing” headset in early 2024, priced at $3,499.",
-        answer: "What is the Apple Vision Pro?",
+          "This brunch-staple cocktail blends vodka with tomato juice, Worcestershire sauce, and hot sauce, typically garnished with a celery stalk.",
+        answer: "What is a Bloody Mary?",
         revealed: false,
       },
       {
         points: 200,
         question:
-          "This text-based social app from Meta launched in 2023 as a direct competitor to X (Twitter).",
-        answer: "What is Threads?",
+          "This classic cocktail is shaken with tequila, fresh lime juice, and triple sec, then served in a glass rimmed with salt.",
+        answer: "What is a Margarita?",
         revealed: false,
       },
       {
         points: 300,
         question:
-          "The iPhone 15 finally adopted this universal charging port standard, replacing Lightning.",
-        answer: "What is USB-C?",
+          "This Cuban cocktail muddled fresh mint and sugar with white rum and lime juice, then topped it with soda water — endlessly copied, rarely bettered.",
+        answer: "What is a Mojito?",
         revealed: false,
       },
       {
         points: 400,
         question:
-          "This cybersecurity firm caused a massive global IT outage in July 2024 with a faulty update.",
-        answer: "What is CrowdStrike?",
+          "This Italian bitters-and-Prosecco cocktail, served over ice with an orange slice, became the dominant social-media drink of the late 2010s.",
+        answer: "What is an Aperol Spritz?",
         revealed: false,
       },
       {
         points: 500,
         question:
-          "This Google AI model was rebranded from “Bard” to match its underlying technology in 2024.",
-        answer: "What is Gemini?",
+          "This Kentucky Derby signature drink is built with bourbon, fresh mint, simple syrup, and crushed ice in a distinctive silver or pewter cup.",
+        answer: "What is a Mint Julep?",
         revealed: false,
       },
       {
         points: 600,
         question:
-          "Sam Altman was briefly fired and then reinstated as CEO of this AI giant in November 2023.",
-        answer: "What is OpenAI?",
+          "This Italian aperitivo — made with equal parts gin, sweet vermouth, and Campari — is said to have been invented when a Florentine count asked for something stronger than an Americano.",
+        answer: "What is a Negroni?",
         revealed: false,
       },
       {
         points: 700,
         question:
-          "This brain-computer interface company by Elon Musk performed its first human implant in 2024.",
-        answer: "What is Neuralink?",
+          "According to cocktail legend, Trader Vic Bergeron's Tahitian guests exclaimed \"Maita'i roa ae!\" — \"out of this world\" — upon tasting this rum, orgeat, and curaçao tiki classic.",
+        answer: "What is a Mai Tai?",
         revealed: false,
       },
       {
         points: 800,
         question:
-          "This orange, handheld AI device launched in 2024 was widely panned for failing to live up to the hype.",
-        answer: "What is the Rabbit R1?",
+          "This French Champagne aperitif is made by adding a splash of blackcurrant liqueur to a flute of bubbly — named after a WWII Resistance fighter who later became mayor of Dijon.",
+        answer: "What is a Kir Royale?",
         revealed: false,
       },
     ],
   },
   {
-    name: "WORLD NEWS",
+    name: "MOM BRAIN",
     questions: [
       {
         points: 100,
         question:
-          "The 2024 Summer Olympics were hosted by this European capital city.",
-        answer: "What is Paris?",
+          "This infamous toddler phase, marked by tantrums and boundary-testing, takes its name from the age at which it typically peaks.",
+        answer: "What are the Terrible Twos?",
         revealed: false,
       },
       {
         points: 200,
         question:
-          "In 2023, this OceanGate submersible imploded while attempting to visit the most famous shipwreck in the Atlantic.",
-        answer: "What is the Titan?",
+          "This pediatric sleep-training approach, developed at Boston Children's Hospital in the 1980s, guides parents through timed intervals of supervised crying to teach infants to self-soothe.",
+        answer: "What is the Ferber method?",
         revealed: false,
       },
       {
         points: 300,
         question:
-          "This monarch revealed a cancer diagnosis in early 2024, stepping back from some public duties.",
-        answer: "Who is King Charles III?",
+          "This parenting style — named after an airborne vehicle that hovers overhead — involves closely supervising every detail of a child's academic and social life.",
+        answer: "What is helicopter parenting?",
         revealed: false,
       },
       {
         points: 400,
         question:
-          "This Nordic country officially joined NATO in 2024, following Finland's accession.",
-        answer: "What is Sweden?",
+          "This modern child-rearing philosophy emphasizes empathy, firm limits without punishment, and validating children's emotions over traditional discipline approaches.",
+        answer: "What is gentle parenting?",
         revealed: false,
       },
       {
         points: 500,
         question:
-          "A massive container ship collided with and collapsed the Francis Scott Key Bridge in this US city.",
-        answer: "What is Baltimore?",
+          "This educational philosophy, developed by an early-20th-century Italian physician, emphasizes child-led exploration, hands-on learning materials, and mixed-age classroom environments.",
+        answer: "What is Montessori?",
         revealed: false,
       },
       {
         points: 600,
         question:
-          "This WikiLeaks founder reached a plea deal with the US and returned to Australia in 2024.",
-        answer: "Who is Julian Assange?",
+          "This 2011 parenting book by Dr. Daniel Siegel and Tina Payne Bryson teaches parents to \"connect and redirect\" — acknowledging a child's emotions before correcting behavior.",
+        answer: "What is \"The Whole-Brain Child\"?",
         revealed: false,
       },
       {
         points: 700,
         question:
-          "This weight-loss drug became a cultural phenomenon and economic driver for Denmark's Novo Nordisk.",
-        answer: "What is Ozempic (or Wegovy)?",
+          "This 1980 parenting classic by Adele Faber and Elaine Mazlish focuses on communication strategies that help children feel genuinely understood and heard.",
+        answer: "What is \"How to Talk So Kids Will Listen & Listen So Kids Will Talk\"?",
         revealed: false,
       },
       {
         points: 800,
         question:
-          "In 2023, this country became the fourth nation to successfully land a spacecraft on the Moon.",
-        answer: "What is India?",
+          "Psychologist John Bowlby developed this foundational developmental theory describing the emotional bond between infants and caregivers, later elaborated by Mary Ainsworth into four distinct styles.",
+        answer: "What is attachment theory?",
         revealed: false,
       },
     ],
   },
   {
-    name: "STREAMING NOW",
+    name: "WELLNESS ERA",
     questions: [
       {
         points: 100,
         question:
-          "This Amazon Prime series based on a video game franchise features a Vault Dweller venturing into the wasteland.",
-        answer: "What is Fallout?",
+          "This fat-soluble nutrient, produced naturally when skin is exposed to sunlight, is one of the most commonly deficient in the adult population.",
+        answer: "What is Vitamin D?",
         revealed: false,
       },
       {
         points: 200,
         question:
-          "This FX/Hulu series set in feudal Japan won critical acclaim for its authenticity and scope in 2024.",
-        answer: "What is Shōgun?",
+          "This transitional phase — which can begin as early as the late 30s — is defined by fluctuating estrogen levels and irregular periods in the years leading up to menopause.",
+        answer: "What is perimenopause?",
         revealed: false,
       },
       {
         points: 300,
         question:
-          "The final season of this royal drama covered the death of Princess Diana and the early romance of William and Kate.",
-        answer: "What is The Crown?",
+          "This ancient Ayurvedic root, also called \"Indian ginseng,\" has become one of the most popular adaptogens for reducing cortisol and managing chronic stress.",
+        answer: "What is ashwagandha?",
         revealed: false,
       },
       {
         points: 400,
         question:
-          "This Disney+ animated series revived a beloved 90s superhero cartoon in 2024.",
-        answer: "What is X-Men '97?",
+          "This essential mineral — often supplemented in glycinate or citrate form — participates in over 300 enzymatic reactions and is widely recommended for sleep support and anxiety.",
+        answer: "What is magnesium?",
         revealed: false,
       },
       {
         points: 500,
         question:
-          "This Netflix adaptation of a Chinese sci-fi novel involves a VR game and an alien invasion threat.",
-        answer: "What is 3 Body Problem?",
+          "This patient-centered medical approach focuses on identifying root causes of chronic disease rather than managing symptoms with medication, often using advanced lab work to personalize treatment.",
+        answer: "What is functional medicine?",
         revealed: false,
       },
       {
         points: 600,
         question:
-          "Rosario Dawson stars as a dual-wielding Jedi seeking Grand Admiral Thrawn in this 2023 “Star Wars” series.",
-        answer: "What is Ahsoka?",
+          "This vast ecosystem of bacteria, fungi, and microorganisms living in the digestive tract has been linked by research to mood regulation, immunity, and metabolic health.",
+        answer: "What is the gut microbiome?",
         revealed: false,
       },
       {
         points: 700,
         question:
-          "Based on a novel, this Netflix series tells the decades-spanning love story of Dex and Em on the same date each year.",
-        answer: "What is One Day?",
+          "This structural protein — the most abundant in the human body — has become a popular supplement added to coffee and smoothies for skin elasticity, joint support, and lining integrity.",
+        answer: "What is collagen?",
         revealed: false,
       },
       {
         points: 800,
         question:
-          "This Apple TV+ war drama, produced by Hanks and Spielberg, follows the 100th Bomb Group in WWII.",
-        answer: "What is Masters of the Air?",
+          "This stress hormone, produced by the adrenal glands, when chronically elevated by poor sleep and high sugar intake, is a key driver of inflammation, weight gain, and hormonal disruption.",
+        answer: "What is cortisol?",
         revealed: false,
       },
     ],
