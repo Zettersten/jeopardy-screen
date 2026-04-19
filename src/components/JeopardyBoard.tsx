@@ -76,6 +76,9 @@ export const JeopardyBoard = () => {
               audioReady ? "cursor-pointer" : "cursor-wait"
             }`}
           >
+            <p className="font-display text-2xl md:text-3xl text-muted-foreground uppercase tracking-widest mb-4">
+              {gameData.title}
+            </p>
             <p className="font-display text-4xl md:text-6xl text-primary jeopardy-text-glow uppercase tracking-widest">
               {audioReady ? "Click to Start" : "Loading\u2026"}
             </p>
@@ -113,7 +116,7 @@ export const JeopardyBoard = () => {
             const isRevealed = revealedTiles.has(key);
 
             return (
-              <motion.button
+              <button
                 key={key}
                 data-tile
                 onClick={() => handleTileClick(category, question, catIdx, qIdx)}
@@ -123,13 +126,11 @@ export const JeopardyBoard = () => {
                     ? "opacity-20 cursor-not-allowed"
                     : "hover:scale-[1.02] hover:brightness-110 active:scale-[0.98]"
                 }`}
-                whileHover={!isRevealed ? { scale: 1.02 } : undefined}
-                whileTap={!isRevealed ? { scale: 0.98 } : undefined}
               >
                 <span className="font-display text-3xl md:text-4xl lg:text-5xl xl:text-6xl text-primary jeopardy-text-glow">
                   ${question.points}
                 </span>
-              </motion.button>
+              </button>
             );
           })
         )}
