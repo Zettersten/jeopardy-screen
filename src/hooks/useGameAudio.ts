@@ -32,6 +32,7 @@ export function useGameAudio() {
   useEffect(() => {
     introRef.current = createAudio(AUDIO_PATHS.intro);
     backgroundRef.current = createAudio(AUDIO_PATHS.background, true);
+    backgroundRef.current.volume = 0.2;
     questionRef.current = createAudio(AUDIO_PATHS.question);
     revealRef.current = createAudio(AUDIO_PATHS.reveal);
 
