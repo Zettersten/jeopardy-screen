@@ -1,5 +1,5 @@
 {
-  "current": "game-002-2026-04-19",
+  "current": "game-003-2026-05-02",
   "games": [
     {
       "id": "game-hist-001-2025-12-22",
@@ -166,6 +166,29 @@
       ],
       "metadata": {
         "occasion": "Baby Shower",
+        "targetAudience": "Millennial adults (late 80s born)",
+        "createdBy": "AI"
+      }
+    },
+    {
+      "id": "game-003-2026-05-02",
+      "title": "Game On, Gym Rats — Late 90s/2000s Edition",
+      "date": "2026-05-02",
+      "filePath": "data/games/game-003-2026-05-02.json",
+      "columns": 6,
+      "rows": 5,
+      "pointValues": [100, 200, 300, 400, 500],
+      "categoryNames": ["PUMP IT UP", "SWEAT SCIENCE", "INSERT COIN", "PLAYER SELECT", "BREAKING 2025", "WORLD WATCH"],
+      "topics": [
+        "Billy Blanks Tae Bo", "Richard Simmons Sweatin to the Oldies", "Bowflex infomercial", "CrossFit Greg Glassman 2000", "Body-for-LIFE Bill Phillips EAS",
+        "Atkins Diet", "creatine sports supplement", "plyometrics Verkhoshansky", "ephedra FDA banned 2004", "glycemic index David Jenkins 1981",
+        "Dance Dance Revolution Konami 1998", "Resident Evil 2 Capcom Leon Kennedy", "Tomb Raider Lara Croft Eidos", "Diablo II Blizzard 2000", "Silent Hill Konami 1999",
+        "Mortal Kombat ESRB 1994", "Zelda Majoras Mask 2000", "EverQuest Norrath 1999", "Counter-Strike Half-Life mod Valve", "Jet Set Radio Dreamcast 1999",
+        "Pope Francis death April 2025", "Pope Leo XIV Robert Prevost first American pope May 2025", "Anora Best Picture 97th Academy Awards", "India Pakistan clash May 2025", "Warren Buffett retirement 2025",
+        "China Trump tariffs trade war 2025", "Mark Carney Canada election 2025", "Firefly Aerospace Moon landing March 2025", "Myanmar earthquake 2025", "Germany federal election AfD 2025"
+      ],
+      "metadata": {
+        "occasion": "Game Night",
         "targetAudience": "Millennial adults (late 80s born)",
         "createdBy": "AI"
       }

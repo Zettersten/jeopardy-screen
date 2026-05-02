@@ -21,7 +21,8 @@ This file is the AI's memory for game creation overlap prevention.
 | hist-007 | [game-hist-007-2026-04-18](./game-hist-007-2026-04-18.md) | 2026-04-18 | Wendy's 37th Birthday Jeopardy | WENDY, Y2K BABY, 00S BANGERS, PAGE TURNERS, COCKTAIL HOUR, MOM BRAIN, WELLNESS ERA | Birthday Party |
 | hist-008 | [game-hist-008-2026-04-18](./game-hist-008-2026-04-18.md) | 2026-04-18 | Baby Shower Jeopardy — Trad Wife Edition | LABOR & DELIVERY, NEW TESTAMENT, OLD TESTAMENT, SWEAT IT OUT, THROWBACK JAMS, TRAD WIFE | Baby Shower |
 | 001 | [game-001-2025-04-19](./game-001-2025-04-19.md) | 2026-04-19 | Baby Shower Jeopardy | LABOR & DELIVERY, NEW TESTAMENT, OLD TESTAMENT, SWEAT IT OUT, THROWBACK JAMS, CRUNCHY HOME | Baby Shower |
-| 002 | [game-002-2026-04-19](./game-002-2026-04-19.md) | 2026-04-19 | Game Night Jeopardy — Level Up Edition | LEVEL UP, 90S ANTHEMS, AUGHTS JAMS, MAKING HISTORY, HAPPENING NOW, SPORTS FLASHBACK | Game Night (current) |
+| 002 | [game-002-2026-04-19](./game-002-2026-04-19.md) | 2026-04-19 | Game Night Jeopardy — Level Up Edition | LEVEL UP, 90S ANTHEMS, AUGHTS JAMS, MAKING HISTORY, HAPPENING NOW, SPORTS FLASHBACK | Game Night |
+| 003 | [game-003-2026-05-02](./game-003-2026-05-02.md) | 2026-05-02 | Game On, Gym Rats — Late 90s/2000s Edition | PUMP IT UP, SWEAT SCIENCE, INSERT COIN, PLAYER SELECT, BREAKING 2025, WORLD WATCH | Game Night (current) |
 
 ---
 
@@ -59,6 +60,12 @@ Use this to quickly spot conflicts. Topics listed here have already been used as
 ### Video Gaming (late 90s/early 2000s) — added game-002
 - Crash Bandicoot Naughty Dog PlayStation 1996, The Sims Maxis EA February 2000 PC life simulation, Metal Gear Solid Hideo Kojima 1998 Psycho Mantis controller port 2 memory card Konami, Half-Life Valve 1998 Black Mesa narrative FPS, StarCraft Blizzard 1998 Terran Zerg Protoss South Korea cultural esports phenomenon
 
+### Video Gaming (late 90s/early 2000s) — added game-003
+- Dance Dance Revolution Konami September 1998 Japan March 1999 North America rhythm arcade, Resident Evil 2 Capcom 1998 Leon Kennedy Claire Redfield Raccoon City Zapping System 6 million PlayStation, Tomb Raider Eidos 1996 Lara Croft British archaeologist dual pistols five PlayStation games Angelina Jolie films, Diablo II Blizzard 2000 five acts Necromancer Druid Battle.net action RPG, Silent Hill Konami 1999 PlayStation Harry Mason fog Otherworld Akira Yamaoka
+
+### Video Game Industry & Culture — added game-003
+- Mortal Kombat Midway 1992 congressional hearings 1993-1994 ESRB Entertainment Software Rating Board fatalities, Zelda Majora's Mask Nintendo 64 April 2000 Eiji Aonuma falling moon three-day time reset ocarina, EverQuest Verant Interactive March 1999 Norrath MMORPG EverCrack World of Warcraft precursor, Counter-Strike Half-Life modification June 1999 Minh Le Jess Cliffe Valve 2000 counter-terrorist, Jet Set Radio Smilebit Sega Dreamcast 1999 cel-shaded roller-blading graffiti fictionalized Tokyo
+
 ### Technology (90s-00s)
 - Google Stanford 10^100, Napster Shawn Fanning, Windows XP Bliss wallpaper, Wikipedia Jimmy Wales, Gmail 1GB, iPod 1000 songs (appears in MULTIPLE games), YouTube Google 2006, iPhone OS first iPhone, Nintendo 64 64-bit, Sega Dreamcast last console, World of Warcraft Azeroth, GoldenEye 007, Halo Combat Evolved Xbox, Luigi's Mansion GameCube, Contra Konami Code, Chrono Trigger Lavos, Nintendo DS touch stylus, Xbox single letter, PlayStation Sony CD, Nintendo Wii motion, Amazon Kindle e-reader, Android desserts, iPhone multitouch no App Store, GoldenEye 007 N64 James Bond, Super Mario 64, Halo Master Chief, Pokemon Red Blue, Tony Hawk Pro Skater, Final Fantasy VII Cloud Sephiroth, Grand Theft Auto III Liberty City, Zelda Ocarina of Time Link
 
@@ -73,6 +80,7 @@ Use this to quickly spot conflicts. Topics listed here have already been used as
 
 ### World Events & News
 - Gulf War Desert Storm, Good Friday Agreement Northern Ireland, Hong Kong handover UK China, Euro currency 1999, Hurricane Katrina 2005, Iraq invasion Saddam Hussein, Lehman Brothers 2008, South Africa Mandela 1994, Ukraine Russia invasion 2022, King Charles III crowned cancer, COVID-19 WHO, Kamala Harris first female VP, Brexit UK EU, Canadian wildfires 2023, Keir Starmer UK PM, Paris 2024 Olympics, OceanGate Titan submersible, Sweden NATO, Baltimore Francis Scott Key Bridge, Julian Assange plea deal, Ozempic Wegovy, India Moon landing 2023, dot-com bubble NASDAQ 78 percent 2002, Human Genome Project Clinton Blair June 2000 3 billion base pairs, O.J. Simpson not guilty verdict October 3 1995 Nicole Brown Ron Goldman, 2000 Presidential election Bush v. Gore Florida 537 Supreme Court, Dolly the sheep Roslin Institute February 1997 Finn-Dorset somatic clone, Kendrick Lamar Super Bowl LIX February 2025 New Orleans, Los Angeles wildfires January 2025 Pacific Palisades Altadena
+- game-003 additions: Pope Francis death April 21 2025 stroke first Latin American pope, Pope Leo XIV Robert Prevost Chicago Augustinian first American pope May 8 2025 fourth ballot 267th pope, Anora Sean Baker 97th Academy Awards March 2025 Best Picture Best Actress Mikey Madison Walt Disney record, India Pakistan military clash May 2025 Pahalgam 26 killed nuclear-armed three-day ceasefire most intense fighting half century, Warren Buffett Oracle of Omaha Berkshire Hathaway CEO retirement May 3 2025 Greg Abel, China Trump tariffs trade war 2025 rare earth export controls, Mark Carney Canada April 28 2025 Liberal Party Bank of Canada Bank of England PM, Firefly Aerospace Blue Ghost Mission 1 March 2 2025 Moon landing NASA CLPS Mare Crisium first commercial, Myanmar earthquake March 28 2025 7.7 magnitude 5400 deaths military government, Germany federal election February 23 2025 CDU CSU Friedrich Merz AfD 20.8% extremist designation
 
 ### Brands & Products (90s-00s)
 - Tamagotchi Bandai, Beanie Babies heart-shaped tags, Got Milk California, Survivor outwit outplay, Netflix DVD-by-mail, Myspace Top 8 (appears in multiple games), iTunes iPod syncing, iMac G3 Bondi Blue, AOL dial-up You've got mail, AFK, LimeWire citrus P2P, LiveJournal friend lists, RSS Google Reader, Craigslist email list, ICQ I seek you, Beanie Babies (also in TOYS & CRAZES), Pogs milk caps, Furby robotic owl, Tickle Me Elmo 1996, Polly Pocket, Sony AIBO robot dog, Razor Scooter, Y2K bug, Paris Hilton velour tracksuits That's hot, Motorola Razr 2004, Von Dutch trucker hats, Napster Metallica, Juicy Couture velour
@@ -88,6 +96,10 @@ Use this to quickly spot conflicts. Topics listed here have already been used as
 
 ### Wellness & Health
 - Vitamin D sunlight deficient, perimenopause estrogen, ashwagandha adaptogen cortisol, magnesium glycinate citrate, functional medicine root cause, gut microbiome bacteria fungi, collagen structural protein, cortisol adrenal inflammation, kombucha SCOBY, essential oils Young Living doTERRA, lacto-fermentation sauerkraut kimchi, VO2 max, muscle hypertrophy, progressive overload, deadlift, fartlek training (also in game-001)
+
+### Fitness, Gym Culture & Exercise Science — added game-003
+- Billy Blanks Tae Bo kickboxing cardio VHS infomercial August 1998 $80 million 1.5 million sets, Richard Simmons Sweatin' to the Oldies Slimmons Beverly Hills, Bowflex flexible resistance rods home gym infomercial late 1990s, CrossFit Greg Glassman Santa Cruz California 2000 Olympic lifting gymnastics metabolic conditioning, Body-for-LIFE Bill Phillips EAS supplement company 1999 12-week program six meals grand prize
+- Atkins Diet Robert Atkins 1972 1992 low carbohydrate high fat protein early 2000s, creatine ATP ergogenic aid sports supplement 1990s, plyometrics Yuri Verkhoshansky Soviet sports science explosive jumping stretch-shortening cycle, ephedra Ma Huang FDA banned 2004 weight loss stimulant cardiovascular events, glycemic index David Jenkins 1981 University Toronto 0-100 blood glucose carbohydrates
 
 ### Scripture — New Testament
 - Sermon on the Mount Matthew 5-7, Mary of Bethany perfume, fruit of the Spirit Galatians 5:22-23, Philemon Onesimus, James epistle twelve tribes, Cana water into wine first miracle, Apostle John beloved fourth Gospel, Beatitudes nine statements Matthew 5, 1 Corinthians love patient kind, Parable of the Prodigal Son Luke
