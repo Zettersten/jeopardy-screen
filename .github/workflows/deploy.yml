@@ -41,6 +41,7 @@ jobs:
       - name: Build
         env:
           PAGES_BASE: ${{ endsWith(github.event.repository.name, '.github.io') && '/' || format('/{0}/', github.event.repository.name) }}
+          VITE_FISH_AUDIO_API_KEY: ${{ secrets.VITE_FISH_AUDIO_API_KEY }}
         run: npm run build -- --base="$PAGES_BASE"
 
       - name: Upload Pages artifact
