@@ -1,4 +1,5 @@
 .env
+public/audio/tts/
 
 # Logs
 logs

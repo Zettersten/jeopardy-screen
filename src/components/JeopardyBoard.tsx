@@ -1,9 +1,9 @@
-import { useState, useCallback, useRef, useEffect, useMemo } from "react";
+import { useState, useCallback, useRef, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { gsap } from "gsap";
 import { gameData, categories, type Category, type Question } from "@/data/jeopardyData";
 import { useGameAudio } from "@/hooks/useGameAudio";
-import { useFishAudioTTS } from "@/hooks/useFishAudioTTS";
+import { useTTSAudio } from "@/hooks/useTTSAudio";
 import { useFitText } from "@/hooks/useFitText";
 
 interface SelectedQuestion {
@@ -21,15 +21,11 @@ export const JeopardyBoard = () => {
   const boardRef = useRef<HTMLDivElement>(null);
   const { startAudio, playQuestion, playReveal, audioReady } = useGameAudio();
 
-  const allTTSTexts = useMemo(
-    () => categories.flatMap((c) => c.questions.flatMap((q) => [q.question, q.answer])),
-    []
-  );
-  const { playTTS, stopTTS } = useFishAudioTTS(allTTSTexts);
+  const { playTTS, stopTTS } = useTTSAudio();
 
   useEffect(() => {
     if (selectedQuestion) {
-      playTTS(selectedQuestion.question.question);
+      playTTS("question", selectedQuestion.categoryIndex, selectedQuestion.questionIndex);
     } else {
       stopTTS();
     }
@@ -99,7 +95,7 @@ export const JeopardyBoard = () => {
   const handleRevealAnswer = useCallback(() => {
     playReveal();
     setShowAnswer(true);
-    if (selectedQuestion) playTTS(selectedQuestion.question.answer);
+    if (selectedQuestion) playTTS("answer", selectedQuestion.categoryIndex, selectedQuestion.questionIndex);
   }, [playReveal, selectedQuestion, playTTS]);
 
   return (
