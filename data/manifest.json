@@ -1,5 +1,5 @@
 {
-  "current": "game-005-2026-05-03",
+  "current": "game-006-2026-05-03",
   "games": [
     {
       "id": "game-hist-001-2025-12-22",
@@ -232,6 +232,29 @@
         "Superman DC Comics Clark Kent Krypton", "Batman DC Comics Gotham City Bruce Wayne", "Iron Man Marvel MCU Tony Stark 2008", "Black Panther Marvel Wakanda Chadwick Boseman Best Picture nomination", "Wonder Woman Gal Gadot Themyscira 2017 WWI",
         "Spice Girls Wannabe 1996 girl power", "One Direction X Factor 2010 Harry Styles", "Boyz II Men Philadelphia End of the Road", "Jonas Brothers Sucker 2019 number one", "New Kids on the Block Boston Hangin Tough",
         "Star Wars May the Force be with you", "The Terminator I'll be back 1984", "A Few Good Men You can't handle the truth 1992", "Forrest Gump box of chocolates 1994 Best Picture", "The Dark Knight Why so serious Heath Ledger Joker"
+      ],
+      "metadata": {
+        "occasion": "Game Night",
+        "targetAudience": "General audience — simplified pop culture for everyone",
+        "createdBy": "AI"
+      }
+    },
+    {
+      "id": "game-006-2026-05-03",
+      "title": "Pop Culture Remix",
+      "date": "2026-05-03",
+      "filePath": "data/games/game-006-2026-05-03.json",
+      "columns": 6,
+      "rows": 5,
+      "pointValues": [100, 200, 300, 400, 500],
+      "categoryNames": ["VILLAIN CENTRAL", "GAME SHOW GREATS", "FAMOUS DUOS", "SITCOM CLASSICS", "DANCING QUEEN", "ANIMATED TV"],
+      "topics": [
+        "Darth Vader Star Wars Sith", "Wicked Witch West Wizard of Oz 1939", "Hannibal Lecter Silence of the Lambs Anthony Hopkins", "Thanos Marvel Avengers Infinity War", "Nurse Ratched One Flew Over Cuckoo's Nest Louise Fletcher",
+        "Wheel of Fortune Pat Sajak Vanna White", "The Price Is Right Bob Barker Come on down", "Family Feud Steve Harvey Survey says", "Who Wants to Be a Millionaire Regis Philbin final answer", "Jeopardy Alex Trebek answer in form of question",
+        "Scooby-Doo Shaggy talking dog mystery 1969", "Tom and Jerry MGM 1940 Hanna Barbera", "Thelma and Louise 1991 Ridley Scott", "Sonny and Cher I Got You Babe variety show", "Calvin and Hobbes Bill Watterson comic strip 1985 1995",
+        "Parks and Recreation Amy Poehler Leslie Knope Pawnee Indiana", "Arrested Development Fox Bluth family fraud", "Brooklyn Nine-Nine Andy Samberg Jake Peralta Terry Crews", "Modern Family ABC 2009 2020 five Emmy", "Community NBC Greendale Jeff Winger Abed six seasons movie",
+        "YMCA Village People 1978 disco arms", "PSY Gangnam Style 2012 horse-riding YouTube billion views", "Macarena Los Del Rio 1993 1996", "MC Hammer Can't Touch This 1990 parachute pants", "Madonna Vogue 1990 ballroom strike a pose",
+        "South Park Comedy Central Cartman Kyle Stan Kenny", "Family Guy Seth MacFarlane Stewie Brian Griffin", "Futurama Matt Groening Fry cryogenic 1999", "King of the Hill Mike Judge Hank Hill propane", "Archer FX Sterling Archer spy"
       ],
       "metadata": {
         "occasion": "Game Night",

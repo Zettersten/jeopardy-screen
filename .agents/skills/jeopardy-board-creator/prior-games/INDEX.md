@@ -24,7 +24,8 @@ This file is the AI's memory for game creation overlap prevention.
 | 002 | [game-002-2026-04-19](./game-002-2026-04-19.md) | 2026-04-19 | Game Night Jeopardy — Level Up Edition | LEVEL UP, 90S ANTHEMS, AUGHTS JAMS, MAKING HISTORY, HAPPENING NOW, SPORTS FLASHBACK | Game Night |
 | 003 | [game-003-2026-05-02](./game-003-2026-05-02.md) | 2026-05-02 | Game On, Gym Rats — Late 99s/2000s Edition | PUMP IT UP, SWEAT SCIENCE, INSERT COIN, PLAYER SELECT, BREAKING 2025, WORLD WATCH | Game Night |
 | 004 | [game-004-2026-05-02](./game-004-2026-05-02.md) | 2026-05-02 | Celebrity Chaos — 90s & 2000s Edition | ONE HIT WONDERS, REEL LAUGHS, SPORTS GONE WILD, BALL & CHAIN, SPLITSVILLE, TABLOID TORNADO | Game Night |
-| 005 | [game-005-2026-05-03](./game-005-2026-05-03.md) | 2026-05-03 | Pop Culture Parade | CATCHPHRASES, ANIMATED HITS, POP ROYALTY, SUPERHERO CENTRAL, BOY BANDS & GIRL GROUPS, QUOTE THAT MOVIE | Game Night (current) |
+| 005 | [game-005-2026-05-03](./game-005-2026-05-03.md) | 2026-05-03 | Pop Culture Parade | CATCHPHRASES, ANIMATED HITS, POP ROYALTY, SUPERHERO CENTRAL, BOY BANDS & GIRL GROUPS, QUOTE THAT MOVIE | Game Night |
+| 006 | [game-006-2026-05-03](./game-006-2026-05-03.md) | 2026-05-03 | Pop Culture Remix | VILLAIN CENTRAL, GAME SHOW GREATS, FAMOUS DUOS, SITCOM CLASSICS, DANCING QUEEN, ANIMATED TV | Game Night (current) |
 
 ---
 
@@ -158,5 +159,23 @@ Use this to quickly spot conflicts. Topics listed here have already been used as
 - Michael Jackson Blanket baby Berlin Hotel Adlon fourth-floor balcony November 2002, Monica Lewinsky Clinton 1998 Starr Report Linda Tripp White House intern 22 years old, Lorena Bobbitt 1993 Virginia temporary insanity acquitted kitchen knife husband anatomy SNL Netflix documentary, Britney Spears Jason Alexander 55-hour marriage January 2004 Las Vegas Little White Wedding Chapel annulled Jive Records joke, Anna Nicole Smith J. Howard Marshall II 89 married June 1994 Texas oil billionaire died August 1995 13 months estate legal battle
 
 ---
+
+### Movie & TV Villains — added game-006
+- Darth Vader Star Wars black armor Sith Luke Skywalker family reveal Empire Strikes Back, Wicked Witch of the West Wizard of Oz 1939 green face winged monkeys I'll get you my pretty, Hannibal Lecter Silence of the Lambs 1991 Anthony Hopkins Academy Award cannibalistic psychiatrist Clarice Starling, Thanos Marvel Avengers Infinity War Josh Brolin purple Infinity Stones snap half universe, Nurse Ratched One Flew Over the Cuckoo's Nest 1975 Louise Fletcher Best Actress psychiatric ward
+
+### Game Shows — added game-006
+- Wheel of Fortune Pat Sajak Vanna White word puzzles spin wheel CBS longest-running 1983, The Price Is Right Bob Barker Come on down CBS 35 years pets spayed neutered, Family Feud Steve Harvey Survey says two families survey answers 2010, Who Wants to Be a Millionaire Regis Philbin Is that your final answer million dollars fifteen questions 1999, Jeopardy Alex Trebek 37 years 2020 answer in form of question daily quiz
+
+### Famous Duos — added game-006
+- Scooby-Doo and Shaggy talking Great Dane mystery 1969 animated, Tom and Jerry MGM 1940 William Hanna Joseph Barbera cat mouse slapstick, Thelma and Louise 1991 Ridley Scott Susan Sarandon Geena Davis road film Southwest, Sonny and Cher I Got You Babe 1965 CBS variety show divorced 1975, Calvin and Hobbes Bill Watterson 1985 1995 comic strip stuffed tiger no merchandise licensing
+
+### Sitcoms (2000s–2010s) — added game-006
+- Parks and Recreation Amy Poehler Leslie Knope Pawnee Indiana NBC mockumentary 2009 2015, Arrested Development Fox Bluth family George Sr fraud Michael I've made a huge mistake, Brooklyn Nine-Nine Andy Samberg Jake Peralta Terry Crews Terry Jeffords 99th Precinct NBC, Modern Family ABC Dunphy 2009 2020 five consecutive Emmy Outstanding Comedy, Community NBC Greendale Jeff Winger Abed Nadir six seasons and a movie cult
+
+### Famous Dances & Music Performances — added game-006
+- YMCA Village People 1978 disco arms spell letters crowd, PSY Gangnam Style 2012 South Korean horse-riding dance first YouTube one billion views, The Macarena Los Del Rio 1993 recording 1996 global hit arm hip dance, MC Hammer Can't Touch This 1990 Oakland parachute pants Hammertime slide shuffle dance, Madonna Vogue 1990 ballroom scene New York City Black Latino underground strike a pose
+
+### Animated TV Series — added game-006
+- South Park Comedy Central Cartman Kyle Stan Kenny Colorado mountain town satirical long-running, Family Guy Fox Seth MacFarlane Quahog Rhode Island Griffin family Stewie power-hungry baby Brian talking dog, Futurama Matt Groening Philip J Fry cryogenic frozen 1999 New New York 3000 space delivery, King of the Hill Fox Mike Judge Hank Hill propane Arlen Texas Beavis Butt-Head, Archer FX Sterling Archer narcissistic spy Mallory mother agency rapid-fire wit
 
 *Append new rows to the Game Registry table and new topics to the Cross-Game Topic Map each time a game is created.*

@@ -66,7 +66,12 @@ async function fetchTTS(text) {
       "Content-Type": "application/json",
       model: "s2-pro",
     },
-    body: JSON.stringify({ text, reference_id: VOICE_ID, format: "mp3" }),
+    body: JSON.stringify({
+      text,
+      reference_id: VOICE_ID,
+      format: "mp3",
+      prosody: { speed: 1.3 },
+    }),
   });
   if (!res.ok) {
     const body = await res.text().catch(() => "");

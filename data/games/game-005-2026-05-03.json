@@ -1,0 +1,258 @@
+{
+  "id": "game-005-2026-05-03",
+  "title": "Pop Culture Parade",
+  "date": "2026-05-03",
+  "description": "A fun, accessible pop culture board for any crowd — classic catchphrases, beloved animated films, chart-topping pop stars, superhero showdowns, iconic boy bands and girl groups, and unforgettable movie quotes.",
+  "columns": 6,
+  "rows": 5,
+  "pointValues": [100, 200, 300, 400, 500],
+  "categories": [
+    {
+      "name": "CATCHPHRASES",
+      "questions": [
+        {
+          "points": 100,
+          "question": "On Fox's long-running animated sitcom, this rotund nuclear plant safety inspector expresses his frustration with a single grunt — 'D'oh!' — whenever things go inevitably wrong in the town of Springfield.",
+          "answer": "Who is Homer Simpson?",
+          "revealed": false
+        },
+        {
+          "points": 200,
+          "question": "Steve Carell's bumbling Dunder Mifflin branch manager on NBC's 'The Office' punctuated almost every accidental double entendre with this inappropriate two-word punchline: 'That's what she said.'",
+          "answer": "Who is Michael Scott?",
+          "revealed": false
+        },
+        {
+          "points": 300,
+          "question": "On CBS's 'The Big Bang Theory,' this Caltech theoretical physicist — played by Jim Parsons — crowned every successful prank on his roommate Leonard with a single invented word that sounds vaguely German: 'Bazinga!'",
+          "answer": "Who is Sheldon Cooper?",
+          "revealed": false
+        },
+        {
+          "points": 400,
+          "question": "Two metalhead best friends who host a cable-access show out of a basement in Aurora, Illinois — played by Mike Myers and Dana Carvey — close every episode with this mutual affirmation: 'Party on, Wayne! Party on, Garth!'",
+          "answer": "What is Wayne's World?",
+          "revealed": false
+        },
+        {
+          "points": 500,
+          "question": "Neil Patrick Harris played this suit-obsessed womanizer on CBS's 'How I Met Your Mother,' who stretched a single adjective into a multi-syllable verbal event: 'Legen — wait for it — dary!'",
+          "answer": "Who is Barney Stinson?",
+          "revealed": false
+        }
+      ]
+    },
+    {
+      "name": "ANIMATED HITS",
+      "questions": [
+        {
+          "points": 100,
+          "question": "In this beloved 1994 Disney film, a young lion cub named Simba is wrongly blamed for his father Mufasa's death by his scheming uncle Scar, and must journey home to reclaim his rightful place on Pride Rock.",
+          "answer": "What is The Lion King?",
+          "revealed": false
+        },
+        {
+          "points": 200,
+          "question": "In this 2003 Pixar adventure, an overprotective clownfish named Marlin crosses the entire ocean — with help from a lovably forgetful blue fish named Dory — to rescue his son from a dentist's aquarium in Sydney, Australia.",
+          "answer": "What is Finding Nemo?",
+          "revealed": false
+        },
+        {
+          "points": 300,
+          "question": "In this 2001 Pixar film, a large blue monster named Sulley and his wisecracking one-eyed green partner Mike work for an energy company powered by children's screams — until a fearless little girl named Boo unexpectedly follows them home.",
+          "answer": "What is Monsters, Inc.?",
+          "revealed": false
+        },
+        {
+          "points": 400,
+          "question": "In this 2004 Pixar blockbuster, a family of secret superheroes living in suburban anonymity must come out of hiding to stop a supervillain who was once rejected by the superhero father as a wannabe sidekick.",
+          "answer": "What is The Incredibles?",
+          "revealed": false
+        },
+        {
+          "points": 500,
+          "question": "In this 2002 Disney film set in Hawaii, a little girl adopts a small blue creature she thinks is a dog — unaware he is actually Experiment 626, an alien designed for destruction — and teaches him that 'ohana means family.'",
+          "answer": "What is Lilo & Stitch?",
+          "revealed": false
+        }
+      ]
+    },
+    {
+      "name": "POP ROYALTY",
+      "questions": [
+        {
+          "points": 100,
+          "question": "This New York-born pop superstar made headlines in 2010 by wearing a dress made entirely of raw meat to the MTV Video Music Awards, and first conquered the charts with her 2008 debut single 'Just Dance.'",
+          "answer": "Who is Lady Gaga?",
+          "revealed": false
+        },
+        {
+          "points": 200,
+          "question": "This pop powerhouse from Boca Raton, Florida rose to fame on Nickelodeon's 'Victorious' before releasing massive chart-topping hits including 'Problem,' 'God Is a Woman,' and 'Thank U, Next.'",
+          "answer": "Who is Ariana Grande?",
+          "revealed": false
+        },
+        {
+          "points": 300,
+          "question": "When her 2010 album 'Teenage Dream' produced five number-one singles on the Billboard Hot 100 — including 'Firework,' 'E.T.,' and 'California Gurls' — this pop star matched a record previously held only by Michael Jackson's 'Bad.'",
+          "answer": "Who is Katy Perry?",
+          "revealed": false
+        },
+        {
+          "points": 400,
+          "question": "At the 2012 Grammy Awards, this British soul singer won six trophies in a single night — including Album, Record, and Song of the Year for '21' and 'Rolling in the Deep' — in a triumphant comeback after vocal cord surgery.",
+          "answer": "Who is Adele?",
+          "revealed": false
+        },
+        {
+          "points": 500,
+          "question": "At the 60th Grammy Awards in 2018, this Honolulu-born singer-songwriter made history by winning all six of the categories he was nominated for — including Album of the Year for '24K Magic' and Song of the Year for 'That's What I Like.'",
+          "answer": "Who is Bruno Mars?",
+          "revealed": false
+        }
+      ]
+    },
+    {
+      "name": "SUPERHERO CENTRAL",
+      "questions": [
+        {
+          "points": 100,
+          "question": "Faster than a speeding bullet and able to leap tall buildings in a single bound, this DC Comics hero disguises himself as mild-mannered Daily Planet reporter Clark Kent — his only weakness being a glowing green mineral from his home planet Krypton.",
+          "answer": "Who is Superman?",
+          "revealed": false
+        },
+        {
+          "points": 200,
+          "question": "Unlike most superheroes, this billionaire who protects Gotham City at night has no superpowers whatsoever — just extreme wealth, a utility belt packed with gadgets, and a deep-seated grudge against criminals.",
+          "answer": "Who is Batman?",
+          "revealed": false
+        },
+        {
+          "points": 300,
+          "question": "In the 2008 Marvel film that launched the entire MCU, genius billionaire Tony Stark builds a high-tech suit of armor while held captive in a cave, and Robert Downey Jr.'s charismatic performance as this armored hero set the tone for superhero movies for years.",
+          "answer": "Who is Iron Man?",
+          "revealed": false
+        },
+        {
+          "points": 400,
+          "question": "This Marvel superhero rules the fictional African nation of Wakanda — the world's only source of the super-metal vibranium. His 2018 solo film, starring Chadwick Boseman, was the first superhero movie ever nominated for the Academy Award for Best Picture.",
+          "answer": "Who is Black Panther?",
+          "revealed": false
+        },
+        {
+          "points": 500,
+          "question": "Gal Gadot played this DC warrior princess from the island of Themyscira in a 2017 blockbuster set during World War I, where she wields a lasso of truth and indestructible bracers while battling Ares, the god of war.",
+          "answer": "Who is Wonder Woman?",
+          "revealed": false
+        }
+      ]
+    },
+    {
+      "name": "BOY BANDS & GIRL GROUPS",
+      "questions": [
+        {
+          "points": 100,
+          "question": "In 1996, Victoria, Mel B, Emma, Mel C, and Geri burst onto the global pop scene with 'Wannabe,' each sporting a fun nickname — Posh, Scary, Baby, Sporty, and Ginger — while championing their now-iconic philosophy of 'girl power.'",
+          "answer": "Who are the Spice Girls?",
+          "revealed": false
+        },
+        {
+          "points": 200,
+          "question": "Harry Styles, Niall Horan, Liam Payne, Louis Tomlinson, and Zayn Malik were put together by judges on the UK's 'The X Factor' in 2010 and went on to become one of the best-selling boy bands in history.",
+          "answer": "Who are One Direction?",
+          "revealed": false
+        },
+        {
+          "points": 300,
+          "question": "This Philadelphia R&B quartet dominated the slow jam charts in the early 1990s with heartbreaking ballads like 'End of the Road' and 'I'll Make Love to You,' winning over fans worldwide with their signature four-part harmonies.",
+          "answer": "Who are Boyz II Men?",
+          "revealed": false
+        },
+        {
+          "points": 400,
+          "question": "Brothers Kevin, Joe, and Nick made their mark through Disney Channel in the mid-2000s, built a massive teen fanbase, went on hiatus in 2013, then reunited in 2019 with their comeback single 'Sucker' — which debuted at number one on the Billboard Hot 100.",
+          "answer": "Who are the Jonas Brothers?",
+          "revealed": false
+        },
+        {
+          "points": 500,
+          "question": "Before Backstreet Boys or *NSYNC redefined the boy band phenomenon, this Boston-formed quintet — including Donnie Wahlberg, Joey McIntyre, and Jordan Knight — blazed the trail in the late 1980s and early 1990s with hits like 'Hangin' Tough.'",
+          "answer": "Who are New Kids on the Block?",
+          "revealed": false
+        }
+      ]
+    },
+    {
+      "name": "QUOTE THAT MOVIE",
+      "questions": [
+        {
+          "points": 100,
+          "question": "Throughout this beloved galaxy-spanning sci-fi franchise, Jedi masters, rebel generals, and brave pilots offer each other this hopeful farewell before heading into danger: 'May the Force be with you.'",
+          "answer": "What is Star Wars?",
+          "revealed": false
+        },
+        {
+          "points": 200,
+          "question": "Arnold Schwarzenegger's unstoppable cybernetic assassin calmly makes this three-word promise — before driving a car through a police station wall — in James Cameron's 1984 sci-fi thriller: 'I'll be back.'",
+          "answer": "What is The Terminator?",
+          "revealed": false
+        },
+        {
+          "points": 300,
+          "question": "In Rob Reiner's 1992 military courtroom drama, Jack Nicholson's bombastic Marine colonel snaps at Tom Cruise's navy lawyer with this now-legendary outburst: 'You can't handle the truth!'",
+          "answer": "What is A Few Good Men?",
+          "revealed": false
+        },
+        {
+          "points": 400,
+          "question": "Sitting on a park bench and sharing chocolates with strangers, Tom Hanks's lovable protagonist delivers his mother's famous wisdom in this 1994 Best Picture winner: 'Mama always said life was like a box of chocolates — you never know what you're gonna get.'",
+          "answer": "What is Forrest Gump?",
+          "revealed": false
+        },
+        {
+          "points": 500,
+          "question": "Heath Ledger's Joker — in full face paint and a purple suit — haunts heroes and villains alike with this chilling three-word whisper in Christopher Nolan's 2008 Batman sequel, for which Ledger posthumously won an Academy Award: 'Why so serious?'",
+          "answer": "What is The Dark Knight?",
+          "revealed": false
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "createdBy": "AI",
+    "occasion": "Game Night",
+    "targetAudience": "General audience — simplified pop culture for everyone",
+    "topics": [
+      "Homer Simpson The Simpsons Doh Fox animated Springfield nuclear plant",
+      "Michael Scott The Office NBC Steve Carell Dunder Mifflin Thats what she said",
+      "Sheldon Cooper Big Bang Theory CBS Jim Parsons Caltech Bazinga prank Leonard",
+      "Wayne's World Mike Myers Dana Carvey cable access Aurora Illinois Party on",
+      "Barney Stinson How I Met Your Mother CBS Neil Patrick Harris suit Legendary",
+      "The Lion King 1994 Disney Simba Mufasa Scar Pride Rock",
+      "Finding Nemo 2003 Pixar Marlin Dory clownfish Sydney dentist aquarium",
+      "Monsters Inc 2001 Pixar Sulley Mike Boo screams energy company",
+      "The Incredibles 2004 Pixar superhero family suburban hiding Syndrome sidekick",
+      "Lilo and Stitch 2002 Disney Hawaii Experiment 626 alien ohana family",
+      "Lady Gaga New York Just Dance Bad Romance 2008 meat dress 2010 MTV VMAs",
+      "Ariana Grande Boca Raton Nickelodeon Victorious Problem God Is a Woman Thank U Next",
+      "Katy Perry Teenage Dream 2010 five number one singles Firework ET California Gurls Michael Jackson Bad record",
+      "Adele 21 Rolling in the Deep six Grammys 2012 Album Record Song of the Year vocal cord surgery",
+      "Bruno Mars 24K Magic That's What I Like six Grammys 2018 60th Grammy Awards Honolulu",
+      "Superman DC Comics Clark Kent Daily Planet Krypton kryptonite cape blue suit",
+      "Batman DC Comics Gotham City billionaire Bruce Wayne utility belt no superpowers",
+      "Iron Man Marvel MCU Tony Stark Robert Downey Jr 2008 cave armor suit",
+      "Black Panther Marvel Wakanda vibranium Chadwick Boseman 2018 first superhero Best Picture Academy Award nomination",
+      "Wonder Woman DC Comics Gal Gadot Themyscira 2017 World War I lasso of truth Ares god of war",
+      "Spice Girls Victoria Mel B Emma Mel C Geri Wannabe 1996 girl power Posh Scary Baby Sporty Ginger",
+      "One Direction Harry Styles Niall Horan Liam Payne Louis Tomlinson Zayn Malik X Factor 2010",
+      "Boyz II Men Philadelphia R&B End of the Road I'll Make Love to You 1990s slow jam four-part harmony",
+      "Jonas Brothers Kevin Joe Nick Disney Channel 2005 Sucker 2019 number one Billboard Hot 100 reunion",
+      "New Kids on the Block Boston Donnie Wahlberg Joey McIntyre Jordan Knight Hangin Tough 1980s 1990s boy band",
+      "Star Wars May the Force be with you sci-fi franchise Jedi rebels",
+      "The Terminator Arnold Schwarzenegger I'll be back 1984 James Cameron cybernetic",
+      "A Few Good Men 1992 Rob Reiner Jack Nicholson Tom Cruise You can't handle the truth courtroom",
+      "Forrest Gump 1994 Best Picture Tom Hanks life like a box of chocolates mama said",
+      "The Dark Knight 2008 Christopher Nolan Heath Ledger Joker Why so serious posthumous Academy Award"
+    ]
+  }
+}
