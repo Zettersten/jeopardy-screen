@@ -1,5 +1,5 @@
 {
-  "current": "game-006-2026-05-03",
+  "current": "game-007-2026-05-03",
   "games": [
     {
       "id": "game-hist-001-2025-12-22",
@@ -259,6 +259,29 @@
       "metadata": {
         "occasion": "Game Night",
         "targetAudience": "General audience — simplified pop culture for everyone",
+        "createdBy": "AI"
+      }
+    },
+    {
+      "id": "game-007-2026-05-03",
+      "title": "Music, Sweat & Volume",
+      "date": "2026-05-03",
+      "filePath": "data/games/game-007-2026-05-03.json",
+      "columns": 6,
+      "rows": 5,
+      "pointValues": [100, 200, 300, 400, 500],
+      "categoryNames": ["GRUNGE VAULT", "SING ALONG", "GYM CLASS", "CLASSIC ROCK HALL", "90s ALTERNATIVE", "PUMP UP JAMS"],
+      "topics": [
+        "Soundgarden Black Hole Sun Chris Cornell", "Alice in Chains Rooster Dirt Jerry Cantrell Layne Staley", "Foo Fighters Dave Grohl Nirvana Everlong", "Stone Temple Pilots Scott Weiland Core Plush Grammy", "Bush Gavin Rossdale Sixteen Stone Glycerine",
+        "Don't Stop Believin' Journey 1981", "Sweet Caroline Neil Diamond 1969 Fenway Park", "Mr. Brightside The Killers 2003", "Wonderwall Oasis 1995 Noel Liam Gallagher", "Total Eclipse of the Heart Bonnie Tyler 1983 Jim Steinman",
+        "Jane Fonda 1982 workout VHS aerobics", "P90X Tony Horton Beachbody 2004 muscle confusion", "Zumba Alberto Perez Colombia 1990s Latin dance", "Pilates Joseph Pilates Contrology 1920s New York core", "Peloton 2012 spin bike streaming pandemic",
+        "Livin' on a Prayer Bon Jovi 1986 Tommy Gina", "Stairway to Heaven Led Zeppelin 1971", "Pour Some Sugar on Me Def Leppard 1987 Hysteria", "Sweet Child O' Mine Guns N' Roses 1987 Slash Axl Rose", "Hotel California Eagles 1977 Don Felder Grammy",
+        "Weezer Rivers Cuomo Buddy Holly 1994 Spike Jonze", "Sublime Bradley Nowell Long Beach 1996 posthumous", "Beck Loser 1994 Soy un perdedor slacker", "Radiohead Creep 1992 Oxford perfect body soul", "Red Hot Chili Peppers Under the Bridge Californication Scar Tissue 1983",
+        "Eye of the Tiger Survivor 1982 Rocky III Stallone", "Jump Van Halen 1984 Eddie keyboard synthesizer", "Jump Around House of Pain 1992 Wisconsin football", "Seven Nation Army White Stripes 2003 Jack White riff sports", "Enter Sandman Metallica 1991 Black Album Mariano Rivera"
+      ],
+      "metadata": {
+        "occasion": "Game Night",
+        "targetAudience": "General audience — music lovers, gym rats, and grunge fans",
         "createdBy": "AI"
       }
     },

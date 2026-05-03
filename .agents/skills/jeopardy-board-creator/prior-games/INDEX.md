@@ -25,7 +25,8 @@ This file is the AI's memory for game creation overlap prevention.
 | 003 | [game-003-2026-05-02](./game-003-2026-05-02.md) | 2026-05-02 | Game On, Gym Rats — Late 99s/2000s Edition | PUMP IT UP, SWEAT SCIENCE, INSERT COIN, PLAYER SELECT, BREAKING 2025, WORLD WATCH | Game Night |
 | 004 | [game-004-2026-05-02](./game-004-2026-05-02.md) | 2026-05-02 | Celebrity Chaos — 90s & 2000s Edition | ONE HIT WONDERS, REEL LAUGHS, SPORTS GONE WILD, BALL & CHAIN, SPLITSVILLE, TABLOID TORNADO | Game Night |
 | 005 | [game-005-2026-05-03](./game-005-2026-05-03.md) | 2026-05-03 | Pop Culture Parade | CATCHPHRASES, ANIMATED HITS, POP ROYALTY, SUPERHERO CENTRAL, BOY BANDS & GIRL GROUPS, QUOTE THAT MOVIE | Game Night |
-| 006 | [game-006-2026-05-03](./game-006-2026-05-03.md) | 2026-05-03 | Pop Culture Remix | VILLAIN CENTRAL, GAME SHOW GREATS, FAMOUS DUOS, SITCOM CLASSICS, DANCING QUEEN, ANIMATED TV | Game Night (current) |
+| 006 | [game-006-2026-05-03](./game-006-2026-05-03.md) | 2026-05-03 | Pop Culture Remix | VILLAIN CENTRAL, GAME SHOW GREATS, FAMOUS DUOS, SITCOM CLASSICS, DANCING QUEEN, ANIMATED TV | Game Night |
+| 007 | [game-007-2026-05-03](./game-007-2026-05-03.md) | 2026-05-03 | Music, Sweat & Volume | GRUNGE VAULT, SING ALONG, GYM CLASS, CLASSIC ROCK HALL, 90s ALTERNATIVE, PUMP UP JAMS | Game Night (current) |
 
 ---
 
@@ -177,5 +178,23 @@ Use this to quickly spot conflicts. Topics listed here have already been used as
 
 ### Animated TV Series — added game-006
 - South Park Comedy Central Cartman Kyle Stan Kenny Colorado mountain town satirical long-running, Family Guy Fox Seth MacFarlane Quahog Rhode Island Griffin family Stewie power-hungry baby Brian talking dog, Futurama Matt Groening Philip J Fry cryogenic frozen 1999 New New York 3000 space delivery, King of the Hill Fox Mike Judge Hank Hill propane Arlen Texas Beavis Butt-Head, Archer FX Sterling Archer narcissistic spy Mallory mother agency rapid-fire wit
+
+### Grunge (90s) — added game-007
+- Soundgarden Black Hole Sun 1994 Seattle Chris Cornell surreal video, Alice in Chains Rooster 1992 Dirt Jerry Cantrell Vietnam War Layne Staley Seattle, Foo Fighters Dave Grohl Nirvana 1994 self-titled debut arena rock Everlong, Stone Temple Pilots Scott Weiland Core 1992 Plush Grammy San Diego, Bush Gavin Rossdale Sixteen Stone Razorblade Suitcase Glycerine Machinehead London British grunge
+
+### Sing-Along Anthems — added game-007
+- Don't Stop Believin' Journey 1981 piano small-town girl city boy best-selling digital, Sweet Caroline Neil Diamond 1969 BA BA BA crowd Fenway Park Red Sox, Mr. Brightside The Killers 2003 Las Vegas UK chart longevity decade, Wonderwall Oasis 1995 Noel Gallagher Liam acoustic campfire open-mic, Total Eclipse of the Heart Bonnie Tyler 1983 Jim Steinman Turn around bright eyes karaoke
+
+### Home Fitness & Gym Culture (modern) — added game-007
+- Jane Fonda 1982 workout VHS aerobics home fitness 17 million copies, P90X Tony Horton Beachbody 2004 90-day muscle confusion Do your best forget the rest, Zumba Alberto Perez Colombia 1990s forgot music Latin dance cassette 180 countries, Pilates Joseph Pilates Contrology New York City 1920s dancers rehabilitation core, Peloton 2012 spin bike streaming subscription pandemic gym closures
+
+### Classic Rock Anthems — added game-007
+- Livin' on a Prayer Bon Jovi 1986 Tommy Gina working class key change arena, Stairway to Heaven Led Zeppelin 1971 acoustic electric greatest rock song polls guitar shops banned, Pour Some Sugar on Me Def Leppard 1987 Hysteria Joe Elliott glam metal, Sweet Child O' Mine Guns N' Roses 1987 Slash circus melody riff Axl Rose only US number one, Hotel California Eagles 1977 Don Felder 12-string Grammy Record of Year guitar outro
+
+### 90s Alternative — added game-007
+- Weezer Rivers Cuomo Buddy Holly 1994 Spike Jonze Happy Days video, Sublime Bradley Nowell Long Beach reggae punk ska What I Got Santeria died 1996 posthumous, Beck Loser 1994 Soy un perdedor lo-fi slacker Los Angeles shapeshifting, Radiohead Creep 1992 Oxford perfect body soul social outsider refused play, Red Hot Chili Peppers 1983 Los Angeles Under the Bridge 1992 Californication 1999 Scar Tissue Grammy
+
+### Pump-Up & Sports Anthems — added game-007
+- Eye of the Tiger Survivor 1982 Rocky III Stallone requested guitar pump-up montage, Jump Van Halen 1984 Eddie Van Halen synthesizer keyboard riff first only US number one David Lee Roth, Jump Around House of Pain 1992 hip-hop horn blast University Wisconsin football third quarter, Seven Nation Army White Stripes 2003 Jack White octave pedal riff sports stadium worldwide soccer hockey, Enter Sandman Metallica 1991 Black Album Mariano Rivera Yankees Hall of Fame walk-up
 
 *Append new rows to the Game Registry table and new topics to the Cross-Game Topic Map each time a game is created.*
