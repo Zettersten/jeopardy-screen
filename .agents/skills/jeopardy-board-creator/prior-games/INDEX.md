@@ -23,7 +23,8 @@ This file is the AI's memory for game creation overlap prevention.
 | 001 | [game-001-2025-04-19](./game-001-2025-04-19.md) | 2026-04-19 | Baby Shower Jeopardy | LABOR & DELIVERY, NEW TESTAMENT, OLD TESTAMENT, SWEAT IT OUT, THROWBACK JAMS, CRUNCHY HOME | Baby Shower |
 | 002 | [game-002-2026-04-19](./game-002-2026-04-19.md) | 2026-04-19 | Game Night Jeopardy — Level Up Edition | LEVEL UP, 90S ANTHEMS, AUGHTS JAMS, MAKING HISTORY, HAPPENING NOW, SPORTS FLASHBACK | Game Night |
 | 003 | [game-003-2026-05-02](./game-003-2026-05-02.md) | 2026-05-02 | Game On, Gym Rats — Late 99s/2000s Edition | PUMP IT UP, SWEAT SCIENCE, INSERT COIN, PLAYER SELECT, BREAKING 2025, WORLD WATCH | Game Night |
-| 004 | [game-004-2026-05-02](./game-004-2026-05-02.md) | 2026-05-02 | Celebrity Chaos — 90s & 2000s Edition | ONE HIT WONDERS, REEL LAUGHS, SPORTS GONE WILD, BALL & CHAIN, SPLITSVILLE, TABLOID TORNADO | Game Night (current) |
+| 004 | [game-004-2026-05-02](./game-004-2026-05-02.md) | 2026-05-02 | Celebrity Chaos — 90s & 2000s Edition | ONE HIT WONDERS, REEL LAUGHS, SPORTS GONE WILD, BALL & CHAIN, SPLITSVILLE, TABLOID TORNADO | Game Night |
+| 005 | [game-005-2026-05-03](./game-005-2026-05-03.md) | 2026-05-03 | Pop Culture Parade | CATCHPHRASES, ANIMATED HITS, POP ROYALTY, SUPERHERO CENTRAL, BOY BANDS & GIRL GROUPS, QUOTE THAT MOVIE | Game Night (current) |
 
 ---
 
@@ -119,6 +120,24 @@ Use this to quickly spot conflicts. Topics listed here have already been used as
 
 ### Reality TV
 - Survivor tribe spoken, American Idol Simon Cowell Kelly Clarkson, The Real World MTV, The Simple Life Paris Hilton Nicole Richie, America's Next Top Model smize Tyra Banks, The Osbournes, The Bachelor roses, Pimp My Ride Xzibit
+
+### TV Catchphrases — added game-005
+- Homer Simpson The Simpsons D'oh Fox Springfield nuclear plant, Michael Scott The Office NBC Steve Carell Dunder Mifflin That's what she said, Sheldon Cooper Big Bang Theory Jim Parsons Caltech Bazinga Leonard, Wayne's World Mike Myers Dana Carvey cable access Aurora Illinois Party on Wayne Garth, Barney Stinson How I Met Your Mother Neil Patrick Harris suit Legen-dary
+
+### Animated Films — added game-005
+- The Lion King 1994 Disney Simba Mufasa Scar Pride Rock, Finding Nemo 2003 Pixar Marlin Dory clownfish Sydney dentist aquarium, Monsters Inc 2001 Pixar Sulley Mike Wazowski Boo screams energy, The Incredibles 2004 Pixar superhero family suburban Syndrome sidekick, Lilo & Stitch 2002 Disney Hawaii Experiment 626 ohana means family
+
+### Pop Stars (2000s–2010s) — added game-005
+- Lady Gaga New York Just Dance 2008 Bad Romance meat dress 2010 MTV VMAs, Ariana Grande Boca Raton Nickelodeon Victorious Problem Thank U Next God Is a Woman, Katy Perry Teenage Dream 2010 five Billboard Hot 100 number ones Firework ET California Gurls Michael Jackson Bad record tied, Adele 21 Rolling in the Deep six Grammys 2012 Album Record Song of the Year vocal cord surgery comeback, Bruno Mars 24K Magic That's What I Like six Grammys 2018 60th Grammy Awards sweep all six nominations
+
+### Superheroes — added game-005
+- Superman DC Comics Clark Kent Daily Planet Krypton kryptonite cape blue suit, Batman DC Comics Gotham City Bruce Wayne no superpowers utility belt, Iron Man Marvel MCU Tony Stark Robert Downey Jr 2008 cave suit origin, Black Panther Marvel Wakanda vibranium Chadwick Boseman 2018 first superhero Academy Award Best Picture nomination, Wonder Woman DC Comics Gal Gadot Themyscira 2017 film World War I lasso of truth Ares god of war
+
+### Boy Bands & Girl Groups — added game-005
+- Spice Girls Wannabe 1996 girl power Victoria Mel B Emma Mel C Geri Posh Scary Baby Sporty Ginger, One Direction Harry Styles Niall Horan Liam Payne Louis Tomlinson Zayn Malik X Factor 2010, Boyz II Men Philadelphia R&B End of the Road I'll Make Love to You four-part harmony, Jonas Brothers Kevin Joe Nick Disney Channel Sucker 2019 number one Billboard Hot 100 reunion hiatus 2013, New Kids on the Block Boston Donnie Wahlberg Joey McIntyre Jordan Knight Hangin Tough late 1980s
+
+### Movie Quotes — added game-005
+- Star Wars May the Force be with you Jedi rebels franchise, The Terminator Arnold Schwarzenegger I'll be back 1984 James Cameron, A Few Good Men Jack Nicholson You can't handle the truth 1992 Rob Reiner Tom Cruise courtroom, Forrest Gump Tom Hanks life like a box of chocolates mama said 1994 Best Picture, The Dark Knight Heath Ledger Joker Why so serious 2008 Christopher Nolan posthumous Academy Award
 
 ### One-Hit Wonders — added game-004
 - Baha Men Who Let the Dogs Out 2000 Grammy Best Dance Recording junkanoo Bahamian #40 Hot 100, Lou Bega Mambo No. 5 1999 Pérez Prado mambo Monica Erica Rita Tina Sandra Mary Jessica, Hanson MMMBop 1997 Tulsa Oklahoma Isaac Taylor Zac #1 Hot 100 three weeks, Sisqo Thong Song 2000 Unleash the Dragon Top 5, Natalie Imbruglia Torn 1997 Australian Ednaswap cover

@@ -1,218 +1,218 @@
 {
-  "id": "game-004-2026-05-02",
-  "title": "Celebrity Chaos — 90s & 2000s Edition",
-  "date": "2026-05-02",
-  "description": "A comedy-first, millennial-targeted board covering 90s/2000s one-hit wonders, classic comedy films, outrageously wild sports moments, celebrity marriages, famous splits, and the most ridiculous tabloid headlines of the era.",
+  "id": "game-005-2026-05-03",
+  "title": "Pop Culture Parade",
+  "date": "2026-05-03",
+  "description": "A fun, accessible pop culture board for any crowd — classic catchphrases, beloved animated films, chart-topping pop stars, superhero showdowns, iconic boy bands and girl groups, and unforgettable movie quotes.",
   "columns": 6,
   "rows": 5,
   "pointValues": [100, 200, 300, 400, 500],
   "categories": [
     {
-      "name": "ONE HIT WONDERS",
+      "name": "CATCHPHRASES",
       "questions": [
         {
           "points": 100,
-          "question": "This Bahamian junkanoo band became the unofficial sound of sporting events worldwide after their Grammy Award-winning 2000 track dominated stadiums from baseball diamonds to basketball arenas — despite peaking at only #40 on the US Billboard Hot 100.",
-          "answer": "Who are the Baha Men?",
+          "question": "On Fox's long-running animated sitcom, this rotund nuclear plant safety inspector expresses his frustration with a single grunt — 'D'oh!' — whenever things go inevitably wrong in the town of Springfield.",
+          "answer": "Who is Homer Simpson?",
           "revealed": false
         },
         {
           "points": 200,
-          "question": "This German musician's infectious 1999 debut single borrowed from a classic Pérez Prado mambo and introduced the world to a list of women's names — Monica, Erica, Rita, Tina, Sandra, Mary, and Jessica — before dominating every summer dancefloor in existence.",
-          "answer": "Who is Lou Bega?",
+          "question": "Steve Carell's bumbling Dunder Mifflin branch manager on NBC's 'The Office' punctuated almost every accidental double entendre with this inappropriate two-word punchline: 'That's what she said.'",
+          "answer": "Who is Michael Scott?",
           "revealed": false
         },
         {
           "points": 300,
-          "question": "Three brothers from Tulsa, Oklahoma — ages 11, 14, and 16 — co-wrote this 1997 debut single entirely by themselves, topped the Billboard Hot 100 for three weeks, and then watched the music world collectively move on when their follow-up albums failed to replicate the magic.",
-          "answer": "Who is Hanson?",
+          "question": "On CBS's 'The Big Bang Theory,' this Caltech theoretical physicist — played by Jim Parsons — crowned every successful prank on his roommate Leonard with a single invented word that sounds vaguely German: 'Bazinga!'",
+          "answer": "Who is Sheldon Cooper?",
           "revealed": false
         },
         {
           "points": 400,
-          "question": "This R&B singer's 2000 ode to a certain minimalist undergarment — from his debut album 'Unleash the Dragon' — climbed into the US Top 5 and became one of the most played and radio-edited songs of the year, inspiring untold numbers of awkward family conversations.",
-          "answer": "Who is Sisqo?",
+          "question": "Two metalhead best friends who host a cable-access show out of a basement in Aurora, Illinois — played by Mike Myers and Dana Carvey — close every episode with this mutual affirmation: 'Party on, Wayne! Party on, Garth!'",
+          "answer": "What is Wayne's World?",
           "revealed": false
         },
         {
           "points": 500,
-          "question": "Few radio listeners in 1997 knew that this Australian singer's emotionally raw breakthrough hit was actually a cover of a 1995 song by the American alternative rock band Ednaswap — her smoky, stripped-down version became far more famous than the original.",
-          "answer": "Who is Natalie Imbruglia?",
+          "question": "Neil Patrick Harris played this suit-obsessed womanizer on CBS's 'How I Met Your Mother,' who stretched a single adjective into a multi-syllable verbal event: 'Legen — wait for it — dary!'",
+          "answer": "Who is Barney Stinson?",
           "revealed": false
         }
       ]
     },
     {
-      "name": "REEL LAUGHS",
+      "name": "ANIMATED HITS",
       "questions": [
         {
           "points": 100,
-          "question": "In this 1996 Adam Sandler sports comedy, a former hockey player who never made it to the NHL channels his slapshot aggression into professional golf, terrorizing competitors — and an extremely annoyed Bob Barker.",
-          "answer": "What is Happy Gilmore?",
+          "question": "In this beloved 1994 Disney film, a young lion cub named Simba is wrongly blamed for his father Mufasa's death by his scheming uncle Scar, and must journey home to reclaim his rightful place on Pride Rock.",
+          "answer": "What is The Lion King?",
           "revealed": false
         },
         {
           "points": 200,
-          "question": "In this 2001 comedy, Reese Witherspoon's bubbly sorority president shocks everyone by acing the LSAT and enrolling at Harvard Law School — where she ultimately wins a murder case by citing the rules of perming hair.",
-          "answer": "What is Legally Blonde?",
+          "question": "In this 2003 Pixar adventure, an overprotective clownfish named Marlin crosses the entire ocean — with help from a lovably forgetful blue fish named Dory — to rescue his son from a dentist's aquarium in Sydney, Australia.",
+          "answer": "What is Finding Nemo?",
           "revealed": false
         },
         {
           "points": 300,
-          "question": "Directed by Amy Heckerling, this 1995 Beverly Hills high school comedy follows a perpetually stylish teenager who uses a computerized wardrobe selector, misquotes Hamlet, and deploys her most iconic catchphrase — 'As if!' — to navigate the politics of her wealthy world.",
-          "answer": "What is Clueless?",
+          "question": "In this 2001 Pixar film, a large blue monster named Sulley and his wisecracking one-eyed green partner Mike work for an energy company powered by children's screams — until a fearless little girl named Boo unexpectedly follows them home.",
+          "answer": "What is Monsters, Inc.?",
           "revealed": false
         },
         {
           "points": 400,
-          "question": "This 1999 raunchy teen comedy is most infamous for a scene in which a teenage boy makes an extremely poor decision with a freshly baked apple pie — a moment so notorious it defined the film's identity, inspired four sequels, and traumatized a generation of bakers.",
-          "answer": "What is American Pie?",
+          "question": "In this 2004 Pixar blockbuster, a family of secret superheroes living in suburban anonymity must come out of hiding to stop a supervillain who was once rejected by the superhero father as a wannabe sidekick.",
+          "answer": "What is The Incredibles?",
           "revealed": false
         },
         {
           "points": 500,
-          "question": "In this 1998 Farrelly Brothers romantic comedy, Ben Stiller's character survives a horrific pre-date zipper incident, while Cameron Diaz's character later uses what she believes is 'hair gel' in one of cinema's most memorably cringe-inducing mix-ups.",
-          "answer": "What is There's Something About Mary?",
+          "question": "In this 2002 Disney film set in Hawaii, a little girl adopts a small blue creature she thinks is a dog — unaware he is actually Experiment 626, an alien designed for destruction — and teaches him that 'ohana means family.'",
+          "answer": "What is Lilo & Stitch?",
           "revealed": false
         }
       ]
     },
     {
-      "name": "SPORTS GONE WILD",
+      "name": "POP ROYALTY",
       "questions": [
         {
           "points": 100,
-          "question": "During their WBA heavyweight title rematch at the MGM Grand in Las Vegas on June 28, 1997, this former undisputed champion was disqualified for biting a chunk off Evander Holyfield's right ear — earning a $3 million fine and the revocation of his boxing license.",
-          "answer": "Who is Mike Tyson?",
+          "question": "This New York-born pop superstar made headlines in 2010 by wearing a dress made entirely of raw meat to the MTV Video Music Awards, and first conquered the charts with her 2008 debut single 'Just Dance.'",
+          "answer": "Who is Lady Gaga?",
           "revealed": false
         },
         {
           "points": 200,
-          "question": "In January 1994, just weeks before the Winter Olympics, an attacker hired by this US figure skater's ex-husband Jeff Gillooly struck rival Nancy Kerrigan in the right knee with a metal baton in a Detroit arena hallway.",
-          "answer": "Who is Tonya Harding?",
+          "question": "This pop powerhouse from Boca Raton, Florida rose to fame on Nickelodeon's 'Victorious' before releasing massive chart-topping hits including 'Problem,' 'God Is a Woman,' and 'Thank U, Next.'",
+          "answer": "Who is Ariana Grande?",
           "revealed": false
         },
         {
           "points": 300,
-          "question": "During a March 24, 2001 spring training game in Tucson, Arizona, this Arizona Diamondbacks Hall of Fame pitcher accidentally vaporized a mourning dove mid-flight with a near-100-mph fastball — the umpire declared the bizarre incident 'no pitch.'",
-          "answer": "Who is Randy Johnson?",
+          "question": "When her 2010 album 'Teenage Dream' produced five number-one singles on the Billboard Hot 100 — including 'Firework,' 'E.T.,' and 'California Gurls' — this pop star matched a record previously held only by Michael Jackson's 'Bad.'",
+          "answer": "Who is Katy Perry?",
           "revealed": false
         },
         {
           "points": 400,
-          "question": "On November 19, 2004, Indiana Pacers forward Ron Artest charged into the stands to fight fans after one threw a cup of soda at him — triggering the most infamous brawl in NBA history, forever nicknamed after the suburban Detroit arena where it occurred.",
-          "answer": "What is the Malice at the Palace?",
+          "question": "At the 2012 Grammy Awards, this British soul singer won six trophies in a single night — including Album, Record, and Song of the Year for '21' and 'Rolling in the Deep' — in a triumphant comeback after vocal cord surgery.",
+          "answer": "Who is Adele?",
           "revealed": false
         },
         {
           "points": 500,
-          "question": "In 1997, this head coach of the NBA's Golden State Warriors was choked at practice by his own player Latrell Sprewell, who said he was 'tired of' the constant criticism — earning Sprewell a 68-game suspension that stood as the longest in league history until the 2004 Pacers-Pistons brawl.",
-          "answer": "Who is P.J. Carlesimo?",
+          "question": "At the 60th Grammy Awards in 2018, this Honolulu-born singer-songwriter made history by winning all six of the categories he was nominated for — including Album of the Year for '24K Magic' and Song of the Year for 'That's What I Like.'",
+          "answer": "Who is Bruno Mars?",
           "revealed": false
         }
       ]
     },
     {
-      "name": "BALL & CHAIN",
+      "name": "SUPERHERO CENTRAL",
       "questions": [
         {
           "points": 100,
-          "question": "This England soccer captain married Victoria 'Posh Spice' Adams at Luttrellstown Castle in Ireland on July 4, 1999, in a ceremony so lavish and publicized that tabloids quickly dubbed the couple 'Posh and Becks.'",
-          "answer": "Who is David Beckham?",
+          "question": "Faster than a speeding bullet and able to leap tall buildings in a single bound, this DC Comics hero disguises himself as mild-mannered Daily Planet reporter Clark Kent — his only weakness being a glowing green mineral from his home planet Krypton.",
+          "answer": "Who is Superman?",
           "revealed": false
         },
         {
           "points": 200,
-          "question": "In May 2000, this Oscar-winning actress made headlines not just for marrying actor-director Billy Bob Thornton, but for the couple's matching fashion statement: vials of each other's blood worn around their necks as jewelry.",
-          "answer": "Who is Angelina Jolie?",
+          "question": "Unlike most superheroes, this billionaire who protects Gotham City at night has no superpowers whatsoever — just extreme wealth, a utility belt packed with gadgets, and a deep-seated grudge against criminals.",
+          "answer": "Who is Batman?",
           "revealed": false
         },
         {
           "points": 300,
-          "question": "This actor co-starred with his real-life girlfriend Reese Witherspoon in the 1999 dark teen drama 'Cruel Intentions,' then married her that same summer — the couple had two children before announcing their separation in 2006.",
-          "answer": "Who is Ryan Phillippe?",
+          "question": "In the 2008 Marvel film that launched the entire MCU, genius billionaire Tony Stark builds a high-tech suit of armor while held captive in a cave, and Robert Downey Jr.'s charismatic performance as this armored hero set the tone for superhero movies for years.",
+          "answer": "Who is Iron Man?",
           "revealed": false
         },
         {
           "points": 400,
-          "question": "Just months after ending a highly publicized engagement to actor Ben Affleck, this pop star and actress quietly married Puerto Rican singer Marc Anthony in a private June 2004 ceremony attended by only about 40 guests.",
-          "answer": "Who is Jennifer Lopez?",
+          "question": "This Marvel superhero rules the fictional African nation of Wakanda — the world's only source of the super-metal vibranium. His 2018 solo film, starring Chadwick Boseman, was the first superhero movie ever nominated for the Academy Award for Best Picture.",
+          "answer": "Who is Black Panther?",
           "revealed": false
         },
         {
           "points": 500,
-          "question": "At a July 1992 ceremony at her New Jersey home, this Grammy-winning R&B icon married fellow singer Bobby Brown — beginning a tumultuous union that became the subject of a 2005 VH1 reality series and ended with a 2007 divorce finalization.",
-          "answer": "Who is Whitney Houston?",
+          "question": "Gal Gadot played this DC warrior princess from the island of Themyscira in a 2017 blockbuster set during World War I, where she wields a lasso of truth and indestructible bracers while battling Ares, the god of war.",
+          "answer": "Who is Wonder Woman?",
           "revealed": false
         }
       ]
     },
     {
-      "name": "SPLITSVILLE",
+      "name": "BOY BANDS & GIRL GROUPS",
       "questions": [
         {
           "points": 100,
-          "question": "When this 'Friends' actress and former wife of Brad Pitt announced their separation in January 2005 after five years of marriage, tabloids everywhere collectively lost their minds — and have barely stopped discussing it in the two decades since.",
-          "answer": "Who is Jennifer Aniston?",
+          "question": "In 1996, Victoria, Mel B, Emma, Mel C, and Geri burst onto the global pop scene with 'Wannabe,' each sporting a fun nickname — Posh, Scary, Baby, Sporty, and Ginger — while championing their now-iconic philosophy of 'girl power.'",
+          "answer": "Who are the Spice Girls?",
           "revealed": false
         },
         {
           "points": 200,
-          "question": "This actress — known for playing Joey Potter on Dawson's Creek — reportedly used a burner phone to secretly coordinate her exit before filing for divorce from Tom Cruise in June 2012, amid widely reported concerns about surveillance by his church.",
-          "answer": "Who is Katie Holmes?",
+          "question": "Harry Styles, Niall Horan, Liam Payne, Louis Tomlinson, and Zayn Malik were put together by judges on the UK's 'The X Factor' in 2010 and went on to become one of the best-selling boy bands in history.",
+          "answer": "Who are One Direction?",
           "revealed": false
         },
         {
           "points": 300,
-          "question": "When this pop diva's five-year marriage to Sony Music president Tommy Mottola — the man who had signed and developed her career — ended in March 1998, she described their home as a 'jail' with cameras monitoring her every move.",
-          "answer": "Who is Mariah Carey?",
+          "question": "This Philadelphia R&B quartet dominated the slow jam charts in the early 1990s with heartbreaking ballads like 'End of the Road' and 'I'll Make Love to You,' winning over fans worldwide with their signature four-part harmonies.",
+          "answer": "Who are Boyz II Men?",
           "revealed": false
         },
         {
           "points": 400,
-          "question": "Fans who had watched three seasons of an MTV reality show about a young married couple were shocked in December 2005 when this 98 Degrees lead singer announced his separation from pop star and actress Jessica Simpson — their divorce was finalized in June 2006.",
-          "answer": "Who is Nick Lachey?",
+          "question": "Brothers Kevin, Joe, and Nick made their mark through Disney Channel in the mid-2000s, built a massive teen fanbase, went on hiatus in 2013, then reunited in 2019 with their comeback single 'Sucker' — which debuted at number one on the Billboard Hot 100.",
+          "answer": "Who are the Jonas Brothers?",
           "revealed": false
         },
         {
           "points": 500,
-          "question": "This Baywatch star's 1998 divorce from Mötley Crüe drummer Tommy Lee — following his conviction for spousal abuse — didn't stop the couple from dominating tabloids, as a secretly filmed honeymoon tape that leaked online in 1997 became one of the earliest major celebrity sex tape scandals.",
-          "answer": "Who is Pamela Anderson?",
+          "question": "Before Backstreet Boys or *NSYNC redefined the boy band phenomenon, this Boston-formed quintet — including Donnie Wahlberg, Joey McIntyre, and Jordan Knight — blazed the trail in the late 1980s and early 1990s with hits like 'Hangin' Tough.'",
+          "answer": "Who are New Kids on the Block?",
           "revealed": false
         }
       ]
     },
     {
-      "name": "TABLOID TORNADO",
+      "name": "QUOTE THAT MOVIE",
       "questions": [
         {
           "points": 100,
-          "question": "In November 2002, while staying at the Hotel Adlon in Berlin with fans gathered below, this pop megastar shocked the world by dangling his youngest son — a then-infant nicknamed 'Blanket' — over a fourth-floor balcony railing.",
-          "answer": "Who is Michael Jackson?",
+          "question": "Throughout this beloved galaxy-spanning sci-fi franchise, Jedi masters, rebel generals, and brave pilots offer each other this hopeful farewell before heading into danger: 'May the Force be with you.'",
+          "answer": "What is Star Wars?",
           "revealed": false
         },
         {
           "points": 200,
-          "question": "In 1998, the American public's collective jaw dropped when this 22-year-old White House intern's conversations — secretly recorded by colleague Linda Tripp — were revealed in the Starr Report, detailing her relationship with President Clinton in unprecedented detail.",
-          "answer": "Who is Monica Lewinsky?",
+          "question": "Arnold Schwarzenegger's unstoppable cybernetic assassin calmly makes this three-word promise — before driving a car through a police station wall — in James Cameron's 1984 sci-fi thriller: 'I'll be back.'",
+          "answer": "What is The Terminator?",
           "revealed": false
         },
         {
           "points": 300,
-          "question": "In a 1993 case that became one of America's most notorious tabloid stories, this Virginia woman was acquitted by reason of temporary insanity after severing her abusive husband's anatomy with a kitchen knife — later inspiring SNL sketches, a documentary, and a Netflix series.",
-          "answer": "Who is Lorena Bobbitt?",
+          "question": "In Rob Reiner's 1992 military courtroom drama, Jack Nicholson's bombastic Marine colonel snaps at Tom Cruise's navy lawyer with this now-legendary outburst: 'You can't handle the truth!'",
+          "answer": "What is A Few Good Men?",
           "revealed": false
         },
         {
           "points": 400,
-          "question": "This pop star's January 2004 Las Vegas escapade — a 55-hour marriage to Louisiana childhood friend Jason Alexander, quickly annulled after her record label described it as 'a joke taken too far' — was somehow not the most chaotic thing she did that decade.",
-          "answer": "Who is Britney Spears?",
+          "question": "Sitting on a park bench and sharing chocolates with strangers, Tom Hanks's lovable protagonist delivers his mother's famous wisdom in this 1994 Best Picture winner: 'Mama always said life was like a box of chocolates — you never know what you're gonna get.'",
+          "answer": "What is Forrest Gump?",
           "revealed": false
         },
         {
           "points": 500,
-          "question": "The entire entertainment world clutched its pearls in 1994 when this former Playboy Playmate married 89-year-old Texas oil billionaire J. Howard Marshall II — a union that ended 13 months later when he died and triggered a decade-long legal battle over his estate.",
-          "answer": "Who is Anna Nicole Smith?",
+          "question": "Heath Ledger's Joker — in full face paint and a purple suit — haunts heroes and villains alike with this chilling three-word whisper in Christopher Nolan's 2008 Batman sequel, for which Ledger posthumously won an Academy Award: 'Why so serious?'",
+          "answer": "What is The Dark Knight?",
           "revealed": false
         }
       ]
@@ -221,38 +221,38 @@
   "metadata": {
     "createdBy": "AI",
     "occasion": "Game Night",
-    "targetAudience": "Millennial adults (late 80s born)",
+    "targetAudience": "General audience — simplified pop culture for everyone",
     "topics": [
-      "Baha Men Who Let the Dogs Out 2000 Grammy Best Dance Recording junkanoo Bahamas #40 Hot 100 sporting events",
-      "Lou Bega Mambo No. 5 1999 Perez Prado mambo Monica Erica Rita Tina Sandra Mary Jessica",
-      "Hanson MMMBop 1997 Tulsa Oklahoma three brothers Isaac Taylor Zac #1 Billboard Hot 100 three weeks",
-      "Sisqo Thong Song 2000 Unleash the Dragon R&B Top 5 Billboard",
-      "Natalie Imbruglia Torn 1997 Australian singer cover Ednaswap 1995 original",
-      "Happy Gilmore 1996 Adam Sandler golf hockey player Bob Barker comedy",
-      "Legally Blonde 2001 Reese Witherspoon Elle Woods Harvard Law School pink perm rule",
-      "Clueless 1995 Amy Heckerling Alicia Silverstone Beverly Hills As if computer wardrobe",
-      "American Pie 1999 teen comedy apple pie raunchy",
-      "There's Something About Mary 1998 Farrelly Brothers Ben Stiller Cameron Diaz hair gel zipper",
-      "Mike Tyson Evander Holyfield ear bite June 28 1997 WBA heavyweight MGM Grand Las Vegas $3 million fine license revoked",
-      "Tonya Harding Nancy Kerrigan attack 1994 Winter Olympics Jeff Gillooly metal baton Detroit",
-      "Randy Johnson mourning dove bird pitch March 24 2001 spring training Tucson Arizona San Francisco Giants Calvin Murray no pitch",
-      "Malice at the Palace November 19 2004 Ron Artest Indiana Pacers Detroit Pistons Palace Auburn Hills brawl fans stands",
-      "P.J. Carlesimo Golden State Warriors Latrell Sprewell choke 1997 68-game suspension",
-      "David Beckham Victoria Adams Posh Spice married July 4 1999 Luttrellstown Castle Ireland",
-      "Angelina Jolie Billy Bob Thornton married May 2000 blood vials jewelry separated 2002",
-      "Ryan Phillippe Reese Witherspoon married 1999 Cruel Intentions co-stars separated 2006",
-      "Jennifer Lopez Marc Anthony married June 2004 private ceremony Ben Affleck engagement ended",
-      "Whitney Houston Bobby Brown married July 1992 New Jersey VH1 Being Bobby Brown 2007 divorce",
-      "Jennifer Aniston Brad Pitt separated January 2005 five years marriage tabloid",
-      "Katie Holmes Tom Cruise divorced June 2012 burner phone Dawson's Creek Scientology",
-      "Mariah Carey Tommy Mottola divorced March 1998 Sony Music jail cameras",
-      "Nick Lachey Jessica Simpson separated December 2005 98 Degrees MTV Newlyweds divorced June 2006",
-      "Pamela Anderson Tommy Lee divorced 1998 Baywatch spousal abuse honeymoon tape leaked 1997",
-      "Michael Jackson Blanket baby Berlin Hotel Adlon balcony November 2002",
-      "Monica Lewinsky Clinton 1998 Starr Report Linda Tripp recorded White House intern 22 years old",
-      "Lorena Bobbitt 1993 Virginia temporary insanity acquitted husband anatomy kitchen knife SNL Netflix documentary",
-      "Britney Spears Jason Alexander 55-hour marriage January 2004 Las Vegas Little White Wedding Chapel annulled Jive Records joke",
-      "Anna Nicole Smith J. Howard Marshall II 89 years old married June 1994 Texas oil billionaire died August 1995 13 months estate legal battle"
+      "Homer Simpson The Simpsons Doh Fox animated Springfield nuclear plant",
+      "Michael Scott The Office NBC Steve Carell Dunder Mifflin Thats what she said",
+      "Sheldon Cooper Big Bang Theory CBS Jim Parsons Caltech Bazinga prank Leonard",
+      "Wayne's World Mike Myers Dana Carvey cable access Aurora Illinois Party on",
+      "Barney Stinson How I Met Your Mother CBS Neil Patrick Harris suit Legendary",
+      "The Lion King 1994 Disney Simba Mufasa Scar Pride Rock",
+      "Finding Nemo 2003 Pixar Marlin Dory clownfish Sydney dentist aquarium",
+      "Monsters Inc 2001 Pixar Sulley Mike Boo screams energy company",
+      "The Incredibles 2004 Pixar superhero family suburban hiding Syndrome sidekick",
+      "Lilo and Stitch 2002 Disney Hawaii Experiment 626 alien ohana family",
+      "Lady Gaga New York Just Dance Bad Romance 2008 meat dress 2010 MTV VMAs",
+      "Ariana Grande Boca Raton Nickelodeon Victorious Problem God Is a Woman Thank U Next",
+      "Katy Perry Teenage Dream 2010 five number one singles Firework ET California Gurls Michael Jackson Bad record",
+      "Adele 21 Rolling in the Deep six Grammys 2012 Album Record Song of the Year vocal cord surgery",
+      "Bruno Mars 24K Magic That's What I Like six Grammys 2018 60th Grammy Awards Honolulu",
+      "Superman DC Comics Clark Kent Daily Planet Krypton kryptonite cape blue suit",
+      "Batman DC Comics Gotham City billionaire Bruce Wayne utility belt no superpowers",
+      "Iron Man Marvel MCU Tony Stark Robert Downey Jr 2008 cave armor suit",
+      "Black Panther Marvel Wakanda vibranium Chadwick Boseman 2018 first superhero Best Picture Academy Award nomination",
+      "Wonder Woman DC Comics Gal Gadot Themyscira 2017 World War I lasso of truth Ares god of war",
+      "Spice Girls Victoria Mel B Emma Mel C Geri Wannabe 1996 girl power Posh Scary Baby Sporty Ginger",
+      "One Direction Harry Styles Niall Horan Liam Payne Louis Tomlinson Zayn Malik X Factor 2010",
+      "Boyz II Men Philadelphia R&B End of the Road I'll Make Love to You 1990s slow jam four-part harmony",
+      "Jonas Brothers Kevin Joe Nick Disney Channel 2005 Sucker 2019 number one Billboard Hot 100 reunion",
+      "New Kids on the Block Boston Donnie Wahlberg Joey McIntyre Jordan Knight Hangin Tough 1980s 1990s boy band",
+      "Star Wars May the Force be with you sci-fi franchise Jedi rebels",
+      "The Terminator Arnold Schwarzenegger I'll be back 1984 James Cameron cybernetic",
+      "A Few Good Men 1992 Rob Reiner Jack Nicholson Tom Cruise You can't handle the truth courtroom",
+      "Forrest Gump 1994 Best Picture Tom Hanks life like a box of chocolates mama said",
+      "The Dark Knight 2008 Christopher Nolan Heath Ledger Joker Why so serious posthumous Academy Award"
     ]
   }
 }

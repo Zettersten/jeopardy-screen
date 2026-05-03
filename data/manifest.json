@@ -1,5 +1,5 @@
 {
-  "current": "game-004-2026-05-02",
+  "current": "game-005-2026-05-03",
   "games": [
     {
       "id": "game-hist-001-2025-12-22",
@@ -213,6 +213,29 @@
       "metadata": {
         "occasion": "Game Night",
         "targetAudience": "Millennial adults (late 80s born)",
+        "createdBy": "AI"
+      }
+    },
+    {
+      "id": "game-005-2026-05-03",
+      "title": "Pop Culture Parade",
+      "date": "2026-05-03",
+      "filePath": "data/games/game-005-2026-05-03.json",
+      "columns": 6,
+      "rows": 5,
+      "pointValues": [100, 200, 300, 400, 500],
+      "categoryNames": ["CATCHPHRASES", "ANIMATED HITS", "POP ROYALTY", "SUPERHERO CENTRAL", "BOY BANDS & GIRL GROUPS", "QUOTE THAT MOVIE"],
+      "topics": [
+        "Homer Simpson The Simpsons", "Michael Scott The Office", "Sheldon Cooper Big Bang Theory", "Wayne's World Mike Myers Dana Carvey", "Barney Stinson How I Met Your Mother",
+        "The Lion King 1994 Disney Simba", "Finding Nemo 2003 Pixar Marlin Dory", "Monsters Inc 2001 Pixar Sulley Mike Boo", "The Incredibles 2004 Pixar", "Lilo and Stitch 2002 Disney Hawaii ohana",
+        "Lady Gaga Just Dance Bad Romance meat dress", "Ariana Grande Nickelodeon Victorious Thank U Next", "Katy Perry Teenage Dream five number one singles", "Adele 21 Rolling in the Deep six Grammys 2012", "Bruno Mars 24K Magic six Grammys 2018",
+        "Superman DC Comics Clark Kent Krypton", "Batman DC Comics Gotham City Bruce Wayne", "Iron Man Marvel MCU Tony Stark 2008", "Black Panther Marvel Wakanda Chadwick Boseman Best Picture nomination", "Wonder Woman Gal Gadot Themyscira 2017 WWI",
+        "Spice Girls Wannabe 1996 girl power", "One Direction X Factor 2010 Harry Styles", "Boyz II Men Philadelphia End of the Road", "Jonas Brothers Sucker 2019 number one", "New Kids on the Block Boston Hangin Tough",
+        "Star Wars May the Force be with you", "The Terminator I'll be back 1984", "A Few Good Men You can't handle the truth 1992", "Forrest Gump box of chocolates 1994 Best Picture", "The Dark Knight Why so serious Heath Ledger Joker"
+      ],
+      "metadata": {
+        "occasion": "Game Night",
+        "targetAudience": "General audience — simplified pop culture for everyone",
         "createdBy": "AI"
       }
     },
