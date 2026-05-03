@@ -1,5 +1,5 @@
 {
-  "current": "game-007-2026-05-03",
+  "current": "game-008-2026-05-03",
   "games": [
     {
       "id": "game-hist-001-2025-12-22",
@@ -282,6 +282,29 @@
       "metadata": {
         "occasion": "Game Night",
         "targetAudience": "General audience — music lovers, gym rats, and grunge fans",
+        "createdBy": "AI"
+      }
+    },
+    {
+      "id": "game-008-2026-05-03",
+      "title": "Player One",
+      "date": "2026-05-03",
+      "filePath": "data/games/game-008-2026-05-03.json",
+      "columns": 6,
+      "rows": 5,
+      "pointValues": [100, 200, 300, 400, 500],
+      "categoryNames": ["ARCADE LEGENDS", "NINTENDO VAULT", "BOSS BATTLES", "MODERN ICONS", "ICONIC CHARACTERS", "PRESS START"],
+      "topics": [
+        "Pac-Man Namco 1980 maze ghosts Blinky Pinky Inky Clyde", "Space Invaders Taito 1978 arcade aliens fixed shooter", "Donkey Kong Nintendo 1981 Jumpman ape Mario origin", "Street Fighter II Capcom 1991 Ryu Ken fireball fighting genre", "Tetris Alexey Pajitnov 1984 Game Boy 1989 falling blocks",
+        "Super Mario Bros NES 1985 revived market Italian plumber", "Mario Kart SNES 1992 racing shells Rainbow Road", "Super Smash Bros Nintendo 64 1999 party fighting", "Metroid 1986 Samus Aran bounty hunter woman reveal", "EarthBound Mother 2 SNES 1994 Ness cult classic",
+        "Bowser King Koopas Mario arch-nemesis turtle Peach", "Ganondorf Zelda Triforce Hyrule Link villain", "GLaDOS Portal Valve 2007 Aperture Science AI cake", "Andrew Ryan BioShock 2007 Rapture A man chooses slave obeys", "Handsome Jack Borderlands 2 2012 Pandora sardonic villain",
+        "Minecraft Notch Persson 2011 blocks sandbox Microsoft 2.5 billion", "Fortnite Epic Games 2017 battle royale building skins", "The Last of Us Naughty Dog 2013 Joel Ellie fungal", "Skyrim Bethesda 2011 Dragonborn FUS RO DAH Nordic", "Dark Souls FromSoftware 2011 YOU DIED Soulslike brutal",
+        "Sonic the Hedgehog Sega 1991 blue mascot speed console wars", "Kratos God of War 2005 Spartan Greek Norse", "Geralt Rivia Witcher 3 2015 CD Projekt Red Netflix", "Ezio Auditore Assassin's Creed II 2009 Florence Ubisoft Templars", "Arthur Morgan Red Dead Redemption 2 2018 Rockstar 1899",
+        "Pong Atari 1972 first commercially successful arcade table tennis", "Nintendo Entertainment System NES 1985 ROB robotic toy crash revival", "E.T. Atari 1982 five weeks landfill New Mexico 2014 excavation", "Game Boy Nintendo 1989 handheld portable 118 million best-selling", "Stardew Valley ConcernedApe Eric Barone 2016 solo four years 20 million"
+      ],
+      "metadata": {
+        "occasion": "Game Night",
+        "targetAudience": "Video game enthusiasts — from casual players to hardcore fans",
         "createdBy": "AI"
       }
     },

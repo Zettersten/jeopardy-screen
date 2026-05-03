@@ -26,7 +26,8 @@ This file is the AI's memory for game creation overlap prevention.
 | 004 | [game-004-2026-05-02](./game-004-2026-05-02.md) | 2026-05-02 | Celebrity Chaos — 90s & 2000s Edition | ONE HIT WONDERS, REEL LAUGHS, SPORTS GONE WILD, BALL & CHAIN, SPLITSVILLE, TABLOID TORNADO | Game Night |
 | 005 | [game-005-2026-05-03](./game-005-2026-05-03.md) | 2026-05-03 | Pop Culture Parade | CATCHPHRASES, ANIMATED HITS, POP ROYALTY, SUPERHERO CENTRAL, BOY BANDS & GIRL GROUPS, QUOTE THAT MOVIE | Game Night |
 | 006 | [game-006-2026-05-03](./game-006-2026-05-03.md) | 2026-05-03 | Pop Culture Remix | VILLAIN CENTRAL, GAME SHOW GREATS, FAMOUS DUOS, SITCOM CLASSICS, DANCING QUEEN, ANIMATED TV | Game Night |
-| 007 | [game-007-2026-05-03](./game-007-2026-05-03.md) | 2026-05-03 | Music, Sweat & Volume | GRUNGE VAULT, SING ALONG, GYM CLASS, CLASSIC ROCK HALL, 90s ALTERNATIVE, PUMP UP JAMS | Game Night (current) |
+| 007 | [game-007-2026-05-03](./game-007-2026-05-03.md) | 2026-05-03 | Music, Sweat & Volume | GRUNGE VAULT, SING ALONG, GYM CLASS, CLASSIC ROCK HALL, 90s ALTERNATIVE, PUMP UP JAMS | Game Night |
+| 008 | [game-008-2026-05-03](./game-008-2026-05-03.md) | 2026-05-03 | Player One | ARCADE LEGENDS, NINTENDO VAULT, BOSS BATTLES, MODERN ICONS, ICONIC CHARACTERS, PRESS START | Game Night (current) |
 
 ---
 
@@ -196,5 +197,23 @@ Use this to quickly spot conflicts. Topics listed here have already been used as
 
 ### Pump-Up & Sports Anthems — added game-007
 - Eye of the Tiger Survivor 1982 Rocky III Stallone requested guitar pump-up montage, Jump Van Halen 1984 Eddie Van Halen synthesizer keyboard riff first only US number one David Lee Roth, Jump Around House of Pain 1992 hip-hop horn blast University Wisconsin football third quarter, Seven Nation Army White Stripes 2003 Jack White octave pedal riff sports stadium worldwide soccer hockey, Enter Sandman Metallica 1991 Black Album Mariano Rivera Yankees Hall of Fame walk-up
+
+### Classic Arcade Games — added game-008
+- Pac-Man Namco 1980 maze dots ghosts Blinky Pinky Inky Clyde yellow, Space Invaders Taito 1978 arcade descending aliens fixed shooter, Donkey Kong Nintendo 1981 Jumpman Mario origin ape girders, Street Fighter II Capcom 1991 Ryu Ken fireball 8 fighters fighting genre, Tetris Alexey Pajitnov 1984 Game Boy bundle 1989 falling blocks puzzle
+
+### Nintendo Franchises — added game-008
+- Super Mario Bros NES 1985 revived North American gaming market Italian plumber, Mario Kart SNES 1992 racing shells Rainbow Road, Super Smash Bros Nintendo 64 1999 party fighting all characters, Metroid 1986 Samus Aran armored bounty hunter woman reveal fast clear, EarthBound Mother 2 SNES 1994 Ness baseball bat alien RPG cult classic US flop
+
+### Video Game Villains & Bosses — added game-008
+- Bowser King Koopas Mario arch-nemesis fire-breathing turtle kidnaps Peach, Ganondorf Legend of Zelda Triforce Power Hyrule darkness Link villain, GLaDOS Portal Valve 2007 Aperture Science passive-aggressive AI cake test chambers, Andrew Ryan BioShock 2007 Rapture libertarian A man chooses slave obeys, Handsome Jack Borderlands 2 2012 Pandora sardonic corporate villain radio
+
+### Modern Gaming (2010s) — added game-008
+- Minecraft Markus Notch Persson 2011 block-building sandbox Microsoft 2.5 billion best-selling, Fortnite Epic Games 2017 battle royale 100 players building mechanic skins, The Last of Us Naughty Dog 2013 PlayStation Joel Ellie fungal infection post-apocalyptic acclaimed, Skyrim Elder Scrolls V Bethesda 2011 Dragonborn FUS RO DAH Nordic open-world, Dark Souls FromSoftware 2011 YOU DIED brutal Soulslike genre
+
+### Video Game Characters — added game-008
+- Sonic Hedgehog Sega 1991 blue mascot speed spiky console wars Nintendo rival, Kratos God of War 2005 PlayStation Spartan Greek mythology Norse reboot father, Geralt Rivia Witcher 3 Wild Hunt 2015 CD Projekt Red silver-haired Netflix, Ezio Auditore Assassin's Creed II 2009 Ubisoft Florence Renaissance Templars Venice Rome Constantinople, Arthur Morgan Red Dead Redemption 2 2018 Rockstar 1899 frontier outlaw emotional
+
+### Video Game Industry History — added game-008
+- Pong Atari 1972 first commercially successful arcade game table tennis, Nintendo Entertainment System NES 1985 US launch ROB robotic toy crash revival Now you're playing with power, E.T. Extra-Terrestrial Atari 1982 five weeks 1983 crash New Mexico landfill excavation 2014, Game Boy Nintendo 1989 handheld Tetris bundled 118 million best-selling portable, Stardew Valley ConcernedApe Eric Barone 2016 solo four years every pixel music code 20 million copies
 
 *Append new rows to the Game Registry table and new topics to the Cross-Game Topic Map each time a game is created.*
