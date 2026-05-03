@@ -1,5 +1,5 @@
 {
-  "current": "game-003-2026-05-02",
+  "current": "game-004-2026-05-02",
   "games": [
     {
       "id": "game-hist-001-2025-12-22",
@@ -186,6 +186,29 @@
         "Mortal Kombat ESRB 1994", "Zelda Majoras Mask 2000", "EverQuest Norrath 1999", "Counter-Strike Half-Life mod Valve", "Jet Set Radio Dreamcast 1999",
         "Pope Francis death April 2025", "Pope Leo XIV Robert Prevost first American pope May 2025", "Anora Best Picture 97th Academy Awards", "India Pakistan clash May 2025", "Warren Buffett retirement 2025",
         "China Trump tariffs trade war 2025", "Mark Carney Canada election 2025", "Firefly Aerospace Moon landing March 2025", "Myanmar earthquake 2025", "Germany federal election AfD 2025"
+      ],
+      "metadata": {
+        "occasion": "Game Night",
+        "targetAudience": "Millennial adults (late 80s born)",
+        "createdBy": "AI"
+      }
+    },
+    {
+      "id": "game-004-2026-05-02",
+      "title": "Celebrity Chaos — 90s & 2000s Edition",
+      "date": "2026-05-02",
+      "filePath": "data/games/game-004-2026-05-02.json",
+      "columns": 6,
+      "rows": 5,
+      "pointValues": [100, 200, 300, 400, 500],
+      "categoryNames": ["ONE HIT WONDERS", "REEL LAUGHS", "SPORTS GONE WILD", "BALL & CHAIN", "SPLITSVILLE", "TABLOID TORNADO"],
+      "topics": [
+        "Baha Men Who Let the Dogs Out", "Lou Bega Mambo No 5", "Hanson MMMBop", "Sisqo Thong Song", "Natalie Imbruglia Torn Ednaswap cover",
+        "Happy Gilmore Adam Sandler 1996", "Legally Blonde Reese Witherspoon 2001", "Clueless Amy Heckerling 1995 Alicia Silverstone", "American Pie 1999", "There's Something About Mary 1998 Farrelly Brothers",
+        "Mike Tyson Evander Holyfield ear bite June 28 1997", "Tonya Harding Nancy Kerrigan attack 1994 Jeff Gillooly", "Randy Johnson mourning dove bird pitch March 24 2001", "Malice at the Palace November 19 2004 Ron Artest", "P.J. Carlesimo Latrell Sprewell choke 1997 Golden State Warriors",
+        "David Beckham Victoria Adams Posh Spice married July 1999", "Angelina Jolie Billy Bob Thornton blood vials married 2000", "Ryan Phillippe Reese Witherspoon married 1999 Cruel Intentions", "Jennifer Lopez Marc Anthony married June 2004", "Whitney Houston Bobby Brown married July 1992",
+        "Jennifer Aniston Brad Pitt separated January 2005", "Katie Holmes Tom Cruise divorced June 2012 burner phone", "Mariah Carey Tommy Mottola divorced March 1998", "Nick Lachey Jessica Simpson separated December 2005", "Pamela Anderson Tommy Lee divorced 1998",
+        "Michael Jackson Blanket balcony Berlin Hotel Adlon November 2002", "Monica Lewinsky Clinton 1998 Starr Report Linda Tripp", "Lorena Bobbitt 1993 Virginia temporary insanity", "Britney Spears Jason Alexander 55-hour marriage January 2004", "Anna Nicole Smith J. Howard Marshall II 89 married June 1994"
       ],
       "metadata": {
         "occasion": "Game Night",

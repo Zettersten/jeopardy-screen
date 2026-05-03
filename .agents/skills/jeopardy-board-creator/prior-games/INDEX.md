@@ -22,7 +22,8 @@ This file is the AI's memory for game creation overlap prevention.
 | hist-008 | [game-hist-008-2026-04-18](./game-hist-008-2026-04-18.md) | 2026-04-18 | Baby Shower Jeopardy — Trad Wife Edition | LABOR & DELIVERY, NEW TESTAMENT, OLD TESTAMENT, SWEAT IT OUT, THROWBACK JAMS, TRAD WIFE | Baby Shower |
 | 001 | [game-001-2025-04-19](./game-001-2025-04-19.md) | 2026-04-19 | Baby Shower Jeopardy | LABOR & DELIVERY, NEW TESTAMENT, OLD TESTAMENT, SWEAT IT OUT, THROWBACK JAMS, CRUNCHY HOME | Baby Shower |
 | 002 | [game-002-2026-04-19](./game-002-2026-04-19.md) | 2026-04-19 | Game Night Jeopardy — Level Up Edition | LEVEL UP, 90S ANTHEMS, AUGHTS JAMS, MAKING HISTORY, HAPPENING NOW, SPORTS FLASHBACK | Game Night |
-| 003 | [game-003-2026-05-02](./game-003-2026-05-02.md) | 2026-05-02 | Game On, Gym Rats — Late 90s/2000s Edition | PUMP IT UP, SWEAT SCIENCE, INSERT COIN, PLAYER SELECT, BREAKING 2025, WORLD WATCH | Game Night (current) |
+| 003 | [game-003-2026-05-02](./game-003-2026-05-02.md) | 2026-05-02 | Game On, Gym Rats — Late 99s/2000s Edition | PUMP IT UP, SWEAT SCIENCE, INSERT COIN, PLAYER SELECT, BREAKING 2025, WORLD WATCH | Game Night |
+| 004 | [game-004-2026-05-02](./game-004-2026-05-02.md) | 2026-05-02 | Celebrity Chaos — 90s & 2000s Edition | ONE HIT WONDERS, REEL LAUGHS, SPORTS GONE WILD, BALL & CHAIN, SPLITSVILLE, TABLOID TORNADO | Game Night (current) |
 
 ---
 
@@ -118,6 +119,24 @@ Use this to quickly spot conflicts. Topics listed here have already been used as
 
 ### Reality TV
 - Survivor tribe spoken, American Idol Simon Cowell Kelly Clarkson, The Real World MTV, The Simple Life Paris Hilton Nicole Richie, America's Next Top Model smize Tyra Banks, The Osbournes, The Bachelor roses, Pimp My Ride Xzibit
+
+### One-Hit Wonders — added game-004
+- Baha Men Who Let the Dogs Out 2000 Grammy Best Dance Recording junkanoo Bahamian #40 Hot 100, Lou Bega Mambo No. 5 1999 Pérez Prado mambo Monica Erica Rita Tina Sandra Mary Jessica, Hanson MMMBop 1997 Tulsa Oklahoma Isaac Taylor Zac #1 Hot 100 three weeks, Sisqo Thong Song 2000 Unleash the Dragon Top 5, Natalie Imbruglia Torn 1997 Australian Ednaswap cover
+
+### Comedy Films (90s/2000s) — added game-004
+- Happy Gilmore 1996 Adam Sandler hockey player golfer Bob Barker, Legally Blonde 2001 Reese Witherspoon Elle Woods Harvard Law perm rule, Clueless 1995 Amy Heckerling Alicia Silverstone Beverly Hills As if computer wardrobe, American Pie 1999 apple pie raunchy teen comedy, There's Something About Mary 1998 Farrelly Brothers Ben Stiller Cameron Diaz hair gel zipper
+
+### Sports Scandals & Wild Moments — added game-004
+- Mike Tyson Evander Holyfield ear bite June 28 1997 WBA heavyweight MGM Grand Las Vegas $3 million fine license revoked, Tonya Harding Nancy Kerrigan attack January 1994 Jeff Gillooly metal baton Detroit Winter Olympics, Randy Johnson mourning dove bird pitch March 24 2001 spring training Tucson Arizona Calvin Murray no pitch, Malice at the Palace November 19 2004 Ron Artest Indiana Pacers Detroit Pistons Palace Auburn Hills 73-game suspension, P.J. Carlesimo Golden State Warriors Latrell Sprewell choke 1997 68-game suspension
+
+### Celebrity Marriages — added game-004
+- David Beckham Victoria Adams Posh Spice married July 4 1999 Luttrellstown Castle Ireland, Angelina Jolie Billy Bob Thornton married May 2000 blood vials jewelry separated 2002, Ryan Phillippe Reese Witherspoon married June 1999 Cruel Intentions co-stars separated 2006, Jennifer Lopez Marc Anthony married June 2004 private ceremony Ben Affleck engagement ended, Whitney Houston Bobby Brown married July 1992 New Jersey VH1 Being Bobby Brown 2007 divorce
+
+### Celebrity Breakups & Divorces — added game-004
+- Jennifer Aniston Brad Pitt separated January 2005 five years, Katie Holmes Tom Cruise divorced June 2012 burner phone Dawson's Creek Scientology, Mariah Carey Tommy Mottola divorced March 1998 Sony Music jail cameras, Nick Lachey Jessica Simpson separated December 2005 98 Degrees Newlyweds MTV divorced June 2006, Pamela Anderson Tommy Lee divorced 1998 Baywatch spousal abuse honeymoon tape leaked 1997
+
+### Tabloid Scandals (90s/2000s) — added game-004
+- Michael Jackson Blanket baby Berlin Hotel Adlon fourth-floor balcony November 2002, Monica Lewinsky Clinton 1998 Starr Report Linda Tripp White House intern 22 years old, Lorena Bobbitt 1993 Virginia temporary insanity acquitted kitchen knife husband anatomy SNL Netflix documentary, Britney Spears Jason Alexander 55-hour marriage January 2004 Las Vegas Little White Wedding Chapel annulled Jive Records joke, Anna Nicole Smith J. Howard Marshall II 89 married June 1994 Texas oil billionaire died August 1995 13 months estate legal battle
 
 ---
 
