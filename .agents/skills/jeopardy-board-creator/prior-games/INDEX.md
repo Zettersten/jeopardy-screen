@@ -34,7 +34,8 @@ This file is the AI's memory for game creation overlap prevention.
 || 012 | [game-012-2026-05-10](./game-012-2026-05-10.md) | 2026-05-10 | Chapter & Verse | IN THE BEGINNING, KINGDOM COME, HOLY PROPHETS, GOSPEL TRUTH, U.S. LANDMARKS, FAMOUS FIRSTS | Game Night |
 || 013 | [game-013-2026-05-10](./game-013-2026-05-10.md) | 2026-05-10 | Chapter, Verse & Cover Letter | PSALMS & WISDOM, ACTS & THE EPISTLES, GREAT NOVELS, OPENING LINES, CAREER DAY, PLAYS & POEMS | Game Night |
 || 014 | [game-014-2026-05-10](./game-014-2026-05-10.md) | 2026-05-10 | Totally Radical & Slightly Gross | 80S MOVIES, 80S MUSIC ICONS, SATURDAY MORNING, 90S REWIND, POTTY TALK, PULL MY FINGER | Game Night |
-|| 015 | [game-015-2026-05-10](./game-015-2026-05-10.md) | 2026-05-10 | Magic, Muppets & Medicine | MUPPETS, 90S DISNEY MOVIES, LORD OF THE RINGS, NARNIA, WOODSTOCK, NAME THAT DRUG | Game Night (current) |
+|| 015 | [game-015-2026-05-10](./game-015-2026-05-10.md) | 2026-05-10 | Magic, Muppets & Medicine | MUPPETS, 90S DISNEY MOVIES, LORD OF THE RINGS, NARNIA, WOODSTOCK, NAME THAT DRUG | Game Night |
+|| 016 | [game-016-2026-05-10](./game-016-2026-05-10.md) | 2026-05-10 | May the Psalms Be With You | FORREST FRANK, ANIMAL PLANET, BACK TO NARNIA, GALAXY FAR FAR AWAY, WAX ON WAX OFF, MARVEL-OUS, ANCIENT TWEETS | Game Night (current) |
 
 ---
 
@@ -341,5 +342,26 @@ Use this to quickly spot conflicts. Topics listed here have already been used as
 
 ### Pharmaceuticals / Name That Drug -- added game-015
 - acetaminophen Tylenol active ingredient pain reliever fever reducer most-used US cold flu products, ibuprofen Advil Motrin NSAID nonsteroidal anti-inflammatory best-selling pain reliever, diphenhydramine Benadryl antihistamine allergies drowsiness over-the-counter sleep aids, acetylsalicylic acid aspirin Felix Hoffmann Bayer 1897 willow bark chemical name, SSRIs selective serotonin reuptake inhibitors Prozac fluoxetine antidepressants serotonin blocking reabsorption
+
+### Forrest Frank -- added game-016
+- Surfaces pop duo Sunday Best #19 Hot 100 2019 Forrest Frank Colin Padalecki, No Longer Bound Hulvey 2023 viral Christian debut 60 million Spotify streams, Good Day #2 Hot Christian Songs 2024 Dove Award New Artist Year TikTok viral, Grammy Award Child of God 2024 Best Contemporary Christian Music Album nomination, The Lockdown Sessions Elton John Surfaces Learn to Fly 2021 COVID collaboration
+
+### Animals (additions game-016)
+- platypus egg-laying duck-billed venomous Australian mammal, mantis shrimp 16 color receptors bullet-speed punch shatters glass, honey badger Guinness World Records most fearless animal cobras lions, tardigrade water bear microscopic boiled frozen irradiated space survived, pistol shrimp claw snap cavitation bubble surface temperature sun
+
+### Narnia (additions game-016 -- fresh from game-015)
+- Turkish Delight Edmund Pevensie White Witch bribe candy moral collapse, Mr. Tumnus half-human half-goat faun Lucy tea White Witch informant, Eustace Scrubb Pevensie cousin dragon Voyage Dawn Treader insufferable, Father Christmas White Witch power crumbles presents Pevensie children snow, J.R.R. Tolkien Oxford Inklings CS Lewis allegory frustrated world-building
+
+### Star Wars -- added game-016
+- Yoda Dagobah swamp 900-year-old Jedi Master green reversed syntax, Han Solo Millennium Falcon Kessel Run 12 parsecs distance smuggler scoundrel, Hoth frozen ice planet Rebel base Empire Strikes Back discovered AT-AT, Emperor Palpatine Darth Sidious Galactic Senator Sith Lord decades hidden, midi-chlorians Phantom Menace George Lucas Force sensitivity cells biological mocked
+
+### Martial Arts Movies -- added game-016
+- The Karate Kid 1984 Mr. Miyagi Daniel LaRusso wax on wax off car fence hidden training, Bruce Lee Hong Kong martial arts legend Enter the Dragon 1973 died age 32, Rush Hour 1998 Jackie Chan Chris Tucker Hong Kong detective buddy-cop, Crouching Tiger Hidden Dragon 2000 Ang Lee Michelle Yeoh wire-work highest-grossing foreign-language US, Bloodsport 1988 Jean-Claude Van Damme Frank Dux underground full-contact tournament fabricated
+
+### Marvel Characters -- added game-016
+- Captain America Steve Rogers super-soldier serum frozen ice 70 years morally upstanding, Hulk Bruce Banner physicist angry green Avenger structural damage property, Deadpool Ryan Reynolds Merc with a Mouth regeneration fourth wall jokes, Wolverine Logan adamantium claws X-Man cannot age 2017 film devastating farewell, Doctor Strange neurosurgeon car accident Nepal Sorcerer Supreme sentient cape opinions
+
+### Psalms (specific chapters -- added game-016)
+- Psalm 23 Lord is my shepherd I shall not want memorized sympathy cards tattoos, Psalm 51 David Bathsheba Uriah death repentance prayer ancient world apology, Psalm 119 176 verses 22 Hebrew alphabet sections longest chapter entire Bible, Psalm 22 My God my God why have you forsaken me Jesus cross Matthew Mark prophetically precise, Psalm 150 closes Book of Psalms cymbals trumpets harps praise Lord breath mic drop
 
 *Append new rows to the Game Registry table and new topics to the Cross-Game Topic Map each time a game is created.*

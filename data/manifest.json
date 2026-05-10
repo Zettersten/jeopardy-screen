@@ -1,5 +1,5 @@
 {
-  "current": "game-015-2026-05-10",
+  "current": "game-016-2026-05-10",
   "games": [
     {
       "id": "game-hist-001-2025-12-22",
@@ -344,6 +344,22 @@
       "metadata": {
         "occasion": "Game Night",
         "targetAudience": "General audience — millennial adults with broad knowledge interests",
+        "createdBy": "AI"
+      }
+    },
+    {
+      "id": "game-016-2026-05-10",
+      "title": "May the Psalms Be With You",
+      "date": "2026-05-10",
+      "filePath": "data/games/game-016-2026-05-10.json",
+      "columns": 7,
+      "rows": 5,
+      "pointValues": [100, 200, 300, 400, 500],
+      "categoryNames": ["FORREST FRANK", "ANIMAL PLANET", "BACK TO NARNIA", "GALAXY FAR, FAR AWAY", "WAX ON, WAX OFF", "MARVEL-OUS", "ANCIENT TWEETS"],
+      "topics": ["Surfaces", "No Longer Bound", "Good Day", "Grammy Award", "The Lockdown Sessions", "platypus", "mantis shrimp", "honey badger", "tardigrade", "pistol shrimp", "Turkish Delight", "Mr. Tumnus", "Eustace Scrubb", "Father Christmas", "J.R.R. Tolkien", "Yoda", "Han Solo", "Hoth", "Emperor Palpatine", "midi-chlorians", "The Karate Kid", "Bruce Lee", "Rush Hour", "Crouching Tiger Hidden Dragon", "Bloodsport", "Captain America", "Hulk", "Deadpool", "Wolverine", "Doctor Strange", "Psalm 23", "Psalm 51", "Psalm 119", "Psalm 22", "Psalm 150"],
+      "metadata": {
+        "occasion": "Game Night",
+        "targetAudience": "Millennial adults with eclectic tastes",
         "createdBy": "AI"
       }
     },
