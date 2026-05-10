@@ -30,7 +30,8 @@ This file is the AI's memory for game creation overlap prevention.
 | 008 | [game-008-2026-05-03](./game-008-2026-05-03.md) | 2026-05-03 | Player One | ARCADE LEGENDS, NINTENDO VAULT, BOSS BATTLES, MODERN ICONS, ICONIC CHARACTERS, PRESS START | Game Night |
 | 009 | [game-009-2026-05-10](./game-009-2026-05-10.md) | 2026-05-10 | Faith, Sweat & Legends | OLD TESTAMENT, NEW TESTAMENT, ROCK & PUNK LEGENDS, BUILD IT RIGHT, RAISING KIDS, SWEAT SCIENCE | Game Night |
 | 010 | [game-010-2026-05-10](./game-010-2026-05-10.md) | 2026-05-10 | Wild Kingdom & World Tour | CREATURE FEATURE, BLAST OFF, DRIVE-THRU, BODY TALK, QUOTE IT, AROUND THE WORLD | Game Night |
-|| 011 | [game-011-2026-05-10](./game-011-2026-05-10.md) | 2026-05-10 | Ready, Set, Know! | WILD THINGS, SPACE RACE, ORDER UP!, BODY BASICS, WISE WORDS, GLOBE TROTTERS | Game Night (current) |
+|| 011 | [game-011-2026-05-10](./game-011-2026-05-10.md) | 2026-05-10 | Ready, Set, Know! | WILD THINGS, SPACE RACE, ORDER UP!, BODY BASICS, WISE WORDS, GLOBE TROTTERS | Game Night |
+|| 012 | [game-012-2026-05-10](./game-012-2026-05-10.md) | 2026-05-10 | Chapter & Verse | IN THE BEGINNING, KINGDOM COME, HOLY PROPHETS, GOSPEL TRUTH, U.S. LANDMARKS, FAMOUS FIRSTS | Game Night (current) |
 
 ---
 
@@ -272,5 +273,21 @@ Use this to quickly spot conflicts. Topics listed here have already been used as
 
 ### Geography & World Facts -- added game-011
 - Nile longest river Africa Mediterranean 4132 miles, Mount Everest 29032 feet Himalayan highest point, Dead Sea Israel Jordan 1400 feet below sea level lowest land point, Amazon Rainforest South America half remaining rainforest, Bering Strait 55 miles Russia Alaska arctic passage
+
+### Scripture — Old Testament (additions game-012)
+- light Day 1 creation separated darkness, Adam first man dust ground breath life Genesis 2, Abraham renamed Abram father many nations Genesis 17, Israel Jacob new name wrestling divine stranger Genesis 32, Esau birthright lentil stew twin brother Jacob Genesis 25
+- Saul first king Israel Samuel tribe Benjamin anointed, Solomon First Temple Jerusalem wisdom son David, Rehoboam kingdom split ten tribes tax burden 1 Kings 12, Ahab Jezebel Baal altars northern kingdom, Josiah young king Book of Law temple repairs reform 2 Kings 22
+
+### Scripture — Prophets (additions game-012)
+- Elijah 450 prophets Baal Mount Carmel fire heaven 1 Kings 18, Elisha Naaman leprosy Jordan seven times 2 Kings 5, Daniel lions den King Darius prayer refused Daniel 6, Jeremiah weeping prophet plans hope future exile, John Patmos Revelation visions apostle
+
+### Scripture — New Testament (additions game-012)
+- Bethlehem Jesus born manger no room inn Luke 2, Lazarus raised four days tomb Bethany John 11, Gethsemane olive grove prayer Last Supper arrest Matthew 26, Peter walking water sinking doubted Matthew 14, Mary Magdalene gardener mistook risen Jesus John 20
+
+### U.S. Geography & Landmarks -- added game-012
+- Statue of Liberty France 1886 New York Harbor copper torch, Grand Canyon Colorado River Arizona mile-deep, Mount Rushmore four presidents granite South Dakota, Golden Gate Bridge 1937 orange suspension San Francisco, Washington Monument 555 feet obelisk National Mall D.C.
+
+### Inventions & Scientific Firsts -- added game-012
+- Wright Brothers Kitty Hawk 1903 first powered airplane, Alexander Graham Bell telephone 1876 voice wire, Alexander Fleming penicillin 1928 mold antibiotic, Marie Curie two Nobel Prizes physics chemistry, Jonas Salk polio vaccine 1955 paralyzing childhood disease
 
 *Append new rows to the Game Registry table and new topics to the Cross-Game Topic Map each time a game is created.*

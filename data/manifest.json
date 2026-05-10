@@ -1,5 +1,5 @@
 {
-  "current": "game-011-2026-05-10",
+  "current": "game-012-2026-05-10",
   "games": [
     {
       "id": "game-hist-001-2025-12-22",
@@ -344,6 +344,29 @@
       "metadata": {
         "occasion": "Game Night",
         "targetAudience": "General audience — millennial adults with broad knowledge interests",
+        "createdBy": "AI"
+      }
+    },
+    {
+      "id": "game-012-2026-05-10",
+      "title": "Chapter & Verse",
+      "date": "2026-05-10",
+      "filePath": "data/games/game-012-2026-05-10.json",
+      "columns": 6,
+      "rows": 5,
+      "pointValues": [100, 200, 300, 400, 500],
+      "categoryNames": ["IN THE BEGINNING", "KINGDOM COME", "HOLY PROPHETS", "GOSPEL TRUTH", "U.S. LANDMARKS", "FAMOUS FIRSTS"],
+      "topics": [
+        "light creation Day 1", "Adam dust ground", "Abraham Abram father of many nations", "Israel Jacob wrestling", "Esau birthright lentil stew",
+        "Saul first king Samuel", "Solomon Temple Jerusalem wisdom", "Rehoboam kingdom split", "Ahab Jezebel Baal", "Josiah Book of Law reform",
+        "Elijah 450 Baal Mount Carmel", "Elisha Naaman leprosy Jordan", "Daniel lions den Darius", "Jeremiah weeping prophet hope future", "John Patmos Revelation",
+        "Bethlehem Jesus manger", "Lazarus four days tomb Bethany", "Gethsemane olive grove arrest", "Peter walking water sinking", "Mary Magdalene gardener empty tomb",
+        "Statue of Liberty France 1886", "Grand Canyon Colorado River Arizona", "Mount Rushmore four presidents", "Golden Gate Bridge 1937 San Francisco", "Washington Monument 555 feet D.C.",
+        "Wright Brothers Kitty Hawk 1903", "telephone Bell 1876", "penicillin Fleming 1928", "Marie Curie two Nobel physics chemistry", "Salk polio vaccine 1955"
+      ],
+      "metadata": {
+        "occasion": "Game Night",
+        "targetAudience": "Family-friendly with strong biblical focus",
         "createdBy": "AI"
       }
     },
