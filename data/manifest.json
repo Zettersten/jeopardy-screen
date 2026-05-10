@@ -1,5 +1,5 @@
 {
-  "current": "game-010-2026-05-10",
+  "current": "game-011-2026-05-10",
   "games": [
     {
       "id": "game-hist-001-2025-12-22",
@@ -344,6 +344,29 @@
       "metadata": {
         "occasion": "Game Night",
         "targetAudience": "General audience — millennial adults with broad knowledge interests",
+        "createdBy": "AI"
+      }
+    },
+    {
+      "id": "game-011-2026-05-10",
+      "title": "Ready, Set, Know!",
+      "date": "2026-05-10",
+      "filePath": "data/games/game-011-2026-05-10.json",
+      "columns": 6,
+      "rows": 5,
+      "pointValues": [100, 200, 300, 400, 500],
+      "categoryNames": ["WILD THINGS", "SPACE RACE", "ORDER UP!", "BODY BASICS", "WISE WORDS", "GLOBE TROTTERS"],
+      "topics": [
+        "penguin", "chameleon", "giraffe", "dolphin", "axolotl",
+        "Moon Neil Armstrong", "Mars Olympus Mons", "Jupiter Great Red Spot", "International Space Station", "Voyager 1",
+        "Happy Meal", "Ronald McDonald", "Whopper Burger King", "Chick-fil-A Sunday", "In-N-Out Not So Secret Menu",
+        "heart 100000 beats", "skin largest organ", "femur longest bone", "blood 5 liters", "cornea no blood supply",
+        "Muhammad Ali float butterfly", "Neil Armstrong Moon step", "Theodore Roosevelt speak softly", "Mark Twain death exaggeration", "Abraham Lincoln Gettysburg",
+        "Nile longest river", "Mount Everest highest", "Dead Sea lowest land", "Amazon Rainforest half", "Bering Strait Russia Alaska"
+      ],
+      "metadata": {
+        "occasion": "Game Night",
+        "targetAudience": "Family-friendly — general audience of all ages",
         "createdBy": "AI"
       }
     },

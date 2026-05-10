@@ -34,18 +34,22 @@ When this skill is invoked to create a new game, execute these steps **in order*
 
 ### Step 3 — Research & Verify All Facts
 
-**Web search is mandatory.** For every factual clue:
+**Web search is mandatory. Research all topics in parallel.**
 
-- Search for the specific fact before writing the clue.
-- Verify: dates, names, titles, attributions, records, quotes, scientific terminology.
-- If a fact cannot be independently confirmed via search, **do not include it** — rephrase or replace the clue.
-- Cite the confirmed source in your reasoning (not in the JSON, but in your working notes).
+When categories or topics are known, fire off searches for all topics simultaneously — do not research one topic, write its clues, then move on. Batching research up front is faster and surfaces conflicts before you start writing.
+
+For each topic search, gather:
+- Key identifying facts, dates, names, and figures
+- One or two memorable specifics at multiple difficulty levels
+- Any disambiguation details needed if multiple answers are plausible
 
 Accuracy standards:
+- Verify every claim before including it. If a fact cannot be confirmed, cut it.
 - No invented facts, quotes, statistics, or attributions.
 - No "trick" clues that hinge on debatable or contested information.
-- If multiple reasonable answers exist, add a discriminating detail.
-- Prefer primary sources (original publication, official records) over secondary sources.
+- If multiple reasonable answers exist, add a single discriminating detail.
+- Prefer primary sources (official records, original publications) over secondary sources.
+- Dates, chart positions, award counts, biblical citations — confirm exact figures.
 
 ### Step 4 — Write All Clues
 
@@ -161,9 +165,23 @@ All game files must conform to this schema:
 - Clues are declarative statements, not questions.
 - Category names are ALL CAPS, concise (1–4 words), and thematically tight.
 
+### Clue Length
+- **Target 10–20 words** per clue; hard maximum 30 words.
+- One sentence. One identifying fact.
+- No stacked clauses, parenthetical asides, or compound lists.
+- If trimming a clue loses accuracy, choose a simpler fact — don't stretch the word count.
+
+### Traditional Jeopardy Format
+- **Clue (`question` field):** A terse declarative statement — the descriptor Alex Trebek would read aloud. It provides context, definition, or a single characteristic that points to one answer.
+- **Response (`answer` field):** The entity being identified — a single name, place, title, or short phrase. Prefix with `What is`, `Who is`, etc. Keep the response itself brief; it should name the thing, not describe it.
+- Bad clue example: `"This long-running NBC sitcom, set in New York City and starring six friends including Ross, Rachel, Monica, Chandler, Joey, and Phoebe, first aired in 1994."`
+- Good clue example: `"Six friends in New York City starred in this hit 1990s NBC sitcom."`
+- Good answer: `"What is Friends?"`
+
 ### Answer Format
 - All answers must begin with: `What is`, `Who is`, `What are`, `Who are`, `What was`, `Who was`, or equivalent Jeopardy-standard phrasing.
 - End with a `?`.
+- The answer names the thing — it does not repeat the clue's description.
 
 ### Do Not Give Away the Answer
 - The clue must not contain the answer or a near-verbatim paraphrase of it.
@@ -175,14 +193,6 @@ All game files must conform to this schema:
 - **300 pts** — Requires knowledge of a supporting character, event, or secondary fact.
 - **400 pts** — Specific detail that rewards deep knowledge; a stumper for casual players.
 - **500 pts** — Niche, specialized, or obscure fact that only genuine enthusiasts will know.
-
-### Accuracy Requirements
-- Every factual claim must be verifiable via web search before inclusion.
-- Dates, chart positions, award counts, scientific definitions, biblical citations — all must be exact.
-- Never approximate: "around 9 Grammy Awards" is wrong; confirm the exact number.
-- For pop culture: verify chart positions, release years, personnel, and album credits via reliable sources (Billboard, AllMusic, Grammy.com, etc.).
-- For science/medicine: use peer-reviewed or authoritative medical definitions.
-- For scripture: cite the specific book, chapter, and verse.
 
 ### Audience
 - Primary audience: **millennial adults born in the late 1980s**.
@@ -241,6 +251,14 @@ When archiving a game, create `.agents/skills/jeopardy-board-creator/prior-games
 | Per-game summaries | `.agents/skills/jeopardy-board-creator/prior-games/<game-id>.md` |
 | This skill | `.agents/skills/jeopardy-board-creator/SKILL.md` |
 | Human-readable rules doc | `docs/JEOPARDY_DATA_RULES.md` |
+
+---
+
+## Audio Generation
+
+TTS (text-to-speech) audio is **not** generated as part of this skill's normal workflow. Do not run `generate-tts.mjs` or any audio generation commands unless the user explicitly requests it.
+
+Audio is an optional, separate step handled outside the game creation process.
 
 ---
 

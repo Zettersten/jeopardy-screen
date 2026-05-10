@@ -29,7 +29,8 @@ This file is the AI's memory for game creation overlap prevention.
 | 007 | [game-007-2026-05-03](./game-007-2026-05-03.md) | 2026-05-03 | Music, Sweat & Volume | GRUNGE VAULT, SING ALONG, GYM CLASS, CLASSIC ROCK HALL, 90s ALTERNATIVE, PUMP UP JAMS | Game Night |
 | 008 | [game-008-2026-05-03](./game-008-2026-05-03.md) | 2026-05-03 | Player One | ARCADE LEGENDS, NINTENDO VAULT, BOSS BATTLES, MODERN ICONS, ICONIC CHARACTERS, PRESS START | Game Night |
 | 009 | [game-009-2026-05-10](./game-009-2026-05-10.md) | 2026-05-10 | Faith, Sweat & Legends | OLD TESTAMENT, NEW TESTAMENT, ROCK & PUNK LEGENDS, BUILD IT RIGHT, RAISING KIDS, SWEAT SCIENCE | Game Night |
-| 010 | [game-010-2026-05-10](./game-010-2026-05-10.md) | 2026-05-10 | Wild Kingdom & World Tour | CREATURE FEATURE, BLAST OFF, DRIVE-THRU, BODY TALK, QUOTE IT, AROUND THE WORLD | Game Night (current) |
+| 010 | [game-010-2026-05-10](./game-010-2026-05-10.md) | 2026-05-10 | Wild Kingdom & World Tour | CREATURE FEATURE, BLAST OFF, DRIVE-THRU, BODY TALK, QUOTE IT, AROUND THE WORLD | Game Night |
+|| 011 | [game-011-2026-05-10](./game-011-2026-05-10.md) | 2026-05-10 | Ready, Set, Know! | WILD THINGS, SPACE RACE, ORDER UP!, BODY BASICS, WISE WORDS, GLOBE TROTTERS | Game Night (current) |
 
 ---
 
@@ -253,5 +254,23 @@ Use this to quickly spot conflicts. Topics listed here have already been used as
 
 ### Geography & World Facts -- added game-010
 - Australia Great Barrier Reef northeastern coast largest coral reef, Russia 6.6 million square miles world's largest country by land area, Tuvalu Pacific island ~11000 population 2023 Australia treaty sea level rise submerge, Vatican City 0.44 sq km entirely Rome world's smallest sovereign state, Suez Canal 1869 Egypt 120 miles Mediterranean Red Sea Europe Asia
+
+### Animals & Nature -- added game-011
+- penguin flightless swimmer pebble courtship, chameleon color mood communication lizard, giraffe seven neck bones tallest animal, dolphin signature whistles names marine mammal, axolotl Mexican salamander regenerate limbs spinal cord heart
+
+### Space & Astronomy -- added game-011
+- Moon Earth natural satellite Neil Armstrong first 1969, Mars Red Planet Olympus Mons largest volcano, Jupiter Great Red Spot centuries storm gas planet, International Space Station 1998 first module orbit 90 minutes, Voyager 1 1977 launch interstellar space August 2012
+
+### Fast Food -- added game-011
+- Happy Meal McDonald's 1979 kids toy, Ronald McDonald clown mascot 1960s, Whopper Burger King 1957 37 cents flagship, Chick-fil-A Truett Cathy 1967 Sunday closed chicken, In-N-Out Burger Not So Secret Menu Animal Style West Coast
+
+### Human Anatomy -- added game-011
+- heart 100000 beats per day fist-sized, skin largest organ 8 pounds body covering, femur thigh bone longest strongest human, blood 5 liters adult oxygen-carrying tissue, cornea only tissue no blood supply oxygen from air
+
+### Famous Quotes & Speakers -- added game-011
+- Muhammad Ali float butterfly sting bee boxing legend Olympic, Neil Armstrong Moon 1969 one small step man, Theodore Roosevelt speak softly carry big stick foreign policy, Mark Twain report death exaggeration 1897 humorist, Abraham Lincoln Gettysburg Address 1863 government people
+
+### Geography & World Facts -- added game-011
+- Nile longest river Africa Mediterranean 4132 miles, Mount Everest 29032 feet Himalayan highest point, Dead Sea Israel Jordan 1400 feet below sea level lowest land point, Amazon Rainforest South America half remaining rainforest, Bering Strait 55 miles Russia Alaska arctic passage
 
 *Append new rows to the Game Registry table and new topics to the Cross-Game Topic Map each time a game is created.*
