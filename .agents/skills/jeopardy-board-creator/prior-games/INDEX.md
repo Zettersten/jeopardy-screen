@@ -31,7 +31,8 @@ This file is the AI's memory for game creation overlap prevention.
 | 009 | [game-009-2026-05-10](./game-009-2026-05-10.md) | 2026-05-10 | Faith, Sweat & Legends | OLD TESTAMENT, NEW TESTAMENT, ROCK & PUNK LEGENDS, BUILD IT RIGHT, RAISING KIDS, SWEAT SCIENCE | Game Night |
 | 010 | [game-010-2026-05-10](./game-010-2026-05-10.md) | 2026-05-10 | Wild Kingdom & World Tour | CREATURE FEATURE, BLAST OFF, DRIVE-THRU, BODY TALK, QUOTE IT, AROUND THE WORLD | Game Night |
 || 011 | [game-011-2026-05-10](./game-011-2026-05-10.md) | 2026-05-10 | Ready, Set, Know! | WILD THINGS, SPACE RACE, ORDER UP!, BODY BASICS, WISE WORDS, GLOBE TROTTERS | Game Night |
-|| 012 | [game-012-2026-05-10](./game-012-2026-05-10.md) | 2026-05-10 | Chapter & Verse | IN THE BEGINNING, KINGDOM COME, HOLY PROPHETS, GOSPEL TRUTH, U.S. LANDMARKS, FAMOUS FIRSTS | Game Night (current) |
+|| 012 | [game-012-2026-05-10](./game-012-2026-05-10.md) | 2026-05-10 | Chapter & Verse | IN THE BEGINNING, KINGDOM COME, HOLY PROPHETS, GOSPEL TRUTH, U.S. LANDMARKS, FAMOUS FIRSTS | Game Night |
+|| 013 | [game-013-2026-05-10](./game-013-2026-05-10.md) | 2026-05-10 | Chapter, Verse & Cover Letter | PSALMS & WISDOM, ACTS & THE EPISTLES, GREAT NOVELS, OPENING LINES, CAREER DAY, PLAYS & POEMS | Game Night (current) |
 
 ---
 
@@ -289,5 +290,21 @@ Use this to quickly spot conflicts. Topics listed here have already been used as
 
 ### Inventions & Scientific Firsts -- added game-012
 - Wright Brothers Kitty Hawk 1903 first powered airplane, Alexander Graham Bell telephone 1876 voice wire, Alexander Fleming penicillin 1928 mold antibiotic, Marie Curie two Nobel Prizes physics chemistry, Jonas Salk polio vaccine 1955 paralyzing childhood disease
+
+### Scripture -- Wisdom Literature & Epistles (game-013)
+- Psalms 150 chapters longest book Bible hymnal prayer guide Psalm 23, Job blameless man Satan wager God suffering restored twofold, Proverbs Trust in the Lord Solomon Proverbs 3:5 wise sayings, Ecclesiastes vanity of vanities Qohelet earthly pursuits Teacher, Micah 6:8 act justly love mercy walk humbly minor prophet 7 chapters
+- Pentecost Acts 2 Holy Spirit tongues fire 50 days Passover disciples languages, Philippians prison Paul 4:13 I can do all things rejoice always, Romans systematic theology 8:1 no condemnation Christ Jesus, Philippi Acts 16 Paul Silas jail earthquake jailer what must I do to be saved, Hebrews anonymous Christ superior Moses angels Levitical priesthood hall of faith chapter 11
+
+### Classic Literature -- Novels (game-013)
+- A Tale of Two Cities Dickens French Revolution Sydney Carton guillotine best of times worst of times, 1984 Orwell Oceania Big Brother doublethink thoughtcrime War is peace, The Great Gatsby Fitzgerald Jazz Age Jay Gatsby Daisy Buchanan Long Island Sound, The Grapes of Wrath Steinbeck 1940 Pulitzer Joad family Dust Bowl Oklahoma Route 66, The Metamorphosis Kafka 1915 Gregor Samsa giant insect traveling salesman
+
+### Classic Literature -- Opening Lines (game-013)
+- Moby-Dick Melville 1851 Call me Ishmael Captain Ahab white whale, Pride and Prejudice Austen truth universally acknowledged single man fortune wife, Rebecca Daphne du Maurier 1938 Manderley gothic narrator wealthy widower first wife, The Hobbit Tolkien 1937 Bilbo Baggins underground dwelling adventure, David Copperfield Dickens hero of my own life orphan rise
+
+### Classic Literature -- Plays & Poems (game-013)
+- Macbeth Shakespeare Scottish general murders King Duncan Macduff prophecy guilt, The Raven Edgar Allan Poe narrator mysterious bird haunting single word, A Midsummer Night's Dream Shakespeare fairy forest Puck Lord what fools mortals be, Song of Myself Walt Whitman 1855 Leaves of Grass 52 sections democracy body, Death of a Salesman Arthur Miller 1949 Pulitzer Tony Willy Loman American Dream failure
+
+### Career & Workplace (game-013)
+- resume job seeker work history education skills reverse chronological hiring manager, cover letter application voice role uniquely qualified, Civil Rights Act Title VII 1964 race color religion sex national origin employment discrimination, STAR method behavioral interview Situation Task Action Result Tell me about a time, Peter Principle 1969 Laurence J. Peter hierarchy promoted level incompetence stuck
 
 *Append new rows to the Game Registry table and new topics to the Cross-Game Topic Map each time a game is created.*

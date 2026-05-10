@@ -1,5 +1,5 @@
 {
-  "current": "game-012-2026-05-10",
+  "current": "game-013-2026-05-10",
   "games": [
     {
       "id": "game-hist-001-2025-12-22",
@@ -344,6 +344,22 @@
       "metadata": {
         "occasion": "Game Night",
         "targetAudience": "General audience — millennial adults with broad knowledge interests",
+        "createdBy": "AI"
+      }
+    },
+    {
+      "id": "game-013-2026-05-10",
+      "title": "Chapter, Verse & Cover Letter",
+      "date": "2026-05-10",
+      "filePath": "data/games/game-013-2026-05-10.json",
+      "columns": 6,
+      "rows": 5,
+      "pointValues": [100, 200, 300, 400, 500],
+      "categoryNames": ["PSALMS & WISDOM", "ACTS & THE EPISTLES", "GREAT NOVELS", "OPENING LINES", "CAREER DAY", "PLAYS & POEMS"],
+      "topics": ["Psalms", "Job", "Proverbs", "Ecclesiastes", "Micah", "Pentecost Acts 2", "Philippians prison", "Romans no condemnation", "Philippi earthquake jailer", "Hebrews hall of faith", "A Tale of Two Cities", "1984", "The Great Gatsby", "The Grapes of Wrath", "The Metamorphosis", "Moby-Dick", "Pride and Prejudice", "Rebecca", "The Hobbit", "David Copperfield", "resume", "cover letter", "Civil Rights Act Title VII", "STAR method behavioral interview", "Peter Principle", "Macbeth", "The Raven Poe", "A Midsummer Night's Dream", "Song of Myself Whitman", "Death of a Salesman"],
+      "metadata": {
+        "occasion": "Game Night",
+        "targetAudience": "Millennial adults — Bible knowledge, classic lit, career-focused",
         "createdBy": "AI"
       }
     },
