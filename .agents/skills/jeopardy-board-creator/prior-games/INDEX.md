@@ -36,7 +36,8 @@ This file is the AI's memory for game creation overlap prevention.
 || 014 | [game-014-2026-05-10](./game-014-2026-05-10.md) | 2026-05-10 | Totally Radical & Slightly Gross | 80S MOVIES, 80S MUSIC ICONS, SATURDAY MORNING, 90S REWIND, POTTY TALK, PULL MY FINGER | Game Night |
 || 015 | [game-015-2026-05-10](./game-015-2026-05-10.md) | 2026-05-10 | Magic, Muppets & Medicine | MUPPETS, 90S DISNEY MOVIES, LORD OF THE RINGS, NARNIA, WOODSTOCK, NAME THAT DRUG | Game Night |
 || 016 | [game-016-2026-05-10](./game-016-2026-05-10.md) | 2026-05-10 | May the Psalms Be With You | FORREST FRANK, ANIMAL PLANET, BACK TO NARNIA, GALAXY FAR FAR AWAY, WAX ON WAX OFF, MARVEL-OUS, ANCIENT TWEETS | Game Night |
-|| 017 | [game-017-2026-05-10](./game-017-2026-05-10.md) | 2026-05-10 | From Pemberley to Flavortown | AFTER SCHOOL SPECIALS, ALL I WANT FOR CHRISTMAS, IT IS A TRUTH UNIVERSALLY ACKNOWLEDGED, LAND OF THE FREE, TRASH SNACK OLYMPICS, FLAVORTOWN USA | Game Night (current) |
+|| 017 | [game-017-2026-05-10](./game-017-2026-05-10.md) | 2026-05-10 | From Pemberley to Flavortown | AFTER SCHOOL SPECIALS, ALL I WANT FOR CHRISTMAS, IT IS A TRUTH UNIVERSALLY ACKNOWLEDGED, LAND OF THE FREE, TRASH SNACK OLYMPICS, FLAVORTOWN USA | Game Night |
+|| 018 | [game-018-2026-05-10](./game-018-2026-05-10.md) | 2026-05-10 | Ruff, Roar & Rejoice! | MIGHTY HEROES, AMAZING ANIMALS, BLUEY TIME!, BIBLE CHAMPIONS, SONGS FOR JESUS, PUPS & BUNNIES | Game Night / Kids (current) |
 
 ---
 
@@ -382,5 +383,23 @@ Use this to quickly spot conflicts. Topics listed here have already been used as
 
 ### Food Network Stars -- added game-017
 - Guy Fieri Diners Drive-Ins Dives Flavortown frosted tips board shorts mayor never bad meal, Ina Garten Barefoot Contessa Jeffrey store bought fine really good olive oil specialty shop expensive, Alton Brown Good Eats bow tie food scientist chemistry lecture cooking TV bread rises, Bobby Flay Iron Chef many New York restaurants Throwdown unannounced challenges competitive, Emeril Lagasse BAM kick it up a notch Food Network original superstar New Orleans Essence spice blend
+
+### Avengers (Kids / Disney) -- added game-018
+- Thor Avenger son of Odin Mjolnir hammer thunder lightning kids cartoon Disney, Ant-Man Avenger shrink small talks to ants tiny Marvel kids, Hawkeye Avenger bow arrow no powers perfect aim protects people, the Wasp Avenger yellow black suit fly like bee tiny lightning bolts, Falcon Avenger giant red wings flies sky Captain America friend
+
+### Animals (kids ages 3-7) -- added game-018
+- lion Africa mane roar king jungle big golden animal, duck yellow bird pond quack swims flies water sky, frog green tadpole grows legs hops ribbit, butterfly caterpillar cocoon colorful wings beautiful bug, bear big furry honey fish winter sleep cave hibernate
+
+### Bluey (cartoon) -- added game-018
+- Bluey Blue Heeler puppy loves pretend games main character cartoon family, Bingo Bluey younger sister red orange puppy best friend cartoon, Bandit Bluey dad plays silly games floor daughters cartoon, Chilli Bluey mom works hard loves hugs puppies cartoon, Blue Heeler Bluey family dog breed Australian cattle dog type
+
+### Bible (for kids ages 3-7) -- added game-018
+- Esther Bible brave queen save Jewish people Haman God used her, Miriam Moses big sister basket river tambourine dance celebrate God, Gideon Bible 300 soldiers torches clay jars battle victory God, Samuel young boy God called three times night became prophet Israel, Samson strong man never cut hair secret strength wrestle lion
+
+### Christian Music (Ellie Holcomb & Phil Wickham) -- added game-018
+- Phil Wickham worship singer This Is Amazing Grace songs praise God, Ellie Holcomb Christian singer kids music worship God children, Living Hope Phil Wickham Easter Jesus risen hope song title, Red Sea Road Ellie Holcomb God makes path scary times Moses water, Christian music worship songs praise Jesus families Phil Wickham Ellie Holcomb
+
+### PAW Patrol & Zootopia -- added game-018
+- Ryder PAW Patrol leader brave boy calls puppies rescue missions, Chase PAW Patrol German Shepherd police uniform badge community helper, Marshall PAW Patrol Dalmatian fire pup medical trips falls helps friends, Judy Hopps Zootopia bunny police officer first ever anyone can be anything, Nick Wilde Zootopia fox clever honest best friends bunny police
 
 *Append new rows to the Game Registry table and new topics to the Cross-Game Topic Map each time a game is created.*

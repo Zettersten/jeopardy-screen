@@ -29,7 +29,7 @@ if (existsSync(envPath)) {
 
 // ── Config ────────────────────────────────────────────────────────────────────
 const API_KEY = process.env.FISH_AUDIO_API_KEY;
-const VOICE_ID = "98758d93b3ca47469e0d841b7b5ace9b";
+const VOICE_ID = "206876150db246b28779d28b3471b74b";
 const TTS_URL = "https://api.fish.audio/v1/tts";
 const OUT_DIR = path.join(ROOT, "public", "audio", "tts");
 const BATCH_SIZE = 5;
@@ -70,7 +70,7 @@ async function fetchTTS(text) {
       text,
       reference_id: VOICE_ID,
       format: "mp3",
-      prosody: { speed: 1.3 },
+      prosody: { speed: 1.0 },
     }),
   });
   if (!res.ok) {
