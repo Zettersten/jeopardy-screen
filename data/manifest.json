@@ -1,5 +1,5 @@
 {
-  "current": "game-009-2026-05-10",
+  "current": "game-010-2026-05-10",
   "games": [
     {
       "id": "game-hist-001-2025-12-22",
@@ -328,6 +328,22 @@
       "metadata": {
         "occasion": "Game Night",
         "targetAudience": "Millennial adults (late 80s born)",
+        "createdBy": "AI"
+      }
+    },
+    {
+      "id": "game-010-2026-05-10",
+      "title": "Wild Kingdom & World Tour",
+      "date": "2026-05-10",
+      "filePath": "data/games/game-010-2026-05-10.json",
+      "columns": 6,
+      "rows": 5,
+      "pointValues": [100, 200, 300, 400, 500],
+      "categoryNames": ["CREATURE FEATURE", "BLAST OFF", "DRIVE-THRU", "BODY TALK", "QUOTE IT", "AROUND THE WORLD"],
+      "topics": ["kiwi", "flamingos", "elephant gestation", "sperm whale", "octopus", "NASA Apollo 11", "Proxima Centauri", "Hubble Space Telescope", "Saturn moons", "James Webb Space Telescope", "McDonald's", "Wendy's", "Taco Bell", "Subway", "KFC Colonel Sanders", "bones skeleton", "pancreas", "Eustachian tubes", "masseter", "liver regeneration", "Hamlet", "JFK 1961 inaugural", "FDR 1933 inaugural", "Lincoln Memorial MLK", "Laurel Thatcher Ulrich well-behaved women", "Australia Great Barrier Reef", "Russia largest country", "Tuvalu sea level", "Vatican City", "Suez Canal"],
+      "metadata": {
+        "occasion": "Game Night",
+        "targetAudience": "General audience — millennial adults with broad knowledge interests",
         "createdBy": "AI"
       }
     },

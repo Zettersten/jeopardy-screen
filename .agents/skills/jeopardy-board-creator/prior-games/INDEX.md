@@ -28,7 +28,8 @@ This file is the AI's memory for game creation overlap prevention.
 | 006 | [game-006-2026-05-03](./game-006-2026-05-03.md) | 2026-05-03 | Pop Culture Remix | VILLAIN CENTRAL, GAME SHOW GREATS, FAMOUS DUOS, SITCOM CLASSICS, DANCING QUEEN, ANIMATED TV | Game Night |
 | 007 | [game-007-2026-05-03](./game-007-2026-05-03.md) | 2026-05-03 | Music, Sweat & Volume | GRUNGE VAULT, SING ALONG, GYM CLASS, CLASSIC ROCK HALL, 90s ALTERNATIVE, PUMP UP JAMS | Game Night |
 | 008 | [game-008-2026-05-03](./game-008-2026-05-03.md) | 2026-05-03 | Player One | ARCADE LEGENDS, NINTENDO VAULT, BOSS BATTLES, MODERN ICONS, ICONIC CHARACTERS, PRESS START | Game Night |
-| 009 | [game-009-2026-05-10](./game-009-2026-05-10.md) | 2026-05-10 | Faith, Sweat & Legends | OLD TESTAMENT, NEW TESTAMENT, ROCK & PUNK LEGENDS, BUILD IT RIGHT, RAISING KIDS, SWEAT SCIENCE | Game Night (current) |
+| 009 | [game-009-2026-05-10](./game-009-2026-05-10.md) | 2026-05-10 | Faith, Sweat & Legends | OLD TESTAMENT, NEW TESTAMENT, ROCK & PUNK LEGENDS, BUILD IT RIGHT, RAISING KIDS, SWEAT SCIENCE | Game Night |
+| 010 | [game-010-2026-05-10](./game-010-2026-05-10.md) | 2026-05-10 | Wild Kingdom & World Tour | CREATURE FEATURE, BLAST OFF, DRIVE-THRU, BODY TALK, QUOTE IT, AROUND THE WORLD | Game Night (current) |
 
 ---
 
@@ -234,5 +235,23 @@ Use this to quickly spot conflicts. Topics listed here have already been used as
 
 ### Scripture — New Testament (additions game-009)
 - Lord's Prayer Matthew 6:9-13 Luke 11:2-4 Our Father daily bread forgiveness evil, Zacchaeus Jericho chief tax collector sycamore tree Luke 19 half possessions fourfold, Paul Saul Tarsus Damascus road blinding light Ananias three days blind 13 letters New Testament, Seven churches Revelation 2-3 Asia Minor Laodicea lukewarm spit out mouth, Theophilus Luke Acts two entire books recipient name friend of God Greek
+
+### Animals & Nature -- added game-010
+- kiwi New Zealand flightless nostrils tip beak national symbol, flamingos flamboyance collective noun pink wading birds, elephant 22 months gestation longest land mammal, sperm whale 90-minute breath hold 3000 feet squid largest brain, octopus three hearts blue blood copper hemocyanin two-thirds neurons arms
+
+### Space & Astronomy -- added game-010
+- NASA Apollo 11 Moon July 1969 first humans, Proxima Centauri 4.24 light-years closest star Centaurus, Hubble Space Telescope 1990 Pillars of Creation Deep Field, Saturn 274 moons 2025 solar system record Jupiter 95, James Webb Space Telescope December 2021 1.5 million km infrared earliest galaxies
+
+### Fast Food History -- added game-010
+- McDonald's golden arches 69 million customers daily 100 countries, Wendy's Dave Thomas daughter 1969 Columbus Ohio square patties, Taco Bell Glen Bell 1962 Downey California 19-cent tacos, Subway Fred DeLuca Peter Buck 1965 17 years $1,000 loan, KFC Colonel Sanders Harland Sanders 62 years franchise Corbin Kentucky
+
+### Human Anatomy -- added game-010
+- bones 206 adults 270-300 babies human skeleton, pancreas insulin digestive enzymes behind stomach, Eustachian tubes Bartolomeo Eustachi 16th century middle ear throat, masseter jaw muscle strongest pound-for-pound 200 lbs, liver only major organ regenerates 75 percent mass Prometheus myth
+
+### Famous Quotes -- added game-010
+- Hamlet To be or not to be Shakespeare soliloquy, JFK 1961 inaugural ask not what your country, FDR Franklin Roosevelt 1933 inaugural only thing to fear is fear itself, Lincoln Memorial August 1963 March on Washington I have a dream MLK, Laurel Thatcher Ulrich 1976 well-behaved women seldom make history
+
+### Geography & World Facts -- added game-010
+- Australia Great Barrier Reef northeastern coast largest coral reef, Russia 6.6 million square miles world's largest country by land area, Tuvalu Pacific island ~11000 population 2023 Australia treaty sea level rise submerge, Vatican City 0.44 sq km entirely Rome world's smallest sovereign state, Suez Canal 1869 Egypt 120 miles Mediterranean Red Sea Europe Asia
 
 *Append new rows to the Game Registry table and new topics to the Cross-Game Topic Map each time a game is created.*
