@@ -32,7 +32,8 @@ This file is the AI's memory for game creation overlap prevention.
 | 010 | [game-010-2026-05-10](./game-010-2026-05-10.md) | 2026-05-10 | Wild Kingdom & World Tour | CREATURE FEATURE, BLAST OFF, DRIVE-THRU, BODY TALK, QUOTE IT, AROUND THE WORLD | Game Night |
 || 011 | [game-011-2026-05-10](./game-011-2026-05-10.md) | 2026-05-10 | Ready, Set, Know! | WILD THINGS, SPACE RACE, ORDER UP!, BODY BASICS, WISE WORDS, GLOBE TROTTERS | Game Night |
 || 012 | [game-012-2026-05-10](./game-012-2026-05-10.md) | 2026-05-10 | Chapter & Verse | IN THE BEGINNING, KINGDOM COME, HOLY PROPHETS, GOSPEL TRUTH, U.S. LANDMARKS, FAMOUS FIRSTS | Game Night |
-|| 013 | [game-013-2026-05-10](./game-013-2026-05-10.md) | 2026-05-10 | Chapter, Verse & Cover Letter | PSALMS & WISDOM, ACTS & THE EPISTLES, GREAT NOVELS, OPENING LINES, CAREER DAY, PLAYS & POEMS | Game Night (current) |
+|| 013 | [game-013-2026-05-10](./game-013-2026-05-10.md) | 2026-05-10 | Chapter, Verse & Cover Letter | PSALMS & WISDOM, ACTS & THE EPISTLES, GREAT NOVELS, OPENING LINES, CAREER DAY, PLAYS & POEMS | Game Night |
+|| 014 | [game-014-2026-05-10](./game-014-2026-05-10.md) | 2026-05-10 | Totally Radical & Slightly Gross | 80S MOVIES, 80S MUSIC ICONS, SATURDAY MORNING, 90S REWIND, POTTY TALK, PULL MY FINGER | Game Night (current) |
 
 ---
 
@@ -306,5 +307,20 @@ Use this to quickly spot conflicts. Topics listed here have already been used as
 
 ### Career & Workplace (game-013)
 - resume job seeker work history education skills reverse chronological hiring manager, cover letter application voice role uniquely qualified, Civil Rights Act Title VII 1964 race color religion sex national origin employment discrimination, STAR method behavioral interview Situation Task Action Result Tell me about a time, Peter Principle 1969 Laurence J. Peter hierarchy promoted level incompetence stuck
+
+### 80s Movies -- added game-014
+- Ghostbusters 1984 scientists ghost Stay Puft Marshmallow Man New York, Back to the Future 1985 Marty McFly DeLorean 1955 Zemeckis Spielberg, Top Gun 1986 Tom Cruise Navy fighter pilots volleyball soundtrack, The Breakfast Club 1985 John Hughes five students Saturday detention archetypes, Dirty Dancing 1987 Patrick Swayze Jennifer Grey Nobody puts Baby in a corner
+
+### 80s Music Icons -- added game-014
+- Prince Minneapolis Purple Rain 1984 unpronounceable symbol, Cyndi Lauper Girls Just Want to Have Fun Time After Time New Wave wild hair, Vanilla Ice Ice Ice Baby 1990 first rap #1 Billboard Hot 100 Under Pressure bass line, Duran Duran British new wave Barbarella Hungry Like the Wolf Rio, Culture Club Boy George Karma Chameleon 1983 UK #1 six weeks
+
+### 80s/90s Toys & Cartoons -- added game-014
+- Transformers 1984 Hasbro Autobots Decepticons robots transform vehicles, He-Man By the power of Grayskull 1983 Filmation Prince Adam Masters of the Universe, Cabbage Patch Kids 1983 soft-bodied dolls adoption papers near-riots holiday, My Little Pony 1983 Hasbro colorful small horses symbols flanks animated series, Teddy Ruxpin 1985 talking teddy bear cassette tapes most coveted holiday sold out
+
+### 90s TV -- added game-014
+- Ren & Stimpy Nickelodeon Kricfalusi neurotic chihuahua dim-witted cat gross-out humor, Beverly Hills 90210 Fox 1990-2000 Luke Perry Shannen Doherty ten seasons teen drama, Saved by the Bell NBC Zack Morris AC Slater Screech Bayside High Saturday morning, Kenan & Kel Nickelodeon Chicago orange soda SNL longest-tenured cast member, Degrassi Canadian YTV 1987 teen pregnancy gun violence Drake reboot
+
+### Potty Humor & Bathroom Facts -- added game-014
+- whoopee cushion Canada 1930s rubber novelty chair prank embarrassing noise, Blazing Saddles 1974 Mel Brooks Western campfire cowboys beans first Hollywood flatulence scene, Everyone Poops Taro Gomi 1990 Japanese picture book translated dozens languages, Ace Ventura Pet Detective 1994 Jim Carrey rhino rear exit scatological detective, Animal House 1978 John Landis John Belushi Bluto Blutarsky template gross-out comedy, flatulence Latin flatus clinical seven-letter word intestinal gas, Thomas Crapper Victorian British plumber unfortunate surname popularized flush toilet did not invent, hydrogen sulfide sulfur rotten eggs odor fart smell, P-trap curved plumbing pipe water seal blocks sewer gases named letter P, scatology Greek skatos nine letters scientific study feces archaeology forensics medicine
 
 *Append new rows to the Game Registry table and new topics to the Cross-Game Topic Map each time a game is created.*
