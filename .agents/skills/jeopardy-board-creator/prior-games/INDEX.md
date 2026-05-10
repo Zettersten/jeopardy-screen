@@ -33,7 +33,8 @@ This file is the AI's memory for game creation overlap prevention.
 || 011 | [game-011-2026-05-10](./game-011-2026-05-10.md) | 2026-05-10 | Ready, Set, Know! | WILD THINGS, SPACE RACE, ORDER UP!, BODY BASICS, WISE WORDS, GLOBE TROTTERS | Game Night |
 || 012 | [game-012-2026-05-10](./game-012-2026-05-10.md) | 2026-05-10 | Chapter & Verse | IN THE BEGINNING, KINGDOM COME, HOLY PROPHETS, GOSPEL TRUTH, U.S. LANDMARKS, FAMOUS FIRSTS | Game Night |
 || 013 | [game-013-2026-05-10](./game-013-2026-05-10.md) | 2026-05-10 | Chapter, Verse & Cover Letter | PSALMS & WISDOM, ACTS & THE EPISTLES, GREAT NOVELS, OPENING LINES, CAREER DAY, PLAYS & POEMS | Game Night |
-|| 014 | [game-014-2026-05-10](./game-014-2026-05-10.md) | 2026-05-10 | Totally Radical & Slightly Gross | 80S MOVIES, 80S MUSIC ICONS, SATURDAY MORNING, 90S REWIND, POTTY TALK, PULL MY FINGER | Game Night (current) |
+|| 014 | [game-014-2026-05-10](./game-014-2026-05-10.md) | 2026-05-10 | Totally Radical & Slightly Gross | 80S MOVIES, 80S MUSIC ICONS, SATURDAY MORNING, 90S REWIND, POTTY TALK, PULL MY FINGER | Game Night |
+|| 015 | [game-015-2026-05-10](./game-015-2026-05-10.md) | 2026-05-10 | Magic, Muppets & Medicine | MUPPETS, 90S DISNEY MOVIES, LORD OF THE RINGS, NARNIA, WOODSTOCK, NAME THAT DRUG | Game Night (current) |
 
 ---
 
@@ -322,5 +323,23 @@ Use this to quickly spot conflicts. Topics listed here have already been used as
 
 ### Potty Humor & Bathroom Facts -- added game-014
 - whoopee cushion Canada 1930s rubber novelty chair prank embarrassing noise, Blazing Saddles 1974 Mel Brooks Western campfire cowboys beans first Hollywood flatulence scene, Everyone Poops Taro Gomi 1990 Japanese picture book translated dozens languages, Ace Ventura Pet Detective 1994 Jim Carrey rhino rear exit scatological detective, Animal House 1978 John Landis John Belushi Bluto Blutarsky template gross-out comedy, flatulence Latin flatus clinical seven-letter word intestinal gas, Thomas Crapper Victorian British plumber unfortunate surname popularized flush toilet did not invent, hydrogen sulfide sulfur rotten eggs odor fart smell, P-trap curved plumbing pipe water seal blocks sewer gases named letter P, scatology Greek skatos nine letters scientific study feces archaeology forensics medicine
+
+### Muppets -- added game-015
+- Kermit the Frog It's Not Easy Being Green Muppet Show Jim Henson host frog, Michael Caine Muppet Christmas Carol 1992 Ebenezer Scrooge British actor, Tim Curry Muppet Treasure Island 1996 Long John Silver Rocky Horror IT, Animal Muppet drummer Dr. Teeth Electric Mayhem percussionist wild, Gonzo Muppets from Space 1999 blue hook-nosed extraterrestrial alien family
+
+### 90s Disney Movies -- added game-015
+- Aladdin 1992 Disney Agrabah Robin Williams genie three wishes street thief princess, Beauty and the Beast 1991 Disney first animated Best Picture Belle cursed prince enchanted rose, Mulan 1998 Disney Chinese woman disguises soldier Imperial Army ailing father, Tarzan 1999 Disney Phil Collins soundtrack boy gorillas African jungle, The Hunchback of Notre Dame 1996 Disney Victor Hugo Quasimodo Esmeralda Judge Frollo Paris
+
+### Lord of the Rings / Middle-earth -- added game-015
+- Sauron Dark Lord One Ring Mordor volcano power bound destruction, Saruman head Istari order Gandalf superior betrayed Fellowship darkness, eleven 11 Academy Awards Return of the King 2004 swept every nominated category tied Ben-Hur Titanic, Mount Doom volcanic mountain Mordor One Ring forged destroyed, Oxford Tolkien Anglo-Saxon Merton Professor English Language Literature Middle-earth
+
+### Narnia / CS Lewis -- added game-015
+- wardrobe Lucy Pevensie discovers Narnia furniture Professor country house, Aslan great lion creator Narnia Stone Table sacrifice resurrection Christ allegory, Christmas White Witch always winter never Christmas perpetual 100 years, seven books Chronicles Narnia Magician's Nephew Last Battle complete series, Reepicheep valiant talking mouse Voyage Dawn Treader edge world Aslan country
+
+### Woodstock 1969 -- added game-015
+- Max Yasgur dairy farmer Bethel New York Woodstock 1969 half million, Jimi Hendrix Woodstock closed Star-Spangled Banner psychedelic guitar iconic, Janis Joplin Queen Rock Roll blues Woodstock drug overdose 1970, The Who Pete Townshend Abbie Hoffman stormed stage guitar Woodstock British, split screen Michael Wadleigh Woodstock 1970 documentary Oscar Best Documentary multiple images simultaneously
+
+### Pharmaceuticals / Name That Drug -- added game-015
+- acetaminophen Tylenol active ingredient pain reliever fever reducer most-used US cold flu products, ibuprofen Advil Motrin NSAID nonsteroidal anti-inflammatory best-selling pain reliever, diphenhydramine Benadryl antihistamine allergies drowsiness over-the-counter sleep aids, acetylsalicylic acid aspirin Felix Hoffmann Bayer 1897 willow bark chemical name, SSRIs selective serotonin reuptake inhibitors Prozac fluoxetine antidepressants serotonin blocking reabsorption
 
 *Append new rows to the Game Registry table and new topics to the Cross-Game Topic Map each time a game is created.*

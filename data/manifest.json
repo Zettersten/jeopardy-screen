@@ -1,5 +1,5 @@
 {
-  "current": "game-014-2026-05-10",
+  "current": "game-015-2026-05-10",
   "games": [
     {
       "id": "game-hist-001-2025-12-22",
@@ -344,6 +344,22 @@
       "metadata": {
         "occasion": "Game Night",
         "targetAudience": "General audience — millennial adults with broad knowledge interests",
+        "createdBy": "AI"
+      }
+    },
+    {
+      "id": "game-015-2026-05-10",
+      "title": "Magic, Muppets & Medicine",
+      "date": "2026-05-10",
+      "filePath": "data/games/game-015-2026-05-10.json",
+      "columns": 6,
+      "rows": 5,
+      "pointValues": [100, 200, 300, 400, 500],
+      "categoryNames": ["MUPPETS", "90S DISNEY MOVIES", "LORD OF THE RINGS", "NARNIA", "WOODSTOCK", "NAME THAT DRUG"],
+      "topics": ["Kermit the Frog", "Michael Caine", "Tim Curry", "Animal", "Gonzo", "Aladdin", "Beauty and the Beast", "Mulan", "Tarzan", "The Hunchback of Notre Dame", "Sauron", "Saruman", "eleven Oscars", "Mount Doom", "Oxford", "wardrobe", "Aslan", "Christmas", "seven books", "Reepicheep", "Max Yasgur", "Jimi Hendrix", "Janis Joplin", "The Who", "split screen", "acetaminophen", "ibuprofen", "diphenhydramine", "acetylsalicylic acid", "SSRIs"],
+      "metadata": {
+        "occasion": "Game Night",
+        "targetAudience": "Millennial adults — pop culture, fantasy, and trivia enthusiasts",
         "createdBy": "AI"
       }
     },
