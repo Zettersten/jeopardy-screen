@@ -35,7 +35,8 @@ This file is the AI's memory for game creation overlap prevention.
 || 013 | [game-013-2026-05-10](./game-013-2026-05-10.md) | 2026-05-10 | Chapter, Verse & Cover Letter | PSALMS & WISDOM, ACTS & THE EPISTLES, GREAT NOVELS, OPENING LINES, CAREER DAY, PLAYS & POEMS | Game Night |
 || 014 | [game-014-2026-05-10](./game-014-2026-05-10.md) | 2026-05-10 | Totally Radical & Slightly Gross | 80S MOVIES, 80S MUSIC ICONS, SATURDAY MORNING, 90S REWIND, POTTY TALK, PULL MY FINGER | Game Night |
 || 015 | [game-015-2026-05-10](./game-015-2026-05-10.md) | 2026-05-10 | Magic, Muppets & Medicine | MUPPETS, 90S DISNEY MOVIES, LORD OF THE RINGS, NARNIA, WOODSTOCK, NAME THAT DRUG | Game Night |
-|| 016 | [game-016-2026-05-10](./game-016-2026-05-10.md) | 2026-05-10 | May the Psalms Be With You | FORREST FRANK, ANIMAL PLANET, BACK TO NARNIA, GALAXY FAR FAR AWAY, WAX ON WAX OFF, MARVEL-OUS, ANCIENT TWEETS | Game Night (current) |
+|| 016 | [game-016-2026-05-10](./game-016-2026-05-10.md) | 2026-05-10 | May the Psalms Be With You | FORREST FRANK, ANIMAL PLANET, BACK TO NARNIA, GALAXY FAR FAR AWAY, WAX ON WAX OFF, MARVEL-OUS, ANCIENT TWEETS | Game Night |
+|| 017 | [game-017-2026-05-10](./game-017-2026-05-10.md) | 2026-05-10 | From Pemberley to Flavortown | AFTER SCHOOL SPECIALS, ALL I WANT FOR CHRISTMAS, IT IS A TRUTH UNIVERSALLY ACKNOWLEDGED, LAND OF THE FREE, TRASH SNACK OLYMPICS, FLAVORTOWN USA | Game Night (current) |
 
 ---
 
@@ -363,5 +364,23 @@ Use this to quickly spot conflicts. Topics listed here have already been used as
 
 ### Psalms (specific chapters -- added game-016)
 - Psalm 23 Lord is my shepherd I shall not want memorized sympathy cards tattoos, Psalm 51 David Bathsheba Uriah death repentance prayer ancient world apology, Psalm 119 176 verses 22 Hebrew alphabet sections longest chapter entire Bible, Psalm 22 My God my God why have you forsaken me Jesus cross Matthew Mark prophetically precise, Psalm 150 closes Book of Psalms cymbals trumpets harps praise Lord breath mic drop
+
+### 90s PBS Kids -- added game-017
+- Barney the Dinosaur purple PBS Kids I Love You sang terrifying adults, Arthur aardvark Elwood City D.W. sister chaotic children's TV, Bill Nye Science Guy bow tie enthusiasm thermodynamics PBS, Wishbone Jack Russell terrier Romeo Don Quixote Sherlock Holmes classic literature tricked kids, Ghostwriter 1992 PBS Brooklyn teenagers friendly ghost rearranges letters mysteries educational
+
+### Christmas Movies -- added game-017
+- Home Alone 1990 Kevin McCallister booby traps Wet Bandits Macaulay Culkin hospitalize burglars, A Christmas Story 1983 Red Ryder BB gun you'll shoot your eye out leg lamp, Elf 2003 Will Ferrell North Pole human raised elves syrup cotton balls, It's a Wonderful Life 1946 Frank Capra George Bailey angel Clarence wings suicidal banker, National Lampoon's Christmas Vacation Clark Griswold 25000 lights Cousin Eddie RV disaster
+
+### Jane Austen -- added game-017
+- Mr. Darcy Pride and Prejudice Pemberley insulting proposal Elizabeth Bennet rejects, Sense and Sensibility Austen Elinor Marianne Dashwood sensible emotional introvert extrovert duo, Emma Austen Highbury matchmaker Woodhouse meddles catastrophic love life, Northanger Abbey Austen Gothic novels Catherine Morland creepy estate murder wrong conspiracy, Persuasion Austen posthumous Anne Elliot Navy captain Wentworth love letter final completed novel
+
+### American History -- added game-017
+- Boston Tea Party 1773 342 chests British tea Boston Harbor taxation protest colonists, Louisiana Purchase 1803 Thomas Jefferson Napoleon 828000 square miles four cents per acre, Manifest Destiny 19th century divine destiny westward expansion settlers, Emancipation Proclamation January 1 1863 Abraham Lincoln Confederate states forever free, Watergate 1972 burglary DNC headquarters Nixon resignation August 1974 only presidential resignation
+
+### Junk Food -- added game-017
+- Oreo best-selling cookie 1912 cream-filled twist lick dunk debate no wrong answer, Doritos fluorescent-orange triangular chips powder residue destroys keyboards controllers shirts, Pringles saddle-shaped stackable crisps British court ruled not legally potato chips UK, Pop-Tarts rectangular pastry toaster treats 1964 marketed breakfast flavors strawberry birthday cake, candy corn waxy triangular Halloween least favorite 35 million pounds sold annually
+
+### Food Network Stars -- added game-017
+- Guy Fieri Diners Drive-Ins Dives Flavortown frosted tips board shorts mayor never bad meal, Ina Garten Barefoot Contessa Jeffrey store bought fine really good olive oil specialty shop expensive, Alton Brown Good Eats bow tie food scientist chemistry lecture cooking TV bread rises, Bobby Flay Iron Chef many New York restaurants Throwdown unannounced challenges competitive, Emeril Lagasse BAM kick it up a notch Food Network original superstar New Orleans Essence spice blend
 
 *Append new rows to the Game Registry table and new topics to the Cross-Game Topic Map each time a game is created.*

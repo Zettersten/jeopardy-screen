@@ -1,5 +1,5 @@
 {
-  "current": "game-016-2026-05-10",
+  "current": "game-017-2026-05-10",
   "games": [
     {
       "id": "game-hist-001-2025-12-22",
@@ -344,6 +344,22 @@
       "metadata": {
         "occasion": "Game Night",
         "targetAudience": "General audience — millennial adults with broad knowledge interests",
+        "createdBy": "AI"
+      }
+    },
+    {
+      "id": "game-017-2026-05-10",
+      "title": "From Pemberley to Flavortown",
+      "date": "2026-05-10",
+      "filePath": "data/games/game-017-2026-05-10.json",
+      "columns": 6,
+      "rows": 5,
+      "pointValues": [100, 200, 300, 400, 500],
+      "categoryNames": ["AFTER SCHOOL SPECIALS", "ALL I WANT FOR CHRISTMAS", "IT IS A TRUTH UNIVERSALLY ACKNOWLEDGED", "LAND OF THE FREE", "TRASH SNACK OLYMPICS", "FLAVORTOWN USA"],
+      "topics": ["Barney the Dinosaur", "Arthur", "Bill Nye", "Wishbone", "Ghostwriter", "Home Alone", "A Christmas Story", "Elf", "It's a Wonderful Life", "National Lampoon's Christmas Vacation", "Mr. Darcy", "Sense and Sensibility", "Emma", "Northanger Abbey", "Persuasion", "Boston Tea Party", "Louisiana Purchase", "Manifest Destiny", "Emancipation Proclamation", "Watergate", "Oreo", "Doritos", "Pringles", "Pop-Tarts", "candy corn", "Guy Fieri", "Ina Garten", "Alton Brown", "Bobby Flay", "Emeril Lagasse"],
+      "metadata": {
+        "occasion": "Game Night",
+        "targetAudience": "Millennial adults who grew up on PBS, junk food, and the Food Network",
         "createdBy": "AI"
       }
     },
