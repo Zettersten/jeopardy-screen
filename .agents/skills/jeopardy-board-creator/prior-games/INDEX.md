@@ -27,7 +27,8 @@ This file is the AI's memory for game creation overlap prevention.
 | 005 | [game-005-2026-05-03](./game-005-2026-05-03.md) | 2026-05-03 | Pop Culture Parade | CATCHPHRASES, ANIMATED HITS, POP ROYALTY, SUPERHERO CENTRAL, BOY BANDS & GIRL GROUPS, QUOTE THAT MOVIE | Game Night |
 | 006 | [game-006-2026-05-03](./game-006-2026-05-03.md) | 2026-05-03 | Pop Culture Remix | VILLAIN CENTRAL, GAME SHOW GREATS, FAMOUS DUOS, SITCOM CLASSICS, DANCING QUEEN, ANIMATED TV | Game Night |
 | 007 | [game-007-2026-05-03](./game-007-2026-05-03.md) | 2026-05-03 | Music, Sweat & Volume | GRUNGE VAULT, SING ALONG, GYM CLASS, CLASSIC ROCK HALL, 90s ALTERNATIVE, PUMP UP JAMS | Game Night |
-| 008 | [game-008-2026-05-03](./game-008-2026-05-03.md) | 2026-05-03 | Player One | ARCADE LEGENDS, NINTENDO VAULT, BOSS BATTLES, MODERN ICONS, ICONIC CHARACTERS, PRESS START | Game Night (current) |
+| 008 | [game-008-2026-05-03](./game-008-2026-05-03.md) | 2026-05-03 | Player One | ARCADE LEGENDS, NINTENDO VAULT, BOSS BATTLES, MODERN ICONS, ICONIC CHARACTERS, PRESS START | Game Night |
+| 009 | [game-009-2026-05-10](./game-009-2026-05-10.md) | 2026-05-10 | Faith, Sweat & Legends | OLD TESTAMENT, NEW TESTAMENT, ROCK & PUNK LEGENDS, BUILD IT RIGHT, RAISING KIDS, SWEAT SCIENCE | Game Night (current) |
 
 ---
 
@@ -215,5 +216,23 @@ Use this to quickly spot conflicts. Topics listed here have already been used as
 
 ### Video Game Industry History — added game-008
 - Pong Atari 1972 first commercially successful arcade game table tennis, Nintendo Entertainment System NES 1985 US launch ROB robotic toy crash revival Now you're playing with power, E.T. Extra-Terrestrial Atari 1982 five weeks 1983 crash New Mexico landfill excavation 2014, Game Boy Nintendo 1989 handheld Tetris bundled 118 million best-selling portable, Stardew Valley ConcernedApe Eric Barone 2016 solo four years every pixel music code 20 million copies
+
+### Rock & Punk — added game-009
+- Ramones New York punk Paul Ramon McCartney stage surname 1976 self-titled debut $6,400 seven days Sire Records, Bohemian Rhapsody Queen nearly six minutes Kenny Everett advance copy radio plays public demand best-selling UK single, Fortunate Son CCR John Fogerty 1969 Vietnam draft privilege protest misused patriotic, John Fogerty self-plagiarism lawsuit 1988 Old Man Down the Road Run Through the Jungle Fantasy Records played guitar for jury, Brian May Red Special guitar Harold father Victorian fireplace mantel neck oak table body bicycle saddlebag holder tremolo arm plastic knitting needle tip
+
+### Home Construction — added game-009
+- Two-by-four 2x4 dimensional lumber actual 1.5 inches 3.5 inches nominal wall stud residential, OSB oriented strand board cross-oriented wood strands resin wax displaced plywood sheathing 1980s, R-value thermal resistance insulation heat flow IRC climate zone minimum, Balloon framing 1830s mid-20th century continuous studs foundation sill plate roof plate vs platform framing, International Residential Code IRC 2000 International Code Council one two family dwellings unified U.S. model codes
+
+### Parenting Science — added game-009
+- Tiger Mom Amy Chua 2011 memoir strict Yale Law high-achieving daughters global debate, Diana Baumrind UC Berkeley 1960s three parenting styles authoritarian permissive authoritative outcomes, Back to Sleep NIH 1994 infants backs sleep SIDS sudden infant death syndrome 50 percent reduction, Harry Harlow University Wisconsin late 1950s wire cloth surrogate mothers rhesus monkeys contact comfort foundation attachment not feeding, Strange Situation Mary Ainsworth 1969 laboratory toddler separation reunion secure anxious-avoidant anxious-ambivalent attachment
+
+### Advanced Fitness Science — added game-009
+- The Murph CrossFit Hero WOD Navy SEAL Lieutenant Michael P. Murphy killed Afghanistan 2005 one mile run 100 pull-ups 200 push-ups 300 air squats one mile 20-pound weight vest, Tabata Protocol Izumi Tabata 1996 National Institute Fitness Sports eight rounds 20 seconds 170 percent VO2max 10 seconds rest aerobic anaerobic 28 percent improvement, Snatch Olympic weightlifting one of two events floor fully locked overhead single continuous movement wide grip, Lactate threshold 80 85 percent maximum heart rate blood lactate accumulates faster than cleared sustainable vs. high-intensity boundary, EPOC excess post-exercise oxygen consumption afterburn effect elevated oxygen hours after intense workout HIIT resistance training
+
+### Scripture — Old Testament (additions game-009)
+- Noah ark 300 cubits long 50 wide 30 high two of every creature flood Genesis, Joseph Jacob Pharaoh seven fat thin cattle ears grain dreams famine abundance Egypt, Deborah only female judge prophetess palm tree Ramah Bethel Barak Sisera victory woman, Nehemiah cupbearer Artaxerxes Jerusalem walls rebuilt 52 days Sanballat Tobiah, Obadiah 21 verses shortest Old Testament book judgment Edom
+
+### Scripture — New Testament (additions game-009)
+- Lord's Prayer Matthew 6:9-13 Luke 11:2-4 Our Father daily bread forgiveness evil, Zacchaeus Jericho chief tax collector sycamore tree Luke 19 half possessions fourfold, Paul Saul Tarsus Damascus road blinding light Ananias three days blind 13 letters New Testament, Seven churches Revelation 2-3 Asia Minor Laodicea lukewarm spit out mouth, Theophilus Luke Acts two entire books recipient name friend of God Greek
 
 *Append new rows to the Game Registry table and new topics to the Cross-Game Topic Map each time a game is created.*

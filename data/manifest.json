@@ -1,5 +1,5 @@
 {
-  "current": "game-008-2026-05-03",
+  "current": "game-009-2026-05-10",
   "games": [
     {
       "id": "game-hist-001-2025-12-22",
@@ -328,6 +328,39 @@
       "metadata": {
         "occasion": "Game Night",
         "targetAudience": "Millennial adults (late 80s born)",
+        "createdBy": "AI"
+      }
+    },
+    {
+      "id": "game-009-2026-05-10",
+      "title": "Faith, Sweat & Legends",
+      "date": "2026-05-10",
+      "filePath": "data/games/game-009-2026-05-10.json",
+      "columns": 6,
+      "rows": 5,
+      "pointValues": [100, 200, 300, 400, 500],
+      "categoryNames": ["OLD TESTAMENT", "NEW TESTAMENT", "ROCK & PUNK LEGENDS", "BUILD IT RIGHT", "RAISING KIDS", "SWEAT SCIENCE"],
+      "topics": [
+        "Noah Genesis flood ark", "Joseph Pharaoh dreams famine Egypt", "Deborah prophetess judge Israel",
+        "Nehemiah Jerusalem walls 52 days", "Obadiah shortest OT book Edom",
+        "Lord's Prayer Matthew 6", "Zacchaeus Jericho sycamore tree", "Paul Damascus road blinding light",
+        "Seven churches Revelation Laodicea", "Theophilus Luke Acts friend of God",
+        "Ramones New York punk Paul Ramon McCartney 1976 debut $6400", "Bohemian Rhapsody Queen Kenny Everett",
+        "Fortunate Son CCR John Fogerty 1969 Vietnam draft protest", "John Fogerty self-plagiarism lawsuit 1988",
+        "Brian May Red Special fireplace mantel bicycle saddlebag knitting needle",
+        "Two-by-four dimensional lumber 1.5 inches 3.5 actual", "OSB oriented strand board plywood displaced",
+        "R-value thermal resistance insulation heat flow", "Balloon framing 1830s continuous studs",
+        "International Residential Code IRC 2000",
+        "Tiger Mom Amy Chua 2011 strict parenting", "Diana Baumrind UC Berkeley parenting styles",
+        "Back to Sleep NIH 1994 SIDS 50 percent", "Harry Harlow wire cloth surrogate mothers rhesus monkeys",
+        "Strange Situation Mary Ainsworth 1969 attachment",
+        "The Murph CrossFit Michael Murphy Afghanistan", "Tabata Protocol 1996 Izumi Tabata 20 seconds VO2max",
+        "Snatch Olympic weightlifting floor overhead", "Lactate threshold blood lactate accumulation",
+        "EPOC excess post-exercise oxygen consumption afterburn"
+      ],
+      "metadata": {
+        "occasion": "Game Night",
+        "targetAudience": "Adults with strong knowledge of scripture, classic rock, construction, parenting, and fitness",
         "createdBy": "AI"
       }
     }
