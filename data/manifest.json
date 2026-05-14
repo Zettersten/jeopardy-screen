@@ -1,5 +1,5 @@
 {
-  "current": "game-020-2026-05-14",
+  "current": "game-021-2026-05-14",
   "games": [
     {
       "id": "game-hist-001-2025-12-22",
@@ -535,6 +535,35 @@
       "metadata": {
         "occasion": "Game Night",
         "targetAudience": "Adults with strong knowledge of scripture, classic rock, construction, parenting, and fitness",
+        "createdBy": "AI"
+      }
+    },
+    {
+      "id": "game-021-2026-05-14",
+      "title": "After Dark: No Filter Edition",
+      "date": "2026-05-14",
+      "filePath": "data/games/game-021-2026-05-14.json",
+      "columns": 6,
+      "rows": 5,
+      "pointValues": [100, 200, 300, 400, 500],
+      "categoryNames": ["BETWEEN THE SHEETS", "THAT'S NO MOON", "THAT'S REPULSIVE", "DIRECTIONER ERA", "VIRAL HALL OF FAME", "HOLD MY BEER"],
+      "topics": [
+        "missionary position", "cowgirl", "69", "doggy style", "lotus position",
+        "Death Star", "Chewbacca", "R2-D2", "Obi-Wan Kenobi", "Boba Fett",
+        "earwax", "pus", "halitosis", "athlete's foot", "bot fly infestation",
+        "Idina Menzel Frozen Let It Go", "Justin Bieber Baby 2010",
+        "twerking Miley Cyrus VMAs 2013", "Beyonce surprise album December 2013",
+        "Vine six-second video 2013 2017",
+        "Rickrolling Rick Astley 2007", "Grumpy Cat Tardar Sauce 2012",
+        "Doge Shiba Inu Comic Sans 2013", "color constancy The Dress 2015",
+        "Pepe the Frog Matt Furie 2005",
+        "Moonlight Best Picture Oscars 2017", "Balloon Boy hoax Colorado 2009",
+        "Fyre Festival Bahamas 2017", "Howard Dean scream 2004",
+        "Al Capone vault Geraldo Rivera 1986"
+      ],
+      "metadata": {
+        "occasion": "Adult Game Night",
+        "targetAudience": "Smart adults looking for unfiltered, funny, and clever trivia",
         "createdBy": "AI"
       }
     },
