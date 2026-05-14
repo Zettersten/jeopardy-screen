@@ -37,7 +37,9 @@ This file is the AI's memory for game creation overlap prevention.
 || 015 | [game-015-2026-05-10](./game-015-2026-05-10.md) | 2026-05-10 | Magic, Muppets & Medicine | MUPPETS, 90S DISNEY MOVIES, LORD OF THE RINGS, NARNIA, WOODSTOCK, NAME THAT DRUG | Game Night |
 || 016 | [game-016-2026-05-10](./game-016-2026-05-10.md) | 2026-05-10 | May the Psalms Be With You | FORREST FRANK, ANIMAL PLANET, BACK TO NARNIA, GALAXY FAR FAR AWAY, WAX ON WAX OFF, MARVEL-OUS, ANCIENT TWEETS | Game Night |
 || 017 | [game-017-2026-05-10](./game-017-2026-05-10.md) | 2026-05-10 | From Pemberley to Flavortown | AFTER SCHOOL SPECIALS, ALL I WANT FOR CHRISTMAS, IT IS A TRUTH UNIVERSALLY ACKNOWLEDGED, LAND OF THE FREE, TRASH SNACK OLYMPICS, FLAVORTOWN USA | Game Night |
-|| 018 | [game-018-2026-05-10](./game-018-2026-05-10.md) | 2026-05-10 | Ruff, Roar & Rejoice! | MIGHTY HEROES, AMAZING ANIMALS, BLUEY TIME!, BIBLE CHAMPIONS, SONGS FOR JESUS, PUPS & BUNNIES | Game Night / Kids (current) |
+|| 018 | [game-018-2026-05-10](./game-018-2026-05-10.md) | 2026-05-10 | Ruff, Roar & Rejoice! | MIGHTY HEROES, AMAZING ANIMALS, BLUEY TIME!, BIBLE CHAMPIONS, SONGS FOR JESUS, PUPS & BUNNIES | Game Night / Kids |
+|| 019 | [game-019-2026-05-10](./game-019-2026-05-10.md) | 2026-05-10 | Ruff, Roar & Rejoice! Volume 2 | MIGHTY HEROES, AMAZING ANIMALS, BLUEY TIME!, BIBLE CHAMPIONS, SONGS FOR JESUS, PUPS & BUNNIES | Game Night / Kids |
+|| 020 | [game-020-2026-05-14](./game-020-2026-05-14.md) | 2026-05-14 | Tides, Tears & the Spice Must Flow | MARINE BIOLOGY, DUNE, AUTHORS OF THE 1500S, FAN FICTION, YOUTUBE STARS, MOVIES THAT MAKE YOU CRY | Game Night (current) |
 
 ---
 
@@ -401,5 +403,31 @@ Use this to quickly spot conflicts. Topics listed here have already been used as
 
 ### PAW Patrol & Zootopia -- added game-018
 - Ryder PAW Patrol leader brave boy calls puppies rescue missions, Chase PAW Patrol German Shepherd police uniform badge community helper, Marshall PAW Patrol Dalmatian fire pup medical trips falls helps friends, Judy Hopps Zootopia bunny police officer first ever anyone can be anything, Nick Wilde Zootopia fox clever honest best friends bunny police
+
+### Avengers Vol 2, Animals Vol 2, Bluey Vol 2, Bible Vol 2, Songs Vol 2, PAW Patrol Vol 2 -- added game-019
+- Black Widow Avenger red hair spy no superpowers, Scarlet Witch Avenger magic glowing red hands float, Groot Avenger wood vines says own name, Nick Fury eye patch SHIELD organized Avengers, Vision android golden Mind Stone flies through walls
+- dog man's best friend bark tail fetch, cat meow purr whiskers groom, rabbit long ears cottontail hop carrots, fish underwater gills scales fins, horse gallop mane tail NEIGH ride
+- Mackenzie Bluey sporty school friend fast runner, Jack Bluey friend energetic Jack Russell, Stripe Bluey uncle Bandit's brother, Nana Bluey grandma, pretend play imagination game mechanic
+- Joshua Jericho walls march seven times trumpets shout, Hannah prayed baby God gave Samuel, Wise Men star baby Jesus gifts, Shadrach Meshach Abednego fiery furnace refused golden statue, Gabriel angel Mary Jesus Zechariah
+- This Is Amazing Grace Phil Wickham, House of the Lord Phil Wickham, Find You Here Ellie Holcomb comforting hard times, Holy Forever Phil Wickham eternal, Dove Award Christian music Phil Wickham Ellie Holcomb
+- Skye PAW Patrol pink helicopter cockapoo, Rubble PAW Patrol bulldog yellow construction, Rocky PAW Patrol green eco pup recycle, Flash Zootopia sloth DMV slow jokes, Dawn Bellwether Zootopia sheep assistant mayor secret villain
+
+### Marine Biology -- added game-020
+- blue whale largest animal Earth 100 feet louder jet engine marine mammal, coral reef polyps calcium carbonate rainforest sea biodiversity, salmon Pacific migratory returns freshwater birthstream spawn die, Challenger Deep Mariana Trench 36000 feet deepest point Earth, ampullae of Lorenzini sharks rays jelly-filled pores electrical fields Italian anatomist 16th century
+
+### Dune (Frank Herbert) -- added game-020
+- melange spice Arrakis most valuable commodity extended life interstellar navigation, House Atreides Paul noble house Arrakis stewardship betrayed, Fremen desert people Arrakis arrhythmic gait sandworm avoidance vibrations, Bene Gesserit ancient sisterhood selective breeding mental conditioning millennia messiah Lady Jessica, Muad'Dib Fremen name Paul desert mouse cannot be caught private name
+
+### Authors of the 1500s -- added game-020
+- Miguel de Cervantes Spain imprisoned windmills deluded knight first modern novel Don Quixote, Niccolò Machiavelli Florentine diplomat The Prince feared loved ends justify means, Thomas More English humanist utopia 1516 Latin beheaded Henry VIII break Rome, Christopher Marlowe Shakespeare contemporary Doctor Faustus Tamburlaine Deptford died age 29, Michel de Montaigne French personal essay 1580 Essais Que sçay-je restless curiosity
+
+### Fan Fiction -- added game-020
+- Fifty Shades of Grey E.L. James Twilight fan fiction Master of the Universe new character names, alternate universe AU fan fiction different setting timeline Slytherin, Archive of Our Own AO3 fan archive 2009 Hugo Award Best Related Work 2019 14 million works, Kirk Spock Star Trek slash fiction term same-sex romantic 1970s fan zines origin, Comiket Comic Market Tokyo twice yearly doujinshi unofficial fan works anime manga games largest
+
+### YouTube Stars -- added game-020
+- MrBeast Jimmy Donaldson philanthropy record-breaking 200 million subscribers first individual, Marques Brownlee MKBHD New Jersey tech reviewer gadget breakdowns meticulous visually stunning, Vsauce Michael Stevens science educator mind-bending questions biggest number perception reality, Mark Rober former NASA engineer Rube Goldberg contraptions viral science claims tens millions subscribers, Rhett McLaughlin Link Neal North Carolina childhood friends Good Mythical Morning daily weekday 2012
+
+### Tearjerker Films -- added game-020
+- Up 2009 Pixar wordless four-minute opening montage couple life heartbreaking loss, E.T. Extra-Terrestrial 1982 Spielberg lonely boy alien stranded goodbye boards ship, Toy Story 3 2010 Pixar toys hold hands face furnace accept fate emotionally crushing animation, My Girl 1991 Thomas J. bee stings allergic mood ring woods Vada grieve, Grave of the Fireflies 1988 Studio Ghibli Isao Takahata wartime Japan teenage boy sister starvation firebombing
 
 *Append new rows to the Game Registry table and new topics to the Cross-Game Topic Map each time a game is created.*

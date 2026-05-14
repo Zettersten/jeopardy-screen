@@ -1,5 +1,5 @@
 {
-  "current": "game-019-2026-05-10",
+  "current": "game-020-2026-05-14",
   "games": [
     {
       "id": "game-hist-001-2025-12-22",
@@ -535,6 +535,22 @@
       "metadata": {
         "occasion": "Game Night",
         "targetAudience": "Adults with strong knowledge of scripture, classic rock, construction, parenting, and fitness",
+        "createdBy": "AI"
+      }
+    },
+    {
+      "id": "game-020-2026-05-14",
+      "title": "Tides, Tears & the Spice Must Flow",
+      "date": "2026-05-14",
+      "filePath": "data/games/game-020-2026-05-14.json",
+      "columns": 6,
+      "rows": 5,
+      "pointValues": [100, 200, 300, 400, 500],
+      "categoryNames": ["MARINE BIOLOGY", "DUNE", "AUTHORS OF THE 1500S", "FAN FICTION", "YOUTUBE STARS", "MOVIES THAT MAKE YOU CRY"],
+      "topics": ["blue whale", "coral reef", "salmon", "Challenger Deep", "ampullae of Lorenzini", "melange", "House Atreides", "Fremen", "Bene Gesserit", "Muad'Dib", "Miguel de Cervantes", "Niccolo Machiavelli", "Thomas More", "Christopher Marlowe", "Michel de Montaigne", "Fifty Shades of Grey", "alternate universe", "Archive of Our Own", "Kirk and Spock", "Comiket", "MrBeast", "Marques Brownlee", "Vsauce", "Mark Rober", "Rhett and Link", "Up", "E.T. the Extra-Terrestrial", "Toy Story 3", "My Girl", "Grave of the Fireflies"],
+      "metadata": {
+        "occasion": "Game Night",
+        "targetAudience": "Smart adults — book lovers, science nerds, internet natives, and film fans",
         "createdBy": "AI"
       }
     }

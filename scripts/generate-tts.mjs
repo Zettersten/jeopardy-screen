@@ -29,7 +29,7 @@ if (existsSync(envPath)) {
 
 // ── Config ────────────────────────────────────────────────────────────────────
 const API_KEY = process.env.FISH_AUDIO_API_KEY;
-const VOICE_ID = "206876150db246b28779d28b3471b74b";
+const VOICE_ID = "29bd4985ec5c459a9aa0856b4c1edea9";
 const TTS_URL = "https://api.fish.audio/v1/tts";
 const OUT_DIR = path.join(ROOT, "public", "audio", "tts");
 const BATCH_SIZE = 5;
