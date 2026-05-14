@@ -1,5 +1,5 @@
 {
-  "current": "game-021-2026-05-14",
+  "current": "game-022-2026-05-14",
   "games": [
     {
       "id": "game-hist-001-2025-12-22",
@@ -564,6 +564,22 @@
       "metadata": {
         "occasion": "Adult Game Night",
         "targetAudience": "Smart adults looking for unfiltered, funny, and clever trivia",
+        "createdBy": "AI"
+      }
+    },
+    {
+      "id": "game-022-2026-05-14",
+      "title": "Cancelled, Dysfunctional & Definitely Watching",
+      "date": "2026-05-14",
+      "filePath": "data/games/game-022-2026-05-14.json",
+      "columns": 6,
+      "rows": 5,
+      "pointValues": [100, 200, 300, 400, 500],
+      "categoryNames": ["LOGGED OFF FOR GOOD", "THE PITT", "FINAL FRONTIER", "WHIT'S END", "HOME IS WHERE THE HURT IS", "MEET ME AT THE PLAYGROUND"],
+      "topics": ["Jenna Marbles", "Logan Paul", "Shane Dawson", "PewDiePie", "Sam Pepper", "Noah Wyle", "Max streaming", "The Pitt real-time format", "24 Kiefer Sutherland", "John Wells", "42 Deep Thought", "Voight-Kampff test", "Soylent Green", "The Expanse", "Solaris", "Whit's End", "Mr. Whittaker", "Imagination Station", "Eugene Meltsner", "Focus on the Family", "Succession", "Shameless", "The Royal Tenenbaums", "August Osage County", "Flowers in the Attic", "Hey Arnold", "Mr. Ratburn", "Recess", "Doug", "As Told by Ginger"],
+      "metadata": {
+        "occasion": "Adult Game Night",
+        "targetAudience": "Smart adults — internet culture natives, TV drama fans, 90s/2000s cartoon nostalgia",
         "createdBy": "AI"
       }
     },
