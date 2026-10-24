@@ -41,7 +41,8 @@ This file is the AI's memory for game creation overlap prevention.
 || 019 | [game-019-2026-05-10](./game-019-2026-05-10.md) | 2026-05-10 | Ruff, Roar & Rejoice! Volume 2 | MIGHTY HEROES, AMAZING ANIMALS, BLUEY TIME!, BIBLE CHAMPIONS, SONGS FOR JESUS, PUPS & BUNNIES | Game Night / Kids |
 || 020 | [game-020-2026-05-14](./game-020-2026-05-14.md) | 2026-05-14 | Tides, Tears & the Spice Must Flow | MARINE BIOLOGY, DUNE, AUTHORS OF THE 1500S, FAN FICTION, YOUTUBE STARS, MOVIES THAT MAKE YOU CRY | Game Night |
 || 021 | [game-021-2026-05-14](./game-021-2026-05-14.md) | 2026-05-14 | After Dark: No Filter Edition | BETWEEN THE SHEETS, THAT'S NO MOON, THAT'S REPULSIVE, DIRECTIONER ERA, VIRAL HALL OF FAME, HOLD MY BEER | Adult Game Night |
-|| 022 | [game-022-2026-05-14](./game-022-2026-05-14.md) | 2026-05-14 | Cancelled, Dysfunctional & Definitely Watching | LOGGED OFF FOR GOOD, THE PITT, FINAL FRONTIER, WHIT'S END, HOME IS WHERE THE HURT IS, MEET ME AT THE PLAYGROUND | Adult Game Night (current) |
+|| 022 | [game-022-2026-05-14](./game-022-2026-05-14.md) | 2026-05-14 | Cancelled, Dysfunctional & Definitely Watching | LOGGED OFF FOR GOOD, THE PITT, FINAL FRONTIER, WHIT'S END, HOME IS WHERE THE HURT IS, MEET ME AT THE PLAYGROUND | Adult Game Night |
+|| 023 | [game-023-2026-10-24](./game-023-2026-10-24.md) | 2026-10-24 | Below the Belt: Renaissance Edition | POSITIONS OF THE 1500s, BEDSIDE READING, MEMBERS ONLY, WILD PHALLUSES, VAGINAS THROUGH HISTORY, LADYBITS | Adult Game Night (current) |
 
 ---
 
@@ -431,5 +432,16 @@ Use this to quickly spot conflicts. Topics listed here have already been used as
 
 ### Tearjerker Films -- added game-020
 - Up 2009 Pixar wordless four-minute opening montage couple life heartbreaking loss, E.T. Extra-Terrestrial 1982 Spielberg lonely boy alien stranded goodbye boards ship, Toy Story 3 2010 Pixar toys hold hands face furnace accept fate emotionally crushing animation, My Girl 1991 Thomas J. bee stings allergic mood ring woods Vada grieve, Grave of the Fireflies 1988 Studio Ghibli Isao Takahata wartime Japan teenage boy sister starvation firebombing
+
+### 1500s Erotica & Sex Manuals -- added game-023
+- I Modi Rome 1524 16 engravings Giulio Romano designer Marcantonio Raimondi engraver jailed Clement VII zero surviving copies, Pietro Aretino Sonetti Lussuriosi 16 sonnets secured Raimondi release, Kama Sutra Vatsyayana ancient Sanskrit Richard Burton 1883 first famous English translation, Joy of Sex Alex Comfort 1972 cookbook structure Starters Main Courses Sauces and Pickles, Perfumed Garden Sheikh Nefzawi Burton 1886 translation Arabic classic composition date contested 15th vs 16th century, Hite Report Shere Hite 1976 about 3000 questionnaires most women don't orgasm intercourse alone, Ananga Ranga Kalyana Malla Stage of Love Kama Shastra Society English edition 1885
+
+### Penis History & Animal Genitalia -- added game-023
+- Latin penis originally meant tail English anatomical use 1570s, Priapus Greek rustic fertility god permanent erection priapism named for him, codpiece from cod scrotum peaked 1540s Henry VIII 1540 Tower of London tournament armor padded codpiece, tintinnabulum Roman bronze phallic wind chimes bells hung near doorways Pompeii ward off evil eye fascinum, Gabriele Falloppio 1564 posthumous De morbo gallico linen sheath condom syphilis first uncontested European condom description
+- Iceland Phallological Museum founded 1997 retired teacher Sigurdur Hjartarson 280+ specimens first human specimen 2011 Pall Arason, Argentine lake duck Oxyura vittata corkscrew penis about half body length largest of any bird 2007 Brennan PLoS ONE study, baculum penis bone walruses bats most primates humans lack walrus largest about 1 meter, barnacle penis up to eight times body length largest ratio animal kingdom, penis fencing hermaphroditic marine flatworms Pseudobiceros stylet duels loser inseminated carries eggs
+
+### Vagina History, Culture & Anatomy -- added game-023
+- Latin vagina sheath scabbard close-fitting cover for sword blade, pre-17th-century medical texts depicted vagina as penis turned inside out Galen one-sex model Vesalius 1543, clitoris Realdo Colombo De re anatomica 1559 claimed discovery first published detailed description priority disputed, Vagina Monologues Eve Ensler premiered October 3 1996 HERE Arts Center off-off-Broadway interviews 200 women spawned V-Day 1998, Ernst Grafenberg German-born gynecologist 1950 Role of Urethra in Female Orgasm G-spot named after him term coined 1981
+- vulva external region labia clitoris vs vagina internal canal, labia simply Latin for lips labium, healthy vaginal pH 3.8 to 4.5 acidic lactobacilli lactic acid, Always brand Procter Gamble introduced February 1983 nationwide 1984 famous mysterious blue liquid ads red dot 2011, Skene's glands Alexander Skene described 1880 paraurethral ducts homologous prostate female prostate
 
 *Append new rows to the Game Registry table and new topics to the Cross-Game Topic Map each time a game is created.*

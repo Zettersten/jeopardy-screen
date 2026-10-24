@@ -1,218 +1,218 @@
 {
-  "id": "game-022-2026-05-14",
-  "title": "Cancelled, Dysfunctional & Definitely Watching",
-  "date": "2026-05-14",
-  "description": "A sharp adult game covering cancelled internet stars, The Pitt on Max, classic sci-fi, Adventures in Odyssey, TV's most toxic family dynamics, and beloved after-school cartoons.",
+  "id": "game-023-2026-10-24",
+  "title": "Below the Belt: Renaissance Edition",
+  "date": "2026-10-24",
+  "description": "A bawdy adult romp through the 1500s' most scandalous erotica, the curious history of penises (human and animal), and vaginas across history, culture, and anatomy — every fact web-verified.",
   "columns": 6,
   "rows": 5,
   "pointValues": [100, 200, 300, 400, 500],
   "categories": [
     {
-      "name": "LOGGED OFF FOR GOOD",
+      "name": "POSITIONS OF THE 1500s",
       "questions": [
         {
           "points": 100,
-          "question": "With over 20 million subscribers, this creator left YouTube permanently in June 2020 after resurfaced old content sparked widespread backlash.",
-          "answer": "Who is Jenna Marbles?",
+          "question": "I Modi, the Renaissance's most notorious sex book, published its 16 engravings of lovers in this city in 1524.",
+          "answer": "What is Rome?",
           "revealed": false
         },
         {
           "points": 200,
-          "question": "This YouTube star sparked international outrage in January 2018 after posting footage filmed in Japan's Aokigahara forest.",
-          "answer": "Who is Logan Paul?",
+          "question": "A star pupil of Raphael, this artist designed I Modi's 16 erotic engravings before they were banned.",
+          "answer": "Who is Giulio Romano?",
           "revealed": false
         },
         {
           "points": 300,
-          "question": "This creator stepped back from YouTube in 2020 after decade-old offensive content resurfaced — he was known for celebrity palette collabs and sprawling documentary series.",
-          "answer": "Who is Shane Dawson?",
+          "question": "Clement VII jailed this engraver for printing I Modi, and nearly all copies were destroyed.",
+          "answer": "Who is Marcantonio Raimondi?",
           "revealed": false
         },
         {
           "points": 400,
-          "question": "Swedish gamer Felix Kjellberg lost his Disney-backed premium YouTube show in 2017 after a Wall Street Journal investigation highlighted anti-Semitic imagery in his videos.",
-          "answer": "Who is PewDiePie?",
+          "question": "This satirist wrote 16 sonnets to accompany I Modi's engravings and helped win Raimondi's release from prison.",
+          "answer": "Who is Pietro Aretino?",
           "revealed": false
         },
         {
           "points": 500,
-          "question": "This British creator's 2014 video of grabbing women on the street became one of YouTube's first major harassment controversies and effectively ended his career.",
-          "answer": "Who is Sam Pepper?",
+          "question": "Every known copy of I Modi's first edition was destroyed — this is how many complete copies survive today.",
+          "answer": "What is zero?",
           "revealed": false
         }
       ]
     },
     {
-      "name": "THE PITT",
+      "name": "BEDSIDE READING",
       "questions": [
         {
           "points": 100,
-          "question": "The Pitt's lead actor is familiar to medical drama fans — he spent a decade playing Dr. John Carter on NBC's ER.",
-          "answer": "Who is Noah Wyle?",
+          "question": "Richard Burton's 1883 translation made this ancient Sanskrit treatise by Vatsyayana the West's go-to sex manual.",
+          "answer": "What is the Kama Sutra?",
           "revealed": false
         },
         {
           "points": 200,
-          "question": "The Pitt premiered in January 2025 on this Warner Bros. Discovery streaming platform.",
-          "answer": "What is Max?",
+          "question": "This 1972 Alex Comfort bestseller was organized like a cookbook, with chapters titled Starters and Main Courses.",
+          "answer": "What is The Joy of Sex?",
           "revealed": false
         },
         {
           "points": 300,
-          "question": "Each of The Pitt's fifteen episodes represents exactly this duration of real time, meaning an entire season covers one continuous ER shift.",
-          "answer": "What is one hour?",
+          "question": "Sheikh Nefzawi's erotic manual, translated by Richard Burton in 1886, bears this fragrant title.",
+          "answer": "What is The Perfumed Garden?",
           "revealed": false
         },
         {
           "points": 400,
-          "question": "Critics compared The Pitt's episode-per-hour format to this earlier real-time drama starring Kiefer Sutherland as counter-terrorism agent Jack Bauer.",
-          "answer": "What is 24?",
+          "question": "This 1976 study drew on questionnaires from about 3,000 women, finding most don't orgasm from intercourse alone.",
+          "answer": "What is The Hite Report?",
           "revealed": false
         },
         {
           "points": 500,
-          "question": "The Pitt shares an executive producer with both ER and The West Wing — this veteran television showrunner has been making prestige dramas for decades.",
-          "answer": "Who is John Wells?",
+          "question": "Richard Burton's Kama Shastra Society brought this Kalyana Malla manual — 'Stage of Love' — to English readers in 1885.",
+          "answer": "What is Ananga Ranga?",
           "revealed": false
         }
       ]
     },
     {
-      "name": "FINAL FRONTIER",
+      "name": "MEMBERS ONLY",
       "questions": [
         {
           "points": 100,
-          "question": "Douglas Adams's supercomputer Deep Thought spends 7.5 million years calculating this as the Answer to the Ultimate Question of Life, the Universe, and Everything.",
-          "answer": "What is 42?",
+          "question": "In Latin, 'penis' originally meant this body part of animals — only later did it name human anatomy.",
+          "answer": "What is a tail?",
           "revealed": false
         },
         {
           "points": 200,
-          "question": "In Blade Runner, investigators administer this empathy-measuring interrogation to determine whether a subject is human or an artificial replicant.",
-          "answer": "What is the Voight-Kampff test?",
+          "question": "The medical term priapism, for a persistent unwanted erection, is named for this Greek fertility god.",
+          "answer": "Who is Priapus?",
           "revealed": false
         },
         {
           "points": 300,
-          "question": "Charlton Heston's 1973 sci-fi film culminates in the horrifying revelation that a future society's miracle food product is manufactured from human corpses.",
-          "answer": "What is Soylent Green?",
+          "question": "This fashion pouch peaked in the 1540s, when Henry VIII's tournament armor sported a famously padded one.",
+          "answer": "What is a codpiece?",
           "revealed": false
         },
         {
           "points": 400,
-          "question": "James S.A. Corey's novel series — adapted for Amazon Prime — follows humanity's fractured solar system as it grapples with a mysterious alien substance called the protomolecule.",
-          "answer": "What is The Expanse?",
+          "question": "Romans hung these bronze phallic wind chimes, often near doorways, to ward off the evil eye.",
+          "answer": "What is a tintinnabulum?",
           "revealed": false
         },
         {
           "points": 500,
-          "question": "In this 1961 Stanisław Lem novel, scientists aboard a station orbiting a sentient ocean planet are confronted by perfect physical recreations of people from their pasts.",
-          "answer": "What is Solaris?",
+          "question": "In 1564, this anatomist posthumously published the first uncontested European description of a condom — a linen sheath against syphilis.",
+          "answer": "Who is Gabriele Falloppio?",
           "revealed": false
         }
       ]
     },
     {
-      "name": "WHIT'S END",
+      "name": "WILD PHALLUSES",
       "questions": [
         {
           "points": 100,
-          "question": "Every kid in the town of Odyssey congregates at this ice cream parlor and discovery emporium owned by John Avery Whittaker.",
-          "answer": "What is Whit's End?",
+          "question": "This country's Phallological Museum, founded by a retired teacher in 1997, finally acquired its first human specimen in 2011.",
+          "answer": "What is Iceland?",
           "revealed": false
         },
         {
           "points": 200,
-          "question": "This beloved inventor and soda fountain proprietor of Adventures in Odyssey is known to every kid in the town of Odyssey by a single syllable.",
-          "answer": "Who is Whit?",
+          "question": "A viral 2007 study revealed this bird's corkscrew-shaped penis can stretch nearly half its body length.",
+          "answer": "What is a duck?",
           "revealed": false
         },
         {
           "points": 300,
-          "question": "Whit's most celebrated invention places children inside immersive historical and biblical scenarios experienced entirely within their own minds.",
-          "answer": "What is the Imagination Station?",
+          "question": "Walruses, bats, and most primates have this penis bone — humans are among the few mammals that lack one.",
+          "answer": "What is a baculum?",
           "revealed": false
         },
         {
           "points": 400,
-          "question": "This hyper-verbose, socially awkward genius worked at Whit's End and made a long journey from skepticism to Christian faith across Adventures in Odyssey's run.",
-          "answer": "Who is Eugene Meltsner?",
+          "question": "This crustacean's penis can extend up to eight times its body length — the largest such ratio in the animal kingdom.",
+          "answer": "What is a barnacle?",
           "revealed": false
         },
         {
           "points": 500,
-          "question": "Adventures in Odyssey is produced by this Colorado Springs-based Christian ministry, founded by psychologist James Dobson in 1977.",
-          "answer": "What is Focus on the Family?",
+          "question": "In this dueling ritual, two hermaphroditic marine flatworms try to stab each other; the loser carries the eggs.",
+          "answer": "What is penis fencing?",
           "revealed": false
         }
       ]
     },
     {
-      "name": "HOME IS WHERE THE HURT IS",
+      "name": "VAGINAS THROUGH HISTORY",
       "questions": [
         {
           "points": 100,
-          "question": "Logan Roy kept his four children locked in a permanent rivalry for control of his media empire across four seasons of this acclaimed HBO drama.",
-          "answer": "What is Succession?",
+          "question": "The Latin word 'vagina' originally meant this item that holds a sword.",
+          "answer": "What is a sheath or scabbard?",
           "revealed": false
         },
         {
           "points": 200,
-          "question": "The Gallagher children of Chicago's South Side raised themselves for eleven seasons while their father — played by William H. Macy — chased alcohol and get-rich-quick schemes.",
-          "answer": "What is Shameless?",
+          "question": "Until 17th-century anatomists set the record straight, medical texts depicted the vagina as this male organ turned inside out.",
+          "answer": "What is the penis?",
           "revealed": false
         },
         {
           "points": 300,
-          "question": "Gene Hackman plays a deadbeat patriarch who fakes terminal illness to win back his estranged family of failed child prodigies in this 2001 Wes Anderson film.",
-          "answer": "What is The Royal Tenenbaums?",
+          "question": "In his 1559 anatomy text, Realdo Colombo claimed to have discovered this small erectile organ above the vaginal opening.",
+          "answer": "What is the clitoris?",
           "revealed": false
         },
         {
           "points": 400,
-          "question": "Tracy Letts's Pulitzer-winning play — adapted into a 2013 film starring Meryl Streep — centers on a pill-addicted Oklahoma mother whose husband's disappearance forces her toxic family back together.",
-          "answer": "What is August: Osage County?",
+          "question": "Eve Ensler's play based on interviews with 200 women premiered off-off-Broadway in October 1996 and spawned V-Day.",
+          "answer": "What is The Vagina Monologues?",
           "revealed": false
         },
         {
           "points": 500,
-          "question": "In this 1979 V.C. Andrews gothic novel, four siblings are locked in a grandmother's attic for years while their mother pursues an inheritance — and the eldest two develop a forbidden bond.",
-          "answer": "What is Flowers in the Attic?",
+          "question": "The 'G' in G-spot honors this German-born gynecologist, who described an erotic zone along the urethra in 1950.",
+          "answer": "Who is Ernst Gräfenberg?",
           "revealed": false
         }
       ]
     },
     {
-      "name": "MEET ME AT THE PLAYGROUND",
+      "name": "LADYBITS",
       "questions": [
         {
           "points": 100,
-          "question": "This Nickelodeon animated series followed a kid with a football-shaped head and his lovable grandparents through life in the fictional city of Hillwood.",
-          "answer": "What is Hey Arnold?",
+          "question": "Anatomically, this outer region includes the labia and clitoris — while the vagina is the internal canal.",
+          "answer": "What is the vulva?",
           "revealed": false
         },
         {
           "points": 200,
-          "question": "Arthur and his friends at Lakewood Elementary dread the rigorous homework assignments handed out by this bespectacled third-grade teacher on the PBS animated series.",
-          "answer": "Who is Mr. Ratburn?",
+          "question": "The anatomical term 'labia' is simply the Latin word for these.",
+          "answer": "What are lips?",
           "revealed": false
         },
         {
           "points": 300,
-          "question": "T.J. Detweiler and five friends navigate a grade-school playground ruled by a self-declared monarch named King Bob in this late-'90s Disney animated series.",
-          "answer": "What is Recess?",
+          "question": "Beneficial bacteria keep a healthy vagina's pH around 3.8 to 4.5 — chemically speaking, that makes it this.",
+          "answer": "What is acidic?",
           "revealed": false
         },
         {
           "points": 400,
-          "question": "First on Nickelodeon then Disney, this '90s cartoon followed a journal-writing boy, his crush Patti Mayonnaise, and his blue-skinned best friend Skeeter Valentine.",
-          "answer": "What is Doug?",
+          "question": "Introduced by Procter & Gamble in 1983, this pad brand famously demonstrated absorbency with mysterious blue liquid.",
+          "answer": "What is Always?",
           "revealed": false
         },
         {
           "points": 500,
-          "question": "In this Nickelodeon series, a thoughtful middle schooler navigated the social divide between her scrappy friend group and the popular crowd led by wealthy Courtney Gripling.",
-          "answer": "What is As Told by Ginger?",
+          "question": "Described in 1880, these paraurethral glands, considered the female counterpart of the prostate, bear a gynecologist's surname.",
+          "answer": "What are Skene's glands?",
           "revealed": false
         }
       ]
@@ -221,38 +221,38 @@
   "metadata": {
     "createdBy": "AI",
     "occasion": "Adult Game Night",
-    "targetAudience": "Smart adults — internet culture natives, TV drama fans, 90s/2000s cartoon nostalgia",
+    "targetAudience": "Adults comfortable with raunchy history, anatomy, and bawdy trivia",
     "topics": [
-      "Jenna Marbles YouTube departure June 2020 backlash 20 million subscribers",
-      "Logan Paul Aokigahara forest Japan January 2018 outrage",
-      "Shane Dawson YouTube 2020 cancel wave documentary celebrity palette",
-      "PewDiePie Felix Kjellberg Disney deal 2017 Wall Street Journal anti-Semitic",
-      "Sam Pepper 2014 grabbing women harassment YouTube deplatformed",
-      "Noah Wyle The Pitt Dr. John Carter ER NBC",
-      "Max Warner Bros Discovery streaming The Pitt January 2025",
-      "The Pitt real-time format one hour per episode 15-hour shift",
-      "24 Kiefer Sutherland Jack Bauer real-time drama comparison",
-      "John Wells executive producer ER The West Wing The Pitt",
-      "42 Deep Thought Douglas Adams Hitchhiker's Guide ultimate question",
-      "Voight-Kampff test Blade Runner empathy replicant human",
-      "Soylent Green Charlton Heston 1973 human corpses food product",
-      "The Expanse James S.A. Corey protomolecule Amazon Prime solar system",
-      "Solaris Stanislaw Lem 1961 sentient ocean planet physical recreations",
-      "Whit's End ice cream discovery emporium John Avery Whittaker Adventures in Odyssey",
-      "Whit one-syllable nickname white-haired inventor Odyssey",
-      "Imagination Station Whit invention historical biblical scenarios minds",
-      "Eugene Meltsner verbose genius skeptic faith Whit's End",
-      "Focus on the Family Colorado Springs James Dobson 1977 Adventures in Odyssey",
-      "Succession Logan Roy HBO media empire four children rivalry",
-      "Shameless Gallagher Chicago South Side Frank William H. Macy 11 seasons",
-      "The Royal Tenenbaums Gene Hackman deadbeat patriarch fakes illness 2001 Wes Anderson",
-      "August Osage County Tracy Letts Pulitzer Meryl Streep 2013 Oklahoma pill-addicted mother",
-      "Flowers in the Attic V.C. Andrews 1979 siblings attic grandmother inheritance forbidden bond",
-      "Hey Arnold Nickelodeon football-shaped head Hillwood grandparents Helga",
-      "Mr. Ratburn Arthur PBS Lakewood Elementary third-grade teacher homework",
-      "Recess Disney T.J. Detweiler King Bob playground late 1990s",
-      "Doug Funnie Skeeter Nickelodeon Disney journal Patti Mayonnaise",
-      "As Told by Ginger Nickelodeon Courtney Gripling middle school social divide"
+      "I Modi Rome 1524 16 engravings",
+      "Giulio Romano Raphael pupil I Modi designer",
+      "Marcantonio Raimondi jailed Clement VII",
+      "Pietro Aretino Sonetti Lussuriosi 16 sonnets",
+      "I Modi no surviving copies zero",
+      "Kama Sutra Vatsyayana Burton 1883",
+      "Joy of Sex Alex Comfort 1972 cookbook Starters Main Courses",
+      "Perfumed Garden Sheikh Nefzawi Burton 1886",
+      "Hite Report 1976 Shere Hite 3000 questionnaires clitoral orgasm",
+      "Ananga Ranga Kalyana Malla Stage of Love 1885 Kama Shastra Society",
+      "Latin penis means tail",
+      "Priapus Greek fertility god priapism",
+      "codpiece Henry VIII 1540 tournament armor 1540s peak",
+      "tintinnabulum Roman bronze phallic wind chime evil eye",
+      "Falloppio 1564 linen condom syphilis first European description",
+      "Iceland Phallological Museum 1997 retired teacher first human specimen 2011",
+      "Argentine lake duck corkscrew penis half body length 2007 study",
+      "baculum penis bone walruses bats primates humans lack",
+      "barnacle penis eight times body length largest ratio animal kingdom",
+      "flatworm penis fencing loser carries eggs",
+      "Latin vagina sheath scabbard sword",
+      "vagina depicted as inverted penis until 17th century",
+      "clitoris Realdo Colombo De re anatomica 1559 claimed discovery",
+      "Vagina Monologues Eve Ensler October 1996 HERE Arts Center V-Day",
+      "Ernst Grafenberg G-spot 1950 urethra paper",
+      "vulva external vs vagina internal canal",
+      "labia Latin for lips",
+      "vaginal pH 3.8 to 4.5 acidic lactobacilli",
+      "Always brand Procter Gamble 1983 blue liquid ads",
+      "Skene's glands 1880 paraurethral female prostate"
     ]
   }
 }

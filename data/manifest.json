@@ -1,5 +1,5 @@
 {
-  "current": "game-022-2026-05-14",
+  "current": "game-023-2026-10-24",
   "games": [
     {
       "id": "game-hist-001-2025-12-22",
@@ -596,6 +596,22 @@
       "metadata": {
         "occasion": "Game Night",
         "targetAudience": "Smart adults — book lovers, science nerds, internet natives, and film fans",
+        "createdBy": "AI"
+      }
+    },
+    {
+      "id": "game-023-2026-10-24",
+      "title": "Below the Belt: Renaissance Edition",
+      "date": "2026-10-24",
+      "filePath": "data/games/game-023-2026-10-24.json",
+      "columns": 6,
+      "rows": 5,
+      "pointValues": [100, 200, 300, 400, 500],
+      "categoryNames": ["POSITIONS OF THE 1500s", "BEDSIDE READING", "MEMBERS ONLY", "WILD PHALLUSES", "VAGINAS THROUGH HISTORY", "LADYBITS"],
+      "topics": ["I Modi Rome 1524", "Giulio Romano", "Marcantonio Raimondi", "Pietro Aretino", "Kama Sutra Vatsyayana Burton 1883", "Joy of Sex Alex Comfort 1972", "Perfumed Garden Sheikh Nefzawi Burton 1886", "Hite Report 1976", "Ananga Ranga Kalyana Malla 1885", "Latin penis tail", "Priapus priapism", "codpiece Henry VIII", "tintinnabulum", "Falloppio condom 1564", "Iceland Phallological Museum", "Argentine lake duck corkscrew penis", "baculum", "barnacle penis", "flatworm penis fencing", "Latin vagina sheath", "vagina inverted penis", "clitoris Colombo 1559", "Vagina Monologues Eve Ensler 1996", "Ernst Grafenberg G-spot", "vulva", "labia Latin lips", "vaginal pH acidic", "Always P&G 1983 blue liquid", "Skene's glands"],
+      "metadata": {
+        "occasion": "Adult Game Night",
+        "targetAudience": "Adults comfortable with raunchy history, anatomy, and bawdy trivia",
         "createdBy": "AI"
       }
     }
