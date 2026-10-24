@@ -1,5 +1,5 @@
 {
-  "current": "game-023-2026-10-24",
+  "current": "game-024-2026-10-24",
   "games": [
     {
       "id": "game-hist-001-2025-12-22",
@@ -612,6 +612,22 @@
       "metadata": {
         "occasion": "Adult Game Night",
         "targetAudience": "Adults comfortable with raunchy history, anatomy, and bawdy trivia",
+        "createdBy": "AI"
+      }
+    },
+    {
+      "id": "game-024-2026-10-24",
+      "title": "Bodies, Betrayals & Bangers",
+      "date": "2026-10-24",
+      "filePath": "data/games/game-024-2026-10-24.json",
+      "columns": 6,
+      "rows": 5,
+      "pointValues": [100, 200, 300, 400, 500],
+      "categoryNames": ["BIRTH & BONES", "WAIST NOT, WANT NOT", "BACKSTABBERS CLUB", "HITS OF THREE DECADES", "SCI-FI HEARTS", "TIME CAPSULE"],
+      "topics": ["amniotic sac water breaking", "gluteus maximus largest muscle", "Braxton Hicks contractions 1872", "stapes smallest bone 3mm", "hyoid bone U-shaped neck", "Weight Watchers Jean Nidetch 1963 Points", "Mediterranean diet US News #1", "Master Cleanse Beyonce Dreamgirls 2006", "fen-phen FDA 1997 heart valve damage", "Mounjaro tirzepatide first dual GIP GLP-1 Zepbound", "Judas Iscariot 30 pieces of silver kiss", "Benedict Arnold West Point 1780", "Regina George Mean Girls Burn Book", "gaslighting 1944 film", "Absalom King David oak tree hair", "Uptown Funk Mark Ronson Bruno Mars 14 weeks", "Barbie Girl Aqua Danish-Norwegian 1997", "Livin' la Vida Loca Ricky Martin 1999 Latin explosion", "Hollaback Girl Gwen Stefani first million paid downloads", "Bitter Sweet Symphony The Verve Stones sample 2019", "Avatar 2009 Pandora highest-grossing", "Eternal Sunshine of the Spotless Mind 2004", "Her 2013 Spike Jonze OS", "Arrival 2016 heptapods Amy Adams", "Children of Men 2006 Cuaron infertility", "Blockbuster Bend Oregon last store", "Clippy Clippit Office 97", "TRL Carson Daly Times Square", "FarmVille Zynga 83 million peak", "Winamp Nullsoft llama AOL"],
+      "metadata": {
+        "occasion": "Game Night",
+        "targetAudience": "Millennial adults (late 80s born)",
         "createdBy": "AI"
       }
     }

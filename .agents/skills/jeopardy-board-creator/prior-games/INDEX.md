@@ -42,7 +42,8 @@ This file is the AI's memory for game creation overlap prevention.
 || 020 | [game-020-2026-05-14](./game-020-2026-05-14.md) | 2026-05-14 | Tides, Tears & the Spice Must Flow | MARINE BIOLOGY, DUNE, AUTHORS OF THE 1500S, FAN FICTION, YOUTUBE STARS, MOVIES THAT MAKE YOU CRY | Game Night |
 || 021 | [game-021-2026-05-14](./game-021-2026-05-14.md) | 2026-05-14 | After Dark: No Filter Edition | BETWEEN THE SHEETS, THAT'S NO MOON, THAT'S REPULSIVE, DIRECTIONER ERA, VIRAL HALL OF FAME, HOLD MY BEER | Adult Game Night |
 || 022 | [game-022-2026-05-14](./game-022-2026-05-14.md) | 2026-05-14 | Cancelled, Dysfunctional & Definitely Watching | LOGGED OFF FOR GOOD, THE PITT, FINAL FRONTIER, WHIT'S END, HOME IS WHERE THE HURT IS, MEET ME AT THE PLAYGROUND | Adult Game Night |
-|| 023 | [game-023-2026-10-24](./game-023-2026-10-24.md) | 2026-10-24 | Below the Belt: Renaissance Edition | POSITIONS OF THE 1500s, BEDSIDE READING, MEMBERS ONLY, WILD PHALLUSES, VAGINAS THROUGH HISTORY, LADYBITS | Adult Game Night (current) |
+|| 023 | [game-023-2026-10-24](./game-023-2026-10-24.md) | 2026-10-24 | Below the Belt: Renaissance Edition | POSITIONS OF THE 1500s, BEDSIDE READING, MEMBERS ONLY, WILD PHALLUSES, VAGINAS THROUGH HISTORY, LADYBITS | Adult Game Night |
+|| 024 | [game-024-2026-10-24](./game-024-2026-10-24.md) | 2026-10-24 | Bodies, Betrayals & Bangers | BIRTH & BONES, WAIST NOT WANT NOT, BACKSTABBERS CLUB, HITS OF THREE DECADES, SCI-FI HEARTS, TIME CAPSULE | Game Night (current) |
 
 ---
 
@@ -443,5 +444,23 @@ Use this to quickly spot conflicts. Topics listed here have already been used as
 ### Vagina History, Culture & Anatomy -- added game-023
 - Latin vagina sheath scabbard close-fitting cover for sword blade, pre-17th-century medical texts depicted vagina as penis turned inside out Galen one-sex model Vesalius 1543, clitoris Realdo Colombo De re anatomica 1559 claimed discovery first published detailed description priority disputed, Vagina Monologues Eve Ensler premiered October 3 1996 HERE Arts Center off-off-Broadway interviews 200 women spawned V-Day 1998, Ernst Grafenberg German-born gynecologist 1950 Role of Urethra in Female Orgasm G-spot named after him term coined 1981
 - vulva external region labia clitoris vs vagina internal canal, labia simply Latin for lips labium, healthy vaginal pH 3.8 to 4.5 acidic lactobacilli lactic acid, Always brand Procter Gamble introduced February 1983 nationwide 1984 famous mysterious blue liquid ads red dot 2011, Skene's glands Alexander Skene described 1880 paraurethral ducts homologous prostate female prostate
+
+### Anatomy, Pregnancy & Birth -- added game-024
+- amniotic sac water breaking rupture fluid-filled membrane fetus, gluteus maximus largest muscle human body shapes buttocks, Braxton Hicks contractions harmless practice uterine contractions John Braxton Hicks first described 1872, stapes smallest bone human body about 3 mm middle ear, hyoid bone U-shaped neck bone unique no direct connection to any other bone
+
+### Diets, Fad Weight Loss & Medicine -- added game-024
+- Weight Watchers Jean Nidetch Queens housewife founded 1963 Points system, Mediterranean diet 1960s Greece Italy eating patterns consistently #1 overall US News best diets, Master Cleanse lemonade maple syrup cayenne pepper Beyonce 2006 Dreamgirls 20 lbs told Oprah, fen-phen FDA withdrew fenfluramine dexfenfluramine September 15 1997 heart valve damage phentermine remained, Mounjaro tirzepatide Eli Lilly FDA May 2022 first dual GIP GLP-1 agonist weight-loss counterpart Zepbound November 8 2023
+
+### Betrayals, Bad Friends & Family -- added game-024
+- Judas Iscariot 30 pieces of silver identified Jesus with a kiss, Benedict Arnold Revolutionary War general plotted surrender West Point British 1780 fled enemy lines, Regina George Mean Girls 2004 queen bee Burn Book Rachel McAdams, gaslighting named after 1944 MGM film Ingrid Bergman Charles Boyer husband dims lamps Patrick Hamilton 1938 play, Absalom son King David rebellion hair caught oak tree 2 Samuel 18 Joab
+
+### Music Hits (90s-2010s) -- added game-024
+- Uptown Funk Mark Ronson Bruno Mars 14 consecutive weeks #1 Hot 100 January-April 2015 #1 year-end 2015, Barbie Girl Aqua Danish-Norwegian April 1997 Mattel sued lost 9th Circuit 2002, Livin' la Vida Loca Ricky Martin lead single March 1999 five weeks #1 launched Latin pop explosion, Hollaback Girl Gwen Stefani 2005 first song one million paid digital downloads US Guinness cheerleader video four weeks #1, Bitter Sweet Symphony The Verve 1997 Andrew Oldham Orchestra The Last Time sample Klein ABKCO Jagger Richards credits royalties returned Richard Ashcroft May 2019
+
+### Sci-Fi & Romance Films (2000s+) -- added game-024
+- Avatar James Cameron 2009 moon Pandora $2.92B highest-grossing film all time reclaimed from Endgame 2021, Eternal Sunshine of the Spotless Mind 2004 Gondry Kaufman Lacuna Inc Jim Carrey Kate Winslet title Alexander Pope 1717 Eloisa to Abelard, Her 2013 Spike Jonze wrote directed Joaquin Phoenix letter writer Scarlett Johansson OS Best Original Screenplay Oscar, Arrival 2016 Denis Villeneuve Amy Adams linguist Louise Banks seven-limbed heptapods Ted Chiang Story of Your Life, Children of Men 2006 Alfonso Cuaron set 2027 two decades human infertility refugee Kee first pregnant woman 18 years Clive Owen
+
+### Nostalgia (90s-2010s) -- added game-024
+- Blockbuster video rental peak about 9000 stores 2004 bankruptcy 2010 last US store 2018 and world 2019 Bend Oregon still open, Clippy Clippit Office Assistant debuted Office 97 November 1996 Kevan Atteberry It looks like you're writing a letter, TRL Total Request Live premiered September 14 1998 Carson Daly glass studio 1515 Broadway Times Square ran to November 2008, FarmVille Zynga launched June 19 2009 Facebook peak 83.76 million monthly players March 2010, Winamp Nullsoft released April 21 1997 Justin Frankel Dmitry Boldyrev really whips the llama's ass Wesley Willis AOL bought Nullsoft June 1999
 
 *Append new rows to the Game Registry table and new topics to the Cross-Game Topic Map each time a game is created.*

@@ -1,0 +1,258 @@
+{
+  "id": "game-024-2026-10-24",
+  "title": "Bodies, Betrayals & Bangers",
+  "date": "2026-10-24",
+  "description": "Bodies and babies, diet disasters, famous backstabs, three decades of bangers, sci-fi love stories, and 90s–2010s nostalgia — every fact web-verified.",
+  "columns": 6,
+  "rows": 5,
+  "pointValues": [100, 200, 300, 400, 500],
+  "categories": [
+    {
+      "name": "BIRTH & BONES",
+      "questions": [
+        {
+          "points": 100,
+          "question": "The event known as 'water breaking' is the rupture of this fluid-filled membrane surrounding the fetus.",
+          "answer": "What is the amniotic sac?",
+          "revealed": false
+        },
+        {
+          "points": 200,
+          "question": "This largest muscle in the human body forms the shape of the buttocks.",
+          "answer": "What is the gluteus maximus?",
+          "revealed": false
+        },
+        {
+          "points": 300,
+          "question": "These harmless 'practice' uterine contractions during pregnancy are named after an English physician who first described them in 1872.",
+          "answer": "What are Braxton Hicks contractions?",
+          "revealed": false
+        },
+        {
+          "points": 400,
+          "question": "About 3 millimeters long, this middle ear bone is the smallest in the human body.",
+          "answer": "What is the stapes?",
+          "revealed": false
+        },
+        {
+          "points": 500,
+          "question": "This U-shaped bone in the neck is unique because it doesn't connect directly to any other bone.",
+          "answer": "What is the hyoid bone?",
+          "revealed": false
+        }
+      ]
+    },
+    {
+      "name": "WAIST NOT, WANT NOT",
+      "questions": [
+        {
+          "points": 100,
+          "question": "Queens housewife Jean Nidetch founded this weight-loss company in 1963; it later became famous for a Points system.",
+          "answer": "What is Weight Watchers?",
+          "revealed": false
+        },
+        {
+          "points": 200,
+          "question": "This evidence-backed diet, inspired by 1960s Greece and Italy eating patterns, consistently ranks #1 overall in US News' best diets.",
+          "answer": "What is the Mediterranean diet?",
+          "revealed": false
+        },
+        {
+          "points": 300,
+          "question": "Beyoncé drank this lemonade, maple syrup and cayenne pepper detox for a 2006 film role.",
+          "answer": "What is the Master Cleanse?",
+          "revealed": false
+        },
+        {
+          "points": 400,
+          "question": "The FDA pulled half of this 1990s miracle diet-drug duo in 1997 after reports of heart valve damage.",
+          "answer": "What is fen-phen?",
+          "revealed": false
+        },
+        {
+          "points": 500,
+          "question": "Eli Lilly makes this diabetes drug — the first dual GIP and GLP-1 agonist — whose weight-loss counterpart is Zepbound.",
+          "answer": "What is Mounjaro (tirzepatide)?",
+          "revealed": false
+        }
+      ]
+    },
+    {
+      "name": "BACKSTABBERS CLUB",
+      "questions": [
+        {
+          "points": 100,
+          "question": "For 30 pieces of silver, this disciple identified Jesus to authorities with a kiss.",
+          "answer": "Who is Judas Iscariot?",
+          "revealed": false
+        },
+        {
+          "points": 200,
+          "question": "This Revolutionary War general plotted to surrender West Point to the British in 1780 before fleeing to enemy lines.",
+          "answer": "Who is Benedict Arnold?",
+          "revealed": false
+        },
+        {
+          "points": 300,
+          "question": "This Mean Girls queen bee terrorizes her school with a vicious notebook called the Burn Book.",
+          "answer": "Who is Regina George?",
+          "revealed": false
+        },
+        {
+          "points": 400,
+          "question": "Named after a 1944 film in which a husband dims the lamps, this tactic makes victims doubt reality.",
+          "answer": "What is gaslighting?",
+          "revealed": false
+        },
+        {
+          "points": 500,
+          "question": "This son of King David led a rebellion and met his end when his hair caught in an oak tree.",
+          "answer": "Who is Absalom?",
+          "revealed": false
+        }
+      ]
+    },
+    {
+      "name": "HITS OF THREE DECADES",
+      "questions": [
+        {
+          "points": 100,
+          "question": "Mark Ronson and Bruno Mars topped the charts for 14 weeks with this funk smash — 'Don't believe me, just watch.'",
+          "answer": "What is 'Uptown Funk'?",
+          "revealed": false
+        },
+        {
+          "points": 200,
+          "question": "Danish-Norwegian group Aqua sang this 1997 hit — 'You can brush my hair, undress me everywhere.'",
+          "answer": "What is 'Barbie Girl'?",
+          "revealed": false
+        },
+        {
+          "points": 300,
+          "question": "This first single from Ricky Martin's 1999 English-language album is credited with launching the Latin pop explosion in America.",
+          "answer": "What is 'Livin' la Vida Loca'?",
+          "revealed": false
+        },
+        {
+          "points": 400,
+          "question": "Gwen Stefani's 2005 cheerleader-style stomp was the first song to sell one million paid digital downloads in the U.S.",
+          "answer": "What is 'Hollaback Girl'?",
+          "revealed": false
+        },
+        {
+          "points": 500,
+          "question": "The Verve lost all royalties to this 1997 hit over a Stones sample dispute until rights returned in 2019.",
+          "answer": "What is 'Bitter Sweet Symphony'?",
+          "revealed": false
+        }
+      ]
+    },
+    {
+      "name": "SCI-FI HEARTS",
+      "questions": [
+        {
+          "points": 100,
+          "question": "James Cameron's 2009 epic set on the moon Pandora became the highest-grossing film of all time.",
+          "answer": "What is Avatar?",
+          "revealed": false
+        },
+        {
+          "points": 200,
+          "question": "In this 2004 film, Jim Carrey hires a firm to erase memories of his ex, played by Kate Winslet.",
+          "answer": "What is Eternal Sunshine of the Spotless Mind?",
+          "revealed": false
+        },
+        {
+          "points": 300,
+          "question": "In this 2013 film, Joaquin Phoenix's writer falls for an OS voiced by Scarlett Johansson.",
+          "answer": "What is Her?",
+          "revealed": false
+        },
+        {
+          "points": 400,
+          "question": "In this 2016 Denis Villeneuve film, Amy Adams' linguist tries to communicate with seven-limbed aliens called heptapods.",
+          "answer": "What is Arrival?",
+          "revealed": false
+        },
+        {
+          "points": 500,
+          "question": "In this 2006 Alfonso Cuarón film, two decades of infertility have left humanity childless — until a woman becomes pregnant.",
+          "answer": "What is Children of Men?",
+          "revealed": false
+        }
+      ]
+    },
+    {
+      "name": "TIME CAPSULE",
+      "questions": [
+        {
+          "points": 100,
+          "question": "At its peak this video rental chain had about 9,000 stores; today just one U.S. location remains, in Bend, Oregon.",
+          "answer": "What is Blockbuster?",
+          "revealed": false
+        },
+        {
+          "points": 200,
+          "question": "Introduced with Office 97, this animated paperclip asked, 'It looks like you're writing a letter.'",
+          "answer": "What is Clippy (Clippit)?",
+          "revealed": false
+        },
+        {
+          "points": 300,
+          "question": "From an MTV studio in Times Square, Carson Daly hosted this countdown show while fans screamed outside the window.",
+          "answer": "What is TRL (Total Request Live)?",
+          "revealed": false
+        },
+        {
+          "points": 400,
+          "question": "Zynga's 2009 Facebook game had players tending virtual crops and nagging friends for help; at peak, 83 million monthly players.",
+          "answer": "What is FarmVille?",
+          "revealed": false
+        },
+        {
+          "points": 500,
+          "question": "Nullsoft's 1997 MP3 player promised that it 'really whips the llama's ass' — until AOL bought and sidelined it.",
+          "answer": "What is Winamp?",
+          "revealed": false
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "createdBy": "AI",
+    "occasion": "Game Night",
+    "targetAudience": "Millennial adults (late 80s born)",
+    "topics": [
+      "amniotic sac water breaking rupture membrane",
+      "gluteus maximus largest muscle buttocks",
+      "Braxton Hicks contractions 1872 English physician practice contractions",
+      "stapes smallest bone 3mm middle ear",
+      "hyoid bone U-shaped neck no direct articulation",
+      "Weight Watchers Jean Nidetch 1963 Queens Points system",
+      "Mediterranean diet 1960s Greece Italy US News #1",
+      "Master Cleanse lemonade maple syrup cayenne Beyonce Dreamgirls 2006",
+      "fen-phen FDA 1997 withdrawal heart valve damage",
+      "Mounjaro tirzepatide Eli Lilly first dual GIP GLP-1 agonist Zepbound",
+      "Judas Iscariot 30 pieces of silver kiss",
+      "Benedict Arnold West Point 1780 British",
+      "Regina George Mean Girls Burn Book",
+      "gaslighting 1944 film Ingrid Bergman Charles Boyer Patrick Hamilton 1938 play",
+      "Absalom King David rebellion hair oak tree 2 Samuel 18",
+      "Uptown Funk Mark Ronson Bruno Mars 14 weeks #1",
+      "Barbie Girl Aqua Danish-Norwegian 1997 Mattel lawsuit",
+      "Livin' la Vida Loca Ricky Martin 1999 Latin pop explosion",
+      "Hollaback Girl Gwen Stefani 2005 first million paid downloads",
+      "Bitter Sweet Symphony The Verve Stones sample 2019 rights returned",
+      "Avatar 2009 Pandora highest-grossing film",
+      "Eternal Sunshine of the Spotless Mind 2004 Lacuna Jim Carrey Kate Winslet",
+      "Her 2013 Spike Jonze Joaquin Phoenix Scarlett Johansson OS",
+      "Arrival 2016 Villeneuve Amy Adams heptapods Ted Chiang",
+      "Children of Men 2006 Cuaron infertility Kee Clive Owen",
+      "Blockbuster 9000 stores Bend Oregon last location",
+      "Clippy Clippit Office 97 paperclip assistant",
+      "TRL Carson Daly Times Square MTV 1998-2008",
+      "FarmVille Zynga 2009 83 million peak MAU",
+      "Winamp Nullsoft 1997 llama slogan AOL 1999"
+    ]
+  }
+}
